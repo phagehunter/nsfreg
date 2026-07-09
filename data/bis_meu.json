@@ -1,0 +1,714 @@
+{
+ "list_id": "bis-meu",
+ "source_file": "Supplement No. 7 to Part 744—'Military End-User' (MEU) List.docx",
+ "extracted": "2026-07-09",
+ "count": 70,
+ "entities": [
+  {
+   "name": "Academy of Aerospace Solid Propulsion Technology (AASPT)",
+   "aliases": [],
+   "country": "China",
+   "address": "Tian Wang te Zi #1, Baqiao District, Xian, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "AECC Aero Science & Technology Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Cheng-fa Industrial Park, ShuLong Road, SanHe Block, Sichuan, Chengdu, China.",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC Aviation Power Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Xiujia Bay, Weiyong Dt., Xian 710021, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC Beijing Institute of Aeronautical. Materials",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 8 Hangcai Avenue, Beijing, Haidian District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC China Gas Turbine Establishment",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Hangkong Road, Mianyang, Sichuan Province, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC Commercial Aircraft Engine Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 3998 South Lianhua Road, Shanghai 200241, Minhang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC Harbin Dongan Engine Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 51 Baoguo Street, Haerbin 150036, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC Shenyang Liming Aero Engine Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 6 Dongta Street, Shenyang 110043, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "AECC South Industry Company Limited",
+   "aliases": [],
+   "country": "China",
+   "address": "95 Xinghua West Road, Zhuzhou 412002, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aero-Engine Company of China"
+  },
+  {
+   "name": "Anhui Yingliu Hangyuan Power",
+   "aliases": [],
+   "country": "China",
+   "address": "96 West Pihe Rd., Hengshan Town, Jiangxi, Shangrao, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "AVIC Aircraft Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Xifei Avenue, Xian 710089, Yanliang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC Chengdu Aircraft Industrial (GROUP) Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 88 Weiyi Road, Huang Tianba, Chengdu 610091, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC Flight Automatic Control Research Institute (FACRI)",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 92 Dianzi 1st Road, AVIC No 618 Institute, Xian 710065, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC General Aircraft Huanan Industry Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 999, Jinhai Middle Road, Jinwan District, Building 201Z Huhai 519040, Guangdong Province, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC General Aircraft Zhejiang Institute Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Floor 9, Building 1, 48 KeYuan Road, ZheJiang, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC International Holding Corporation",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 18 Beichen East Road, Beijing 100101 Chaoyang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "AVIC Leihua Electronic Technology Research Institute (LETRI)",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 796 Liangxi Road, Binhu District 214063, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": "Subordinate institution of Aviation Industry Corporation of China"
+  },
+  {
+   "name": "Baimtec Material Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No 5, Yongxiang North Road, Yongfeng Ind, Beijing 100094, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Beijing Aero Lever Precision Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Houju St No. 3 Changping, High Tec Park, Beijing 102200, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Beijing Ander Tech. Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. C22, Yu An Rd., Area B, Tianzhu, Beijing 101318, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020 ",
+   "notes": null
+  },
+  {
+   "name": "Beijing Guang Ming Electronics Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 41 Yu Qiao Bei Li, Tongzhou District, Beijing 101100, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Beijing Siyuan Electronic Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Satellite Building, No. 63 Zhichun Road, Haidian District, Beijing 100086, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Beijing Skyrizon Aviation Industry Investment Co., Ltd.",
+   "aliases": [
+    "Beijing Tianjiao Aviation Industry Investment Company"
+   ],
+   "country": "China",
+   "address": "21/F Tower C Zhizhen Plaza, No. 7 Zhichun Road, Haidian District, Beijing, China.",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "86 FR 4864, 1/15/2021",
+   "notes": null
+  },
+  {
+   "name": "CAST Xi'an Spaceflight Engine Factory",
+   "aliases": [
+    "7103 Factory"
+   ],
+   "country": "China",
+   "address": "7103 Factory No 6 Academy No 69, Shenzhou Second Road, Aerospace Base, Xian, China.",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Chengdu Holy Aviation Science & Tech",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 220, Tongjiang Road, Pengzhou City, Sichuan 611936, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "China Aviation Ind. Std. Parts",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 355, Baiyun S. Road, Baiyun Dist, Gui Yang 550014, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Chongqing Optel Telecom Technology Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1, 6/F, Building 7, No. 106 West Section, Jinkai Avenue, Yubei District, Chongqing, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "CSSC Xijiang Shipbuilding Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 133 Fenghuang Road, Liuzhou City, Guangxi 572000, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Elink Electronic Technology Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Room 717, Building 41, No. 8633 Zhongchun Road, Minhang District, Shanghai, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Fly Raise International Limited",
+   "aliases": [],
+   "country": "China",
+   "address": "Unit 04 7/F Bright Way Tower, No. 33 Mong Kok Road, Kowloon 999077, Hong Kong",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Fuhua Precision Man. Co",
+   "aliases": [],
+   "country": "China",
+   "address": "Fanhua Ave and Wanfoshan Rd, Taohua Ind. Park, Hefei City, Jingkai Dist, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Government Flying Service",
+   "aliases": [],
+   "country": "China",
+   "address": "18 South Perimeter Road, Hong Kong Int'l Airport, Lantau, Hong Kong",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Guangzhou Hangxin Aviation Technology Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Guangbao Road, Guangzhou Luogang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Guizhou Aviation Tech. Dev. Nat.",
+   "aliases": [],
+   "country": "China",
+   "address": "Shangbashan Road, Guiyang City, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Guizhou Liyang Intl Manufacturing Co Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Gaotie Road, Anshun City 561102 Guizhou, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Hafei Aviation Industry Co., Ltd. (HAFEI)",
+   "aliases": [],
+   "country": "China",
+   "address": "Nancheng Rd No. 2, HARBIN 150066, Heilongjiang Province, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Hangzhou Bearing Test & Research Center Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 333 Hua Feng Road, Hangzhou, Zhejiang, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Harbin General Aircraft Industry Co., Ltd.",
+   "aliases": [
+    "Harbin Hafei Aviation Industry Co. Ltd."
+   ],
+   "country": "China",
+   "address": "15 Youxie Street, Harbin 150066, Pingfang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Henan Aerospace Precision Mach",
+   "aliases": [],
+   "country": "China",
+   "address": "15 Xinnan Road, Xinyang 464000, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Hunan South General Aviation Engine Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Dongjiaduan, Hi-Tech Industry Zone, Zhuzhou, Hunan 412000, Lusong District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Jiangsu Meilong Aviation Components Co.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 88 Wufengshang Road, Suzhou, Zhenjiang 212132, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Jiatai Aircraft Equipment Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 ZhongHang Ave., Fancheng District, Xiangyang City, Hubei Province, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Jincheng Group Imp & Exp. Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Floor 26th Jincheng Plaza, 216 Middle Longpan Road, Nanjing, Jiangsu 210002, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Laboratory of Toxicant Analysis, Institute of Pharmacology and Toxicology",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 27 Taiping Road, Beijing, Haidian District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Nanjing Engineering Institute of Aircraft Systems (NEIAS)",
+   "aliases": [],
+   "country": "China",
+   "address": "33 Shuige Road, Jiangning Economic Development Zone, Nanjing 211106, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "National Satellite Meteorological Bureau",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 46 Baishiqiao Road, HaiDian District, Beijing 100081, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Second Institute of Oceanography, Ministry of Natural Resources",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 36 Baochubei Road, Hangzhou 310012, Hangzhou Xihu District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shaanxi Aero Electric Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "17th, Jinye 2 Road, Xian High Tech Zone Xian, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shaanxi Aircaft Industry Co Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "P.O. 34, Hanzhong City 723213, Shaanxi Province, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shanghai Aerospace Equip. Man.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 100 Huaning Road, Shanghai 200245, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shanghai Aircraft Design and Research Institute",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 5 Yun Jin Road, Shanghai 200232, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shanghai Aircraft Manufacturing Co. Ltd. (SAMC)",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 919 Shangfei Road, Shanghai 201324, Pudong New District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shanghai Tianlang Electronic Science Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "1500 Qinjiagang Road, Room 112 & 6, Shanghai, Pudong New Area, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shenyang Academy of Instrumentation Science Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 242, Baihai Street, Shenyang 110043, Dadong District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shenyang Aircraft Corporation",
+   "aliases": [],
+   "country": "China",
+   "address": "1 Lingbei Street, Shenyang 110000, Huanggu District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Shenyang Xizi Aviation Industry Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "76-43 Shenbei Road, Shenyang 110136, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Sichuan Hangte Aviation Tech. Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 269, 3rd Tengfei Road, Southwest Airport Economy Development Zone, Chengdu 61000, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Star Tech Aviation Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Unit E1, 15/F, 41-43 Au Pui Wan Street, On Wah IND Bldg, Shatin, New Territories, Hong Kong 999077, Hong Kong",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Sumec Instruments Equipment Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "198 Changjiang Road, 14/F Nanjing 210018, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Suzhou Eric Mechanics and Electronics Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 8 Huqiao Road, Suzhou, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Wuxi Hyatech Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 35 Xindong an Road, Wuxi, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Wuxi Paike New Mat. Tech. Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 22 Lianhe Rd., Hudai Ind. Park, Wuxi Binhu District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Wuxi Turbine Blade Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "1800 Huishan Ave., Economic Zone, Wuxi 214174, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Xac Group Aviation Electronics Import & Export Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "70# West Ave of Renmin, Xian 710089, Yanliang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "XAIC Tech (Xi'an) Industrial Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Xifei Road, Xian Yanliang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Xian Aero-Engine Controls Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "750 Daqing Road, Xian, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Xian Aircraft Industrial Company Limited",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 1 Xifei Avenue, Shanxi, Yanliang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Xi'an Xae Flying Aviation Manufacturing Technology Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No.12 Fengcheng Road, Xian 710018, Weiyang District, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Xian Xr Aero- Components Co. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "Hongqi East Road, Xian 710021, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  },
+  {
+   "name": "Yibin Sanjiang Machine Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "No. 72 MinJiangBei Road, Yibin 64407, Sichuan, China",
+   "status": null,
+   "effective_date": null,
+   "federal_register": "85 FR 83799, 12/23/2020",
+   "notes": null
+  }
+ ]
+}

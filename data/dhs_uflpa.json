@@ -1,0 +1,1635 @@
+{
+ "list_id": "dhs-uflpa",
+ "source_file": "dhs.gov/uflpa-entity-list (live fetch 2026-07-09)",
+ "extracted": "2026-07-09",
+ "count": 148,
+ "entities": [
+  {
+   "name": "Baoding LYSZD Trade and Business Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hetian Haolin Hair Accessories Co. Ltd",
+   "aliases": [
+    "Hotan Haolin Hair Accessories",
+    "Hollin Hair Accessories"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hetian Taida Apparel Co., Ltd",
+   "aliases": [
+    "Hetian TEDA Garment"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hoshine Silicon Industry (Shanshan) Co., Ltd and subsidiaries",
+   "aliases": [
+    "Hesheng Silicon Industry (Shanshan) Co"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor"
+  },
+  {
+   "name": "Xinjiang Daqo New Energy, Co. Ltd",
+   "aliases": [
+    "Xinjiang Great New Energy Co., Ltd",
+    "Xinjiang Daxin Energy Co., Ltd",
+    "Xinjiang Daqin Energy Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor"
+  },
+  {
+   "name": "Xinjiang East Hope Nonferrous Metals Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor"
+  },
+  {
+   "name": "Xinjiang GCL New Energy Material Technology, Co. Ltd",
+   "aliases": [
+    "Xinjiang GCL New Energy Materials Technology Co"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor"
+  },
+  {
+   "name": "Xinjiang Junggar Cotton and Linen Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Production and Construction Corps",
+   "aliases": [
+    "XPCC",
+    "Xinjiang Corps",
+    "Bingtuan"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(i): mines, produces, or manufactures goods in Xinjiang with forced labor; and its subordinate and affiliated entities"
+  },
+  {
+   "name": "Aksu Huafu Color Spinning Co., Ltd",
+   "aliases": [
+    "Aksu Huafu Textiles Co., Ltd",
+    "Akesu Huafu",
+    "Aksu Huafu Dyed Melange Yarn",
+    "Akesu Huafu Melange Yarn Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Anhui Xinya New Materials Co., Ltd",
+   "aliases": [
+    "Chaohu Youngor Color Spinning Technology Co., Ltd",
+    "Chaohu Xinya Color Spinning Technology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "December 11, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Baowu Group Xinjiang Bayi Iron and Steel Co., Ltd",
+   "aliases": [
+    "Xinjiang Bayi Iron and Steel Co. Ltd",
+    "Baosteel Group Xinjiang Bayi Iron and Steel Co., Ltd",
+    "Bayi Iron and Steel"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "October 3, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Camel Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 2, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Changhong Meiling Co., Ltd",
+   "aliases": [
+    "Hefei Meiling Co., Ltd",
+    "Hefei Meiling Group Holdings Limited"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "October 3, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "COFCO Sugar Holdings Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "December 11, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Dongguan Oasis Shoes Co., Ltd",
+   "aliases": [
+    "Dongguan Oasis Shoe Industry Co. Ltd",
+    "Dongguan Luzhou Shoes Co., Ltd",
+    "Dongguan Lvzhou Shoes Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Geehy Semiconductor Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Hefei Bitland Information Technology Co., Ltd",
+   "aliases": [
+    "Anhui Hefei Baolongda Information Technology",
+    "Hefei Baolongda Information Technology Co., Ltd",
+    "Hefei Bitland Optoelectronic Technology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Kashgar Construction Engineering (Group) Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 9, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "KTK Group",
+   "aliases": [
+    "Jiangsu Jinchuang Group",
+    "Jiangsu Jinchuang Holding Group",
+    "KTK Holding"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Lop County Hair Product Industrial Park",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Lop County Meixin Hair Products Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Nanjing Synergy Textiles Co., Ltd",
+   "aliases": [
+    "Nanjing Xinyi Cotton Textile Printing and Dyeing",
+    "Nanjing Xinyi Cotton Textile"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Ninestar Corporation",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "No. 4 Vocation Skills Education Training Center (VSETC)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shandong Meijia Group Co., Ltd",
+   "aliases": [
+    "Rizhao Meijia Group"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Sichuan Jingweida Technology Group Co., Ltd",
+   "aliases": [
+    "Sichuan Mianyang Jingweida Technology Co., Ltd. and JWD Technology",
+    "formerly known as Mianyang High-tech Zone Jingweida Technology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "December 11, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Tanyuan Technology Co. Ltd",
+   "aliases": [
+    "Carbon Yuan Technology",
+    "Changzhou Carbon Yuan Technology Development",
+    "Carbon Element Technology",
+    "Jiangsu Carbon Element Technology",
+    "Tanyuan Technology Development"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Western Gold Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Western Gold Hami Gold Mine Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Western Gold Karamay Hatu Gold Mine Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Energy (Group) Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Energy (Group) Real Estate Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Habahe Ashele Copper Co., Ltd",
+   "aliases": [
+    "Ashele Copper"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 9, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Jinbao Mining Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Nonferrous Metals Industry Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Production and Construction Corps (XPCC)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes; and its subordinate and affiliated entities"
+  },
+  {
+   "name": "Xinjiang Shenhuo Coal and Electricity Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Tengxiang Magnesium Products Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 9, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Tianmian Foundation Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "September 27, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Tianshan Wool Textile Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "September 27, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Zhonghe Co., Ltd",
+   "aliases": [
+    "Xinjiang Joinworld Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Zhongtai Chemical Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Zhongtai Group Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "September 27, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Xinjiang Zijin Zinc Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor; UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Zhuhai Apex Microelectronics Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai G&G Digital Technology Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai Ninestar Information Technology Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai Ninestar Management Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai Pantum Electronics Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai Pu-Tech Industrial Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Zhuhai Seine Printing Technology Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 12, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(ii): works with the XUAR government to recruit or transfer forced labor"
+  },
+  {
+   "name": "Aksu Biaoxin Fiber Co., Ltd",
+   "aliases": [
+    "Aksu Shangheng Fiber Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Anhui Yaozhiyuan Biotechnology Development Co., Ltd",
+   "aliases": [
+    "Anhui Yaozhiyuan Chinese Herbal Medicine Co., Ltd",
+    "Anhui Yaozhiyuan Chinese Medicinal Materials Co., Ltd",
+    "Anhui Yaozhiyuan Biological Technology Development Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Annan Canned Food Co., Ltd",
+   "aliases": [
+    "Nanling County Annan Canned Food Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Awati Huafu Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Baotou Meike Silicon Energy Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Binzhou Chinatex Yintai Industrial Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Century Sunshine Group Holdings, Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 9, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Changji Esquel Textile Co., Ltd",
+   "aliases": [
+    "Changji Yida Textile Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 1, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Changzhou Guanghui Food Ingredients Co., Ltd",
+   "aliases": [
+    "GSweet",
+    "Changzhou Guanghui Food Additive Co., Ltd",
+    "Changzhou Guanghui Food Technology Co., Ltd",
+    "formerly known as Changzhou Guanghui Biotechnology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "October 3, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Chenguang Biotech Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 2, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Chenguang Biotechnology Group Yanqi Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 2, 2023",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "China Cotton Group Henan Logistics Park Co., Ltd., Xinye Branch",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "China Cotton Group Nangong Hongtai Cotton Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "China Cotton Group Shandong Logistics Park Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "China Cotton Group Xinjiang Cotton Co",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Dalian Sunspeed Foods Co., Ltd",
+   "aliases": [
+    "Dalian Shengchi International Trade Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Donghai JA Solar Technology Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Esquel Group",
+   "aliases": [
+    "Esquel China Holdings Limited"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 1, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Fujian Minlong Warehousing Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Gansu Yasheng International Trading Co., Ltd",
+   "aliases": [
+    "Gansu Yasheng International Trade Co., Ltd",
+    "Yasheng International Trade",
+    "formerly known as Gansu Yasheng International Trade Group Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Guangdong Esquel Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 1, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hangzhou Union Biotechnology Co., Ltd",
+   "aliases": [
+    "Hangzhou Youer Biotechnology Co., Ltd",
+    "Youer Biotech",
+    "Union Biotech"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hebei Suguo International Trade Co., Ltd",
+   "aliases": [
+    "Suguo International"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hebei Tomato Industry Co., Ltd",
+   "aliases": [
+    "Hebei Temeite Industrial Group Co., Ltd",
+    "formerly known as Hebei Temeite International Trade Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hefei Bitland Information Technology Co. Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Henan Yumian Group Industrial Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Henan Yumian Logistics Co., Ltd",
+   "aliases": [
+    "841 Cotton Transfer Warehouse"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hengshui Cotton and Linen Corporation Reserve Library",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Heze Cotton and Linen Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Heze Cotton and Linen Economic and Trade Development Corporation",
+   "aliases": [
+    "Heze Cotton and Linen Trading Development General Company"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hongyuan Green Energy Co., Ltd",
+   "aliases": [
+    "HY Solar",
+    "Hoyuan Green Energy Co. Ltd. and formerly known as Wuxi Shangji CNC Co., Ltd",
+    "Wuxi Shangji Automation Co., Ltd",
+    "Wuxi Shangji Grinding Machine Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hongyuan New Materials (Baotou) Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hoshine Silicon Industry (Shanshan) Co., Ltd., and Subsidiaries",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Huafu Fashion Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Huangmei Xiaochi Yinfeng Cotton",
+   "aliases": [
+    "Hubei Provincial Cotton Corporation's Xiaochi Transfer Reserve"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hubei Jingtian Cotton Industry Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hubei Qirun Investment Development Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hubei Yinfeng Cotton Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hubei Yinfeng Warehousing and Logistics Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Hunan Nanmo Biotechnology Co., Ltd",
+   "aliases": [
+    "Hunan Nanmomo Technology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Huyanghe Huafu Hongsheng Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Inner Mongolia Qileyuan Food Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Inner Mongolia Xuanda Food Co., Ltd",
+   "aliases": [
+    "Xuanda Food",
+    "formerly known as Wuyuan County Xuanda Cereals, Oils and Foods Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jiangsu Meike Solar Technology Co., Ltd",
+   "aliases": [
+    "Meike Co. and formerly known as Jiangsu Gaozhao New Energy Development Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jiangsu Yinhai Nongjiale Storage Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jiangsu Yinlong Warehousing and Logistics Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jiangyin Lianyun Co. Ltd",
+   "aliases": [
+    "Jiangyin Intermodal Transport Co. and Jiangyin United Transport Co"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jiangyin Xiefeng Cotton and Linen Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jinan Haihong International Trade Co., Ltd",
+   "aliases": [
+    "Jinan Haifang Trading Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Jining Pengjie Trading Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Junan Jinsheng Import & Export Co., Ltd",
+   "aliases": [
+    "Junan County Jinsheng Import and Export Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Juye Cotton and Linen Station of the Heze Cotton and Linen Corporation",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Kingherbs Limited",
+   "aliases": [
+    "Changsha Jincao Biotechnology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Kuche Zongheng Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Kuitun Jinfu Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Lanxi Huachu Logistics Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Linxi County Fangpei Cotton Buying and Selling Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Nanyang Hongmian Logistics Co., Ltd",
+   "aliases": [
+    "Nanyang Red Cotton Logistics Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Ningbo Huafu Donghao Industrial Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Ninghai Huafu Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Qingdao Vital Nutraceutical Ingredients BioScience Co., Ltd",
+   "aliases": [
+    "Qingdao Weiyikang Biotechnology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Rare Earth Magnesium Technology Group Holdings, Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "August 9, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shanghai JUMP Machinery & Technology Co., Ltd",
+   "aliases": [
+    "Shanghai Jiapai Machinery Technology Co., Ltd",
+    "formerly known as Shanghai Chituma Food Machinery Technology Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shaya Yinhua Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shihezi Huafu Hongfeng Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shihezi Huafu Hongsheng Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shihezi Standard Fiber Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Shuangliang Silicon Materials (Baotou) Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Sichuan Yuan’an Pharmaceutical Co., Ltd",
+   "aliases": [
+    "Sichuan Yuanan Pharmaceutical Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Taiyuan Weishan International Economic Business Co., Ltd",
+   "aliases": [
+    "Taiyuan Weishan International Trade Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "The TNN Development Limited",
+   "aliases": [
+    "Dehui (Dalian) International Trade Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Tianjin Dunhe International Trade Co., Ltd",
+   "aliases": [
+    "Dunhe Foods"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Tianjin Kunyu International Co., Ltd",
+   "aliases": [
+    "China Kunyu Industrial Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Tianjin Tianwei Food Co., Ltd",
+   "aliases": [
+    "Tianjin Sanhe Fruit and Vegetable Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Turpan Esquel Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 1, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Weifang Alice Food Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Wugang Zhongchang Logistics Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Cotton Industry Group Jiashi Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Cotton Industry Group Yuepu Lake Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Daqo New Energy Co., Ltd",
+   "aliases": [
+    "Xinjiang Great New Energy Co., Ltd",
+    "Xinjiang Daxin Energy Co., Ltd",
+    "Xinjiang Daqin Energy Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Huafu Color Spinning Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Huafu Cotton Industry Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Huafu Hengfeng Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Huafu Hongfeng Agricultural Development Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Huafu Textile Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Liufu Textile Industrial Park Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Shengfu Cotton Industry Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Tianfu Cotton Supply Chain Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Tianhong Xinba Cotton Industry Co., Ltd",
+   "aliases": [
+    "Xinjiang Tianhong New Eight Cotton Industry Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Yinlong Agricultural International Cooperation Co",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "May 17, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Zefu Cotton Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Xinjiang Zijin Nonferrous Metals Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Yili Zhuowan Garment Manufacturing Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "June 21, 2022",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Zhangzhou Hang Fat Import & Export Co., Ltd",
+   "aliases": [
+    "Zhangzhou Hengfa Import and Export Co., Ltd"
+   ],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "November 25, 2024",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Zhejiang Weixin Trading Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  },
+  {
+   "name": "Zijin Mining Group Co., Ltd",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "January 15, 2025",
+   "federal_register": null,
+   "notes": "UFLPA Sec. 2(d)(2)(B)(v): sources material from Xinjiang via government labor schemes"
+  }
+ ]
+}

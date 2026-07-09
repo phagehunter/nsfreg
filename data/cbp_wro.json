@@ -1,0 +1,728 @@
+{
+ "list_id": "cbp-wro",
+ "source_file": "withhold-release-orders-findings-fy26-2026-06-23.csv",
+ "extracted": "2026-07-09",
+ "count": 67,
+ "entities": [
+  {
+   "name": "State Penitentiary, Ciudad Victoria, Tamaulipas, Mexico",
+   "aliases": [],
+   "country": "Mexico",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1953-12-28",
+   "federal_register": null,
+   "notes": "Finding; Industry: Consumer Products and Mass Merchandising; Merchandise: Furniture; Remarks: \"Customs,\" Treasury Decisions. U.S. Treasury Department 88 (1953): 416; T.D. 53408"
+  },
+  {
+   "name": "State Penitentiary, Ciudad Victoria, Tamaulipas, Mexico",
+   "aliases": [],
+   "country": "Mexico",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1958-10-29",
+   "federal_register": null,
+   "notes": "Finding; Industry: Consumer Products and Mass Merchandising; Merchandise: Furniture; Remarks: \"Customs,\" Treasury Decisions. U.S. Treasury Department 93 (1958): 517-518; T.D. 54725"
+  },
+  {
+   "name": "Xiang-Yang Machinery Plant",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1991-11-06",
+   "federal_register": null,
+   "notes": "WRO; Merchandise: Planing Machines"
+  },
+  {
+   "name": "Yunnan Machinery",
+   "aliases": [
+    "Golden Horse (JinMa) Diesel Factory",
+    "Yunnan 1st Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1991-11-14",
+   "federal_register": null,
+   "notes": "WRO; Industry: Automotive and Aerospace; Merchandise: Diesel Engines; Remarks: See China Finding."
+  },
+  {
+   "name": "Xuzhou Forging and Pressing Machine Works",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1991-12-02",
+   "federal_register": null,
+   "notes": "WRO; Industry: Machinery; Merchandise: Machine Presses; Remarks: See China Finding."
+  },
+  {
+   "name": "Shandong Laiyang Heavy Duty Machinery Factory",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-02-25",
+   "federal_register": null,
+   "notes": "WRO; Industry: Base Metals; Merchandise: Galvanized Pipe"
+  },
+  {
+   "name": "Yunnan Machinery",
+   "aliases": [
+    "Golden Horse (JinMa) Diesel Factory",
+    "Yunnan 1st Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-03-18",
+   "federal_register": null,
+   "notes": "Finding; Industry: Automotive and Aerospace; Merchandise: Diesel Engines; Remarks: \"U.S. Customs Service- Treasury Decisions ,\" Customs Bulletin 26 (1992): 85-86; T.D. 92-27See China WRO."
+  },
+  {
+   "name": "Qinghai Hide & Garment Factory",
+   "aliases": [
+    "Qinghai Leather and Wool Bedding and Garment Factory",
+    "Qinghai Fur and Cloth Factory"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-05-22",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Sheepskin and Leather; Remarks: See China Finding."
+  },
+  {
+   "name": "Miao Chi Tea Farm",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-06-26",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Tea"
+  },
+  {
+   "name": "Wang Tsang Coal and Iron Factory",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-06-26",
+   "federal_register": null,
+   "notes": "WRO; Industry: Base Metals; Merchandise: Cast Iron Items"
+  },
+  {
+   "name": "Zi Gong Machinery Factory",
+   "aliases": [
+    "Zigong Machinery Factory",
+    "Sichuan (Szechuan) Zigong Labor Reform Detachment"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-07-15",
+   "federal_register": null,
+   "notes": "WRO; Industry: Machinery; Merchandise: Drilling Machines"
+  },
+  {
+   "name": "Ya An Auto Parts Factory",
+   "aliases": [
+    "Sichuan (Szechuan) Bin-Jiang Enterprises Company"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-07-15",
+   "federal_register": null,
+   "notes": "WRO; Industry: Automotive and Aerospace; Merchandise: Auto Parts and Machinery"
+  },
+  {
+   "name": "Da Wei Chemical Factory",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-07-17",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Sulfuric (Sulphuric) Acid"
+  },
+  {
+   "name": "Sichuan (Szechuan) Xinsheng (New Life) Labor Factory",
+   "aliases": [
+    "Xinsheng (New Life) Labor Factory"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-08-03",
+   "federal_register": null,
+   "notes": "WRO; Industry: Electronics; Merchandise: Electric Fans and Zinc-Coated Wire"
+  },
+  {
+   "name": "Hsin Kang Asbestos Mine",
+   "aliases": [
+    "Sichuan (Szechuan) Pin Chiang Enterprise Company"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-08-14",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Asbestos"
+  },
+  {
+   "name": "Xuzhou Forging and Pressing Machine Works",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1992-08-14",
+   "federal_register": null,
+   "notes": "Finding; Industry: Machinery; Merchandise: Machine Presses; Remarks: \"U.S. Customs Service- Treasury Decisions ,\" Customs Bulletin 26 (1992): 251 - 253; T.D. 92-78See China WRO."
+  },
+  {
+   "name": "Qinghai Hide & Garment Factory",
+   "aliases": [
+    "Qinghai Leather and Wool Bedding and Garment Factory",
+    "Qinghai Fur and Cloth Factory"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1993-06-11",
+   "federal_register": null,
+   "notes": "Finding; Industry: Agriculture and Prepared Products; Merchandise: Sheepskin and Leather; Remarks: Federal Register: 58 FR 32745\"U.S. Customs Service - Treasury Decisions,\" Customs Bulletin 27 (1993): 148 - 150; T.D. 93-41See China WRO."
+  },
+  {
+   "name": "Wulin (or Wuling) Machinery Works",
+   "aliases": [
+    "Hangzhou Wulin Machinery Plant",
+    "Hangzhou Wulin Machinery Works",
+    "Zhejiang Province No. 4 Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1993-07-08",
+   "federal_register": null,
+   "notes": "WRO; Industry: Machinery; Merchandise: Hoists"
+  },
+  {
+   "name": "Wuyi Machinery Plant",
+   "aliases": [
+    "Zhejiang Light Duty Lifting Machinery Factory China",
+    "Zhejiang Province No. 1 Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1993-08-06",
+   "federal_register": null,
+   "notes": "WRO; Industry: Machinery; Merchandise: Hoists"
+  },
+  {
+   "name": "Shenyang New Life Rubber Factory",
+   "aliases": [
+    "Shenyang Xingsheng (or Xinsheng) (New Life) Rubber Plant",
+    "Shenyang No. 2 Laogai Detachment",
+    "Shenyang Dabei Prison",
+    "Shenyang Model Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1993-09-01",
+   "federal_register": null,
+   "notes": "WRO; Industry: Industrial and Manufacturing Materials; Merchandise: Rubber Gloves, Condoms, Rubber Raincoats, and Rubber Footwear"
+  },
+  {
+   "name": "Shenyang Xinsheng (New Life) Chemical Works",
+   "aliases": [
+    "Shenyang Dongbei Assistant Agent Main Factory",
+    "Xinsheng Chemical Factory",
+    "Shenyang No. 1 Laogai Detachment",
+    "Shenyang Reform Through Labor Second Reform Division"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1993-09-03",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Rubber Vulcanization Accelerators"
+  },
+  {
+   "name": "Fuchu Prison; Union Kogyo Co., Ltd.",
+   "aliases": [],
+   "country": "Japan",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1994-06-12",
+   "federal_register": null,
+   "notes": "WRO; Industry: Consumer Products and Mass Merchandising; Merchandise: Video Games and Connector Plugs Thereof"
+  },
+  {
+   "name": "Guangzhou No. 1 Reeducation-Through-Labor Camp",
+   "aliases": [
+    "Guangdong Province No. 1 Reeducation-Through-Labor Camp; Kwong Ngai Industrial Company"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1994-12-21",
+   "federal_register": null,
+   "notes": "WRO; Industry: Consumer Products and Mass Merchandising; Merchandise: Artificial Flowers"
+  },
+  {
+   "name": "Nanhu Tree Farm, Zhejiang Sanmei Tea Co., Ltd.; Imaizumi Tea Manufacturing & Trading Co., Ltd. (of Nagoya, Japan)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1995-04-27",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Tea"
+  },
+  {
+   "name": "Tianjin Malleable Iron Factory",
+   "aliases": [
+    "Tianjin Tongbao Fittings Company",
+    "Tianjin No. 2 Malleable Iron Plant",
+    "Tianjin Secondary Mugging Factory",
+    "Tianjin No. 2 Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1995-10-06",
+   "federal_register": null,
+   "notes": "WRO; Industry: Base Metals; Merchandise: Malleable Iron Pipe Fittings; Remarks: See China Finding."
+  },
+  {
+   "name": "Tianjin Malleable Iron Factory",
+   "aliases": [
+    "Tianjin Tongbao Fittings Company",
+    "Tianjin No. 2 Malleable Iron Plant",
+    "Tianjin Secondary Mugging Factory",
+    "Tianjin No. 2 Prison"
+   ],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1996-04-23",
+   "federal_register": null,
+   "notes": "Finding; Industry: Base Metals; Merchandise: Malleable Iron Pipe Fittings; Remarks: Federal Register: 61 FR 17956\"U.S. Customs Service- Treasury Decisions,\" Customs Bulletin 30 (1996): 153; T.D. 96-34See China WRO."
+  },
+  {
+   "name": "Kumar Carpet Pvt., Singhe Carpet Pvt., Ltd., Norsang Carpet Industries Pvt., Ltd., Annapurna Carpet, Everest Carpet, Valley Carpet, and K.K. Carpet Industries; Kathmandu.",
+   "aliases": [],
+   "country": "Nepal",
+   "address": null,
+   "status": "Partially Modified",
+   "effective_date": "1998-07-21",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Carpets, Hand-Knotted Wool; Remarks: CBP has removed Hand-Knotted Wool Carpets produced in Nepal from the Order that are produced by the following: Annapurna Carpet removed from the order, 7/23/2021Everest Carpet, K.K. Carpet Industries; and Norsang Carpet Industries Pvt., Ltd. removed from the order, 10/6/1998"
+  },
+  {
+   "name": "Mangalore Ganesh Beedi Works",
+   "aliases": [],
+   "country": "India",
+   "address": null,
+   "status": "Active",
+   "effective_date": "1999-11-23",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Beedi Cigarettes and Other Tobacco Products"
+  },
+  {
+   "name": "Tangshan Sanyou Group and its Subsidiaries",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Partially Modified",
+   "effective_date": "2016-03-29",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Soda Ash, Calcium Chloride, and Caustic Soda; Remarks: Viscose/Rayon Fiber removed from the order, by Commissioner Memorandum, 10/12/2016"
+  },
+  {
+   "name": "Inner Mongolia Hengzheng Group Baoanzhao Agriculture, Industry, and Trade Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2016-05-20",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Stevia and its Derivatives; Remarks: See China Finding."
+  },
+  {
+   "name": "Hongchang Fruits & Vegetable Products Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2016-09-16",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Peeled Garlic"
+  },
+  {
+   "name": "Huizhou Mink Industrial CO. Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2018-03-05",
+   "federal_register": null,
+   "notes": "WRO; Industry: All; Merchandise: All Products"
+  },
+  {
+   "name": "All Turkmenistan Cotton or products produced in whole or in part with Turkmenistan cotton.",
+   "aliases": [],
+   "country": "Turkmenistan",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2018-05-18",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Cotton"
+  },
+  {
+   "name": "Hetian Taida Apparel Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2019-09-30",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: All Garments; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Marange Diamond Fields",
+   "aliases": [],
+   "country": "Zimbabwe",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2019-09-30",
+   "federal_register": null,
+   "notes": "WRO; Industry: Industrial and Manufacturing Materials; Merchandise: Artisanal Rough Cut Diamonds"
+  },
+  {
+   "name": "Artisanal Small Mines",
+   "aliases": [],
+   "country": "Democratic Republic of Congo",
+   "address": null,
+   "status": "Partially Modified",
+   "effective_date": "2019-09-30",
+   "federal_register": null,
+   "notes": "WRO; Industry: Base Metals; Merchandise: Gold"
+  },
+  {
+   "name": "Tobacco produced in Malawi and products containing tobacco produced in Malawi",
+   "aliases": [],
+   "country": "Malawi",
+   "address": null,
+   "status": "Partially Modified",
+   "effective_date": "2019-11-01",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Tobacco; Remarks: CBP has removed tobacco and products containing tobacco produced in Malawi from the order that are produced by the following:Premium Tobacco Malawi Lt (PTML) removed from the order, 5/21/2021Limbe Leaf Tobacco Company Limited (LLTC) removed from the order, 07/31/2020Alliance One International removed from the order, 06/03/2020"
+  },
+  {
+   "name": "Hetian Haolin Hair Accessories Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-05-01",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Hair Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Lop County Meixin Hair Products Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-06-17",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Hair Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Hero Vast Group",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-08-11",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Garments"
+  },
+  {
+   "name": "Fishing Vessel: Da Wang",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-08-18",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Seafood; Remarks: See Fishing Vessels Finding."
+  },
+  {
+   "name": "No. 4 Vocational Skills Education Training Center (VSETC)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-08-25",
+   "federal_register": null,
+   "notes": "WRO; Industry: All; Merchandise: All Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Lop County Hair Product Industrial Park",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-08-25",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Hair Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Yili Zhuowan Garment Manufacturing Co., Ltd. and Baoding LYSZD Trade and Business Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-09-03",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Apparel; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Hefei Bitland Information Technology Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-09-08",
+   "federal_register": null,
+   "notes": "WRO; Industry: Electronics; Merchandise: Computer Parts; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Xinjiang Junggar Cotton and Linen Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-09-08",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Cotton and Processed Cotton; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Inner Mongolia Hengzheng Group Baoanzhao Agriculture, Industry, and Trade Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-10-20",
+   "federal_register": null,
+   "notes": "Finding; Industry: Agriculture and Prepared Products; Merchandise: Stevia Extracts and Derivatives; Remarks: Federal Register: 85 FR 66574Customs Bulletin: Vol. 54, November 4, 2020, No. 43 See China WRO."
+  },
+  {
+   "name": "Xinjiang Production and Construction Corporation (XPCC) and its subordinates",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-11-30",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Cotton and Cotton Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Fishing Vessel: Lien Yi Hsing No. 12",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2020-12-31",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Seafood"
+  },
+  {
+   "name": "Xinjiang Uyghur Autonomous Region (XUAR)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2021-01-13",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Cotton, Tomatoes and Downstream Products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Fishing Vessels owned by Dalian Ocean Fishing Co. Ltd.",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2021-05-26",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Seafood"
+  },
+  {
+   "name": "Hoshine Silicon Industry Co. Ltd. and Subsidiaries",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2021-06-23",
+   "federal_register": null,
+   "notes": "WRO; Industry: Industrial and Manufacturing Materials; Merchandise: Silica-based products; Remarks: Enforcement of WRO superseded by enforcement of UFLPA rebuttable presumption"
+  },
+  {
+   "name": "Fishing Vessel: Hangton No. 112",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2021-08-04",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Seafood"
+  },
+  {
+   "name": "Agropecuarios Tom S.A. de C.V. and Horticola Tom S.A. de C.V. and their subsidiaries",
+   "aliases": [],
+   "country": "Mexico",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2021-10-21",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Fresh Tomatoes"
+  },
+  {
+   "name": "Fishing Vessel: Da Wang",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2022-01-28",
+   "federal_register": null,
+   "notes": "Finding; Industry: Agriculture and Prepared Products; Merchandise: Seafood; Remarks: Federal Register: 87 FR 4634Customs Bulletin: Vol. 56, February 16, 2022, No. 6See Fishing Vessels WRO."
+  },
+  {
+   "name": "Shanghai Select Safety Products Company, Limited and its two subsidiaries from China, Select (Nantong) Safety Products Co. Limited and Select Protective Technology (HK) Limited.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2024-04-10",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Work Gloves"
+  },
+  {
+   "name": "Asli Maydi",
+   "aliases": [],
+   "country": "Somalia",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2024-11-01",
+   "federal_register": null,
+   "notes": "WRO; Industry: Pharmaceuticals, Health and Chemicals; Merchandise: Frankincense and frankincense-based products"
+  },
+  {
+   "name": "Kingtom Aluminio S.R.L.",
+   "aliases": [],
+   "country": "Dominican Republic",
+   "address": null,
+   "status": "Inactive-Pending Litigation",
+   "effective_date": "2024-12-04",
+   "federal_register": null,
+   "notes": "Finding; Industry: Base Metals; Merchandise: Aluminum extrusions and profile products; Remarks: Federal Register: 89 FR 96265Customs Bulletin: Vol. 58, December 18, 2024, No. 50"
+  },
+  {
+   "name": "Taepyung Salt Farm",
+   "aliases": [],
+   "country": "South Korea",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2025-04-02",
+   "federal_register": null,
+   "notes": "WRO; Industry: Industrial and Manufacturing Materials; Merchandise: Sea Salt Products"
+  },
+  {
+   "name": "Fishing Vessel: Zhen Fa 7",
+   "aliases": [],
+   "country": "Fishing Vessels",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2025-05-28",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Seafood"
+  },
+  {
+   "name": "Giant Manufacturing Co., Ltd.",
+   "aliases": [],
+   "country": "Taiwan",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2025-09-24",
+   "federal_register": null,
+   "notes": "WRO; Industry: Consumer Products and Mass Merchandising; Merchandise: Bicycles and bicycle parts"
+  },
+  {
+   "name": "Firemount Group Ltd.",
+   "aliases": [],
+   "country": "Mauritius",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2025-11-18",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Garments, apparel and textiles"
+  },
+  {
+   "name": "Linglong International Europe D.O.O. Zrenjanin",
+   "aliases": [],
+   "country": "Serbia",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2025-12-18",
+   "federal_register": null,
+   "notes": "WRO; Industry: Automotive and Aerospace; Merchandise: Automobile Tires"
+  },
+  {
+   "name": "Finca Monte Grande",
+   "aliases": [],
+   "country": "Mexico",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2026-01-29",
+   "federal_register": null,
+   "notes": "WRO; Industry: Agriculture and Prepared Products; Merchandise: Coffee"
+  },
+  {
+   "name": "Serbia Zijin Copper D.O.O..",
+   "aliases": [],
+   "country": "Serbia",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2026-06-16",
+   "federal_register": null,
+   "notes": "WRO; Industry: Base Metals; Merchandise: Copper and Copper Products"
+  },
+  {
+   "name": "Needle Craft Ltd",
+   "aliases": [],
+   "country": "Jordan",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2026-06-23",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Garments"
+  },
+  {
+   "name": "Casual Wear Apparel L.L.C.",
+   "aliases": [],
+   "country": "Jordan",
+   "address": null,
+   "status": "Active",
+   "effective_date": "2026-06-23",
+   "federal_register": null,
+   "notes": "WRO; Industry: Apparel, Footwear and Textiles; Merchandise: Garments"
+  }
+ ]
+}

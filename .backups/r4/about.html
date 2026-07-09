@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About &amp; Data — NSF Prohibition Guide (Unofficial)</title>
+<meta name="description" content="How this unofficial guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="canonical" href="https://curtishoffmann.com/nsfreg/about.html">
+<meta name="author" content="Curtis Hoffmann">
+<meta name="robots" content="index, follow">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://curtishoffmann.com/nsfreg/about.html">
+<meta property="og:title" content="About the NSF Restricted Entities Guide — data & methodology">
+<meta property="og:description" content="How this unofficial guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.">
+<meta property="og:image" content="https://curtishoffmann.com/nsfreg/assets/og-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="NSF Restricted Entities Guide — search 5,900+ entries across all 13 U.S. restricted party lists">
+<meta property="og:site_name" content="NSF Restricted Entities Guide (Unofficial)">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About the NSF Restricted Entities Guide — data & methodology">
+<meta name="twitter:description" content="How this unofficial guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.">
+<meta name="twitter:image" content="https://curtishoffmann.com/nsfreg/assets/og-card.png">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/favicon-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<div class="ribbon" role="note">
+  <div class="wrap">
+    <strong>⚠ Unofficial resource.</strong>
+    <span>This page explains exactly what this site is and — just as important — what it is not.</span>
+  </div>
+</div>
+
+<header class="site">
+  <div class="utility">
+    <div class="wrap">
+      <a class="feedback" href="https://forms.gle/FavcasB5Feao7jVG6" target="_blank" rel="noopener">Share Your Feedback ↗</a>
+    </div>
+  </div>
+  <div class="wrap masthead">
+    <a class="brand" href="index.html">
+      <span class="seal" aria-hidden="true">RE</span>
+      <span>
+        <span class="t1">NSF Restricted Entities Guide</span><br>
+        <span class="t2">Prohibition on Collaborations with Restricted Entities · DCL of July 8, 2026</span>
+      </span>
+    </a>
+    <nav class="primary" aria-label="Primary">
+      <a href="index.html">Search</a>
+      <a href="policy.html">The Policy</a>
+      <a href="lists.html">The Lists</a>
+      <a href="faq.html">FAQ</a>
+      <a href="checklist.html">Checklist</a>
+      <a href="about.html" aria-current="page">About &amp; Data</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-head">
+  <div class="wrap">
+    <h1>About this site &amp; its data</h1>
+    <p>An unofficial guide built to make one tedious thing easy: understanding which entities fall under NSF's forthcoming collaboration prohibition, and where the authoritative answers live.</p>
+  </div>
+</div>
+
+<main id="main" class="content">
+  <div class="wrap">
+
+    <h2>What this site is</h2>
+    <p>When NSF issued its <a href="https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party" target="_blank" rel="noopener">July 8, 2026 Dear Colleague Letter</a>, it pointed the research community at restricted party lists maintained by seven different federal agencies, in seven different formats, on seven different websites. This site collects a snapshot of those lists into one searchable index, explains each list in plain language, and translates the DCL into practical terms for researchers and research administrators.</p>
+
+    <h2>What this site is not</h2>
+    <div class="notice red">
+      <ul style="margin:0.4rem 0">
+        <li><strong>Not an NSF or U.S. government website.</strong> It is independently built and maintained, with no affiliation or endorsement.</li>
+        <li><strong>Not a compliance determination.</strong> A search hit is a lead to verify; a non-hit is not a clearance.</li>
+        <li><strong>Not current by definition.</strong> Every list here is a snapshot (dates below). Several source lists change monthly or more often.</li>
+        <li><strong>Not legal advice.</strong> For decisions with consequences, use the official sources, your institution's research security and export control offices, and <a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a>.</li>
+      </ul>
+    </div>
+
+    <h2>Data snapshots</h2>
+    <p>Every entry in the search index was extracted from an official publication. Per-list provenance:</p>
+    <div class="table-scroll">
+      <table class="simple" id="snapshot-table">
+        <thead><tr><th>List</th><th>Agency</th><th>Snapshot source</th><th>Entries</th><th>Official source</th></tr></thead>
+        <tbody><tr><td colspan="5">Loading…</td></tr></tbody>
+      </table>
+    </div>
+
+    <h2>Methodology &amp; limitations</h2>
+    <ul>
+      <li><strong>Extraction:</strong> structured sources (CSV, eCFR text, DOCX) were parsed directly; PDF and web sources were converted to text and parsed with per-list scripts. All scripts ship in this site's repository (<code>pipeline/</code>) so the extraction is reproducible and auditable, and per-list JSON lives in <code>data/</code>.</li>
+      <li><strong>Known limitations:</strong> PDF extraction can drop or garble characters, especially in non-Latin names; alias detection is pattern-based and imperfect; the CBP list includes long-revoked historical orders (shown with status badges); some State Department snapshots predate 2026; and entities are matched across lists by exact normalized name only, so the same organization under different spellings appears as separate results.</li>
+      <li><strong>Search:</strong> matching is normalized (case, punctuation, diacritics) substring/token matching over names and aliases, with country, address, and notes as fallback. There is no fuzzy/phonetic matching — another reason a non-hit is not a clearance.</li>
+    </ul>
+
+    <h2>Verify — always</h2>
+    <p>The official search tools and sources, in one place:</p>
+    <ul>
+      <li><a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a> — official multi-list screening tool (includes fuzzy name search)</li>
+      <li><a href="https://sanctionssearch.ofac.treas.gov/" target="_blank" rel="noopener">OFAC Sanctions List Search</a></li>
+      <li>Per-list official links — see <a href="lists.html">The Lists</a></li>
+      <li><a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener">NSF Research Security</a> · <a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a></li>
+    </ul>
+
+    <h2>Corrections</h2>
+    <p>Spotted an extraction error or a stale snapshot? Submit your feedback <a href="https://forms.gle/FavcasB5Feao7jVG6" target="_blank" rel="noopener">here</a>. You can also open an issue or pull request on this site's GitHub repository — the per-list JSON in <code>data/</code> and parsers in <code>pipeline/</code> make fixes straightforward.</p>
+
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h2>About this site</h2>
+        <p>An unofficial, community-built guide to help NSF-affiliated researchers and administrators understand and prepare for NSF's forthcoming prohibition on collaborations with restricted entities. Not affiliated with, or endorsed by, the U.S. National Science Foundation or any federal agency. Nothing here is legal advice.</p>
+        <p>Project led by <a href="https://curtishoffmann.com" target="_blank" rel="noopener">Curtis Hoffmann</a>.</p>
+      </div>
+      <div>
+        <h2>Official sources</h2>
+        <ul>
+          <li><a href="https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party" target="_blank" rel="noopener">NSF Dear Colleague Letter</a></li>
+          <li><a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener">NSF Research Security</a></li>
+          <li><a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a></li>
+          <li><a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>On this site</h2>
+        <ul>
+          <li><a href="index.html">Search the lists</a></li>
+          <li><a href="policy.html">The policy, explained</a></li>
+          <li><a href="lists.html">The 13 lists</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="checklist.html">Compliance checklist</a></li>
+        </ul>
+      </div>
+    </div>
+      <div class="share" aria-label="Share this guide">
+        <span class="share-label">Share this guide:</span>
+        <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fcurtishoffmann.com%2Fnsfreg%2F" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.03-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45z"/></svg>LinkedIn</a>
+        <a class="share-btn" href="https://bsky.app/intent/compose?text=NSF%20will%20prohibit%20collaboration%20with%20restricted%20entities%20on%20NSF-funded%20projects%20starting%20FY2027.%20Search%20all%2013%20U.S.%20restricted%20party%20lists%20in%20one%20place%3A%20https%3A%2F%2Fcurtishoffmann.com%2Fnsfreg%2F" target="_blank" rel="noopener"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 10.8c-1.09-2.12-4.06-6.07-6.82-8.02C2.53.9 1.52 1.22.86 1.52.09 1.87 0 3.05 0 3.74c0 .7.38 5.7.63 6.53.82 2.75 3.73 3.68 6.42 3.38-3.94.58-7.44 2.02-2.85 7.12 5.05 5.23 6.92-1.12 7.8-4.34.88 3.22 1.9 9.34 7.72 4.34 4.36-4.34 1.16-6.54-2.78-7.12 2.69.3 5.6-.63 6.42-3.38.25-.83.63-5.84.63-6.53 0-.7-.09-1.87-.86-2.22-.66-.3-1.67-.62-4.32 1.26C16.06 4.73 13.1 8.68 12 10.8z"/></svg>Bluesky</a>
+        <a class="share-btn" href="mailto:?subject=NSF%20Restricted%20Entities%20Guide&amp;body=NSF%20will%20prohibit%20collaboration%20with%20restricted%20entities%20on%20NSF-funded%20projects%20starting%20FY2027.%20Search%20all%2013%20U.S.%20restricted%20party%20lists%20in%20one%20place%3A%20https%3A%2F%2Fcurtishoffmann.com%2Fnsfreg%2F"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7L22 7"/></svg>Email</a>
+      </div>
+
+    <p class="fineprint">List data are snapshots of official publications and may lag the live lists. Search on this site is a convenience, not a compliance determination. Verify every result at its official source before acting.</p>
+  </div>
+</footer>
+
+<script src="assets/entities.js"></script>
+<script>
+(function () {
+  var D = window.NSF_DATA;
+  var tbody = document.querySelector("#snapshot-table tbody");
+  if (!D || !tbody) return;
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  var order = ["dow-1260h","dow-1286","bis-entity-list","bis-meu","bis-dpl","ofac-eo14032","ofac-nscmic","state-debarred-statutory","state-debarred-admin","state-nonproliferation","fcc-covered","dhs-uflpa","cbp-wro"];
+  tbody.innerHTML = order.map(function (id) {
+    var l = D.lists[id];
+    if (!l) return "";
+    var n = D.counts[id];
+    return "<tr><td>" + esc(l.short_name) + "</td><td>" + esc(l.agency_short) + "</td><td>" + esc(l.snapshot) + "</td><td>" + (n ? n.toLocaleString() : "—") +
+      '</td><td><a href="' + esc(l.official_url) + '" target="_blank" rel="noopener">' + esc(l.official_url_label) + "</a></td></tr>";
+  }).join("");
+})();
+</script>
+</body>
+</html>

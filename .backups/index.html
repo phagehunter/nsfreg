@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search Restricted Entities — NSF Prohibition Guide (Unofficial)</title>
+<meta name="description" content="Unofficial searchable guide to the U.S. restricted party lists covered by NSF's July 2026 Dear Colleague Letter prohibiting collaboration with restricted entities on NSF-funded projects.">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23162e51'/><text x='50' y='66' font-size='44' text-anchor='middle' fill='%23ffbe2e' font-family='Arial' font-weight='bold'>RE</text></svg>">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<div class="ribbon" role="note">
+  <div class="wrap">
+    <strong>⚠ Unofficial resource.</strong>
+    <span>This is a community-built guide, not a U.S. government or NSF website. Data is a snapshot and may be incomplete or out of date — always <a href="lists.html">verify with the official sources</a>.</span>
+  </div>
+</div>
+
+<header class="site">
+  <div class="wrap masthead">
+    <a class="brand" href="index.html">
+      <span class="seal" aria-hidden="true">RE</span>
+      <span>
+        <span class="t1">NSF Restricted Entities Guide</span><br>
+        <span class="t2">Prohibition on Collaborations with Restricted Entities · DCL of July 8, 2026</span>
+      </span>
+    </a>
+    <nav class="primary" aria-label="Primary">
+      <a href="index.html" aria-current="page">Search</a>
+      <a href="policy.html">The Policy</a>
+      <a href="lists.html">The Lists</a>
+      <a href="faq.html">FAQ</a>
+      <a href="checklist.html">Checklist</a>
+      <a href="about.html">About &amp; Data</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <h1>Is a collaborator, appointment, or funder on a U.S. restricted party list?</h1>
+    <p class="lede">NSF has announced that in FY2027 it will <a href="policy.html">prohibit NSF-funded collaboration</a> with entities on the U.S. restricted party lists in <a href="https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party" target="_blank" rel="noopener">its July 8, 2026 Dear Colleague Letter</a>. Search a snapshot of all of those lists in one place.</p>
+    <div class="searchbox" role="search">
+      <label for="q" class="skip-link">Search entity names</label>
+      <input type="search" id="q" placeholder="Try an organization, university, company, or person…" autocomplete="off" spellcheck="false">
+      <button class="go" aria-label="Search" onclick="document.getElementById('q').dispatchEvent(new Event('input'))">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+    </div>
+    <p class="search-hint">Try:
+      <button data-try="Huawei">Huawei</button>
+      <button data-try="Beihang University">Beihang University</button>
+      <button data-try="aviation">aviation</button>
+      <button data-try="Kaspersky">Kaspersky</button>
+    </p>
+    <div class="stats" aria-hidden="true">
+      <div class="stat"><div class="n" id="stat-entities">…</div><div class="t">entries in this snapshot</div></div>
+      <div class="stat"><div class="n">13</div><div class="t">restricted party lists</div></div>
+      <div class="stat"><div class="n">7</div><div class="t">federal agencies</div></div>
+    </div>
+  </div>
+</div>
+
+<main id="main" class="wrap">
+  <div class="filters" id="agency-filters" aria-label="Filter results by agency"></div>
+  <p class="results-meta" id="results-meta" role="status" aria-live="polite"></p>
+  <div id="results"></div>
+
+  <div class="notice">
+    <p><strong>How to read results:</strong> a match means the name appears in this snapshot of a listed source — it is a signal to investigate, not a legal determination. A <em>non-match</em> is not a clearance: entities operate under translated names, abbreviations, and subsidiaries. For anything consequential, verify at the official source linked on each result, screen the <a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a>, and involve your institution's research security office.</p>
+  </div>
+
+  <div class="two-col" style="margin-top:2rem">
+    <div class="card">
+      <h3>What's being prohibited?</h3>
+      <p>Once effective, NSF funds may not support collaboration with restricted entities or their employees, and senior/key personnel may not hold appointments with — or receive research support from — a restricted entity for the duration of their NSF award.</p>
+      <a class="btn ghost" href="policy.html">Read the policy, explained →</a>
+    </div>
+    <div class="card">
+      <h3>What should I do before FY2027?</h3>
+      <p>Inventory your collaborations, appointments, and support; screen them against the lists; and loop in your research security office. We've broken it down for researchers and administrators.</p>
+      <a class="btn ghost" href="checklist.html">Open the compliance checklist →</a>
+    </div>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h2>About this site</h2>
+        <p>An unofficial, community-built guide to help NSF-affiliated researchers and administrators understand and prepare for NSF's forthcoming prohibition on collaborations with restricted entities. Not affiliated with, or endorsed by, the U.S. National Science Foundation or any federal agency. Nothing here is legal advice.</p>
+      </div>
+      <div>
+        <h2>Official sources</h2>
+        <ul>
+          <li><a href="https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party" target="_blank" rel="noopener">NSF Dear Colleague Letter</a></li>
+          <li><a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener">NSF Research Security</a></li>
+          <li><a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a></li>
+          <li><a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>On this site</h2>
+        <ul>
+          <li><a href="policy.html">The policy, explained</a></li>
+          <li><a href="lists.html">The 13 lists</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="checklist.html">Compliance checklist</a></li>
+          <li><a href="about.html">Data &amp; methodology</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="fineprint">List data are snapshots (see <a href="about.html">per-list dates</a>) of official publications and may lag the live lists. Search on this site is a convenience, not a compliance determination. Verify every result at its official source before acting.</p>
+  </div>
+</footer>
+
+<script src="assets/entities.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

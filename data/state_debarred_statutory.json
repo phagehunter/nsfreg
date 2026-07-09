@@ -1,0 +1,8043 @@
+{
+ "list_id": "state-debarred-statutory",
+ "source_file": "Stat Debarred Parties_20250825_revised.csv",
+ "extracted": "2026-07-09",
+ "count": 779,
+ "entities": [
+  {
+   "name": "A & C International Trade, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Acety, Edwin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1975"
+  },
+  {
+   "name": "Achurra, Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Acosta, Jesus Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1968"
+  },
+  {
+   "name": "Acosta-Moctezuma, Rogelio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: December, 1978"
+  },
+  {
+   "name": "Adwani, Atallah",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems Aviation Corp.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-02-07",
+   "federal_register": "59 FR 5664",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems Aviation Corp.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-09-27",
+   "federal_register": "58 FR 50382",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems Pte. Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-02-07",
+   "federal_register": "59 FR 5664",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems Pte. Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-09-27",
+   "federal_register": "58 FR 50382",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-02-07",
+   "federal_register": "59 FR 5664",
+   "notes": null
+  },
+  {
+   "name": "Aero Systems, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-09-27",
+   "federal_register": "58 FR 50382",
+   "notes": null
+  },
+  {
+   "name": "Aguilar-Medina, Guillermo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: November, 1981"
+  },
+  {
+   "name": "Aguirre, Gabriel Justin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: February, 1987"
+  },
+  {
+   "name": "Ahmed, Tariq",
+   "aliases": [
+    "Tariq Amin",
+    "Tariq Ahmad Amin"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2004-04-02",
+   "federal_register": "69 FR 17468",
+   "notes": null
+  },
+  {
+   "name": "Ahmed, Yasmin",
+   "aliases": [
+    "Yasmin Tariq",
+    "Fatimah Mohammad"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2004-04-02",
+   "federal_register": "69 FR 17468",
+   "notes": null
+  },
+  {
+   "name": "Akem, Roger",
+   "aliases": [
+    "Akembuom, Roger"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: July, 1970"
+  },
+  {
+   "name": "Al Eyani, Fares Abdo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: January, 1983"
+  },
+  {
+   "name": "Alanis-Ortiz, Heriberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: January, 1978"
+  },
+  {
+   "name": "Aldalawi, Rawnd Khaleel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: April, 1988"
+  },
+  {
+   "name": "Alexandre, Rene",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: January, 1983"
+  },
+  {
+   "name": "Ali, Amen Ahmed",
+   "aliases": [
+    "Ali Amen Alrowhani",
+    "Amin Al Rohany",
+    "Ameen Alrohany"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1950"
+  },
+  {
+   "name": "Ali, William",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1978"
+  },
+  {
+   "name": "All Ports Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Almeida, Luis Alejandro Yanez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: October, 1988"
+  },
+  {
+   "name": "Almendarez, Maria Guadalupe",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: December, 1980"
+  },
+  {
+   "name": "AMA United Group",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Amaya-Garcia, Jaime Ariel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: April, 1959"
+  },
+  {
+   "name": "Amran, Ibrahim",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Anderson, Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Andrade, Jr., Ramon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: July, 1970"
+  },
+  {
+   "name": "Anwahi, Mohd A.M.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Apodaca, Miguel Alonso",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: February, 1987"
+  },
+  {
+   "name": "Arcila-Giraldo, Luis Fernando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Ardebili, Amir Hossein",
+   "aliases": [
+    "Amir Ahkami",
+    "Alex Dave",
+    "Arash Koren"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: July, 1974"
+  },
+  {
+   "name": "Arellano, Jonathan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1991"
+  },
+  {
+   "name": "Arguelles, Erik",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: October, 1982"
+  },
+  {
+   "name": "Arguelles, Freddy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: October, 1974"
+  },
+  {
+   "name": "Arredondo, Arnoldo Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: November, 1968"
+  },
+  {
+   "name": "Arredondo-Meza, Martin Armando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Arredondo-Sanchez, Jesus",
+   "aliases": [
+    "Jesus Arredondo"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Asad-Ghanem, Rami Najm",
+   "aliases": [
+    "Ghanem, Rami Najm"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: June, 1966"
+  },
+  {
+   "name": "Ashraf, Syed Vaqar",
+   "aliases": [
+    "Vaqar A Jaffery",
+    "Vaqar-A-Jaffery"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1945"
+  },
+  {
+   "name": "Assaf, Mahmoud Abdel-Ghani Mohammad",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Astakhov, Alexandre",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1985"
+  },
+  {
+   "name": "Atmospheric Glow Technologies, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": null
+  },
+  {
+   "name": "Avendano-Camacho, Everardo Eleazar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1980"
+  },
+  {
+   "name": "Avendano-Reyna, Miguel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: April, 1976"
+  },
+  {
+   "name": "Avilez-Mancinas, Omar Alejandro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1995"
+  },
+  {
+   "name": "Aviv, Arie",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Awer, Akeem Shonari",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: December, 1990"
+  },
+  {
+   "name": "Aydin, Oguzhan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1975"
+  },
+  {
+   "name": "Badat, Mohammad Iqbal",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Bangarie, Tse Ernest",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: August, 1975"
+  },
+  {
+   "name": "Baniameri, Davoud",
+   "aliases": [
+    "Davoud Baniamery",
+    "David Baniameri",
+    "David Baniamery"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1972"
+  },
+  {
+   "name": "Barajas, Rogelio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1967"
+  },
+  {
+   "name": "Barbieri, Frederik",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: July, 1971"
+  },
+  {
+   "name": "Bartch, Sr., Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: November, 1949"
+  },
+  {
+   "name": "Barthrop, Brian William",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: October, 1946"
+  },
+  {
+   "name": "Bazan, Armando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: October, 1963"
+  },
+  {
+   "name": "Beecroft, David",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Behrmann, Symone Morris",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Belcik, Greg Anthony",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1984"
+  },
+  {
+   "name": "Belinic, Mark",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Belski, Aliaksandr",
+   "aliases": [
+    "Alex Belski"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1980"
+  },
+  {
+   "name": "Benavides-Cira, Jose Abraham",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1984"
+  },
+  {
+   "name": "Benavides-Cira, Jose Luis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1982"
+  },
+  {
+   "name": "Benitez, Cesareo Estanislao",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Berg, H. Leonard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Bernardo, Donald V.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1938"
+  },
+  {
+   "name": "Beta Trading Company",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Bet-Air, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Bettim, Marcelo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1970"
+  },
+  {
+   "name": "Bilotta, Francesco",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Bin, Su",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1960"
+  },
+  {
+   "name": "Bishop, Brian Keith",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: November, 1973"
+  },
+  {
+   "name": "Blanco-Castillo, Jorge",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1969"
+  },
+  {
+   "name": "Bobel, Igor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1968"
+  },
+  {
+   "name": "Bocanegra, Juan Carlos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Boltutskiy, Sergey",
+   "aliases": [
+    "Siarhei Baltutski"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Botifoll, Ernesto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Boutros, Fadi",
+   "aliases": [
+    "Fadi E. Sitto",
+    "Fadi Jirjis",
+    "Fred Boutros"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Bouzas-Delie, Oliver",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1983"
+  },
+  {
+   "name": "Bowitz, Bernhard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Boye, Alhaji",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1970"
+  },
+  {
+   "name": "Boyko, Gennadiy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: February 1970"
+  },
+  {
+   "name": "Briceno, Francisco Jimenez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Brooks, Lance Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: November, 1970"
+  },
+  {
+   "name": "Brothers, Louis Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1952"
+  },
+  {
+   "name": "Broussard, John L.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Brown, Victor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: September, 1956"
+  },
+  {
+   "name": "Browning, Scott Douglas",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: April, 1977"
+  },
+  {
+   "name": "Browning, Steven Paul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1986"
+  },
+  {
+   "name": "Brunt, Paul Stuart",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: February, 1966"
+  },
+  {
+   "name": "Bryukhov, Alex",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1969"
+  },
+  {
+   "name": "Budenz, II, George Charles",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Buhler, Klaus Ernst",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-09-30",
+   "federal_register": "70 FR 57349",
+   "notes": null
+  },
+  {
+   "name": "Bujduveanu, Traian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "B�key, Murat",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: January, 1971"
+  },
+  {
+   "name": "Cabalceta, Oben",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: May, 1965"
+  },
+  {
+   "name": "Bush, Edward James",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Cabatingan, Mike Mangao",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1953"
+  },
+  {
+   "name": "Cai, Bo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1985"
+  },
+  {
+   "name": "Cai, Wentong",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1984"
+  },
+  {
+   "name": "Caldwell, Robert Thomas",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1950"
+  },
+  {
+   "name": "Callaghan, Maryanne E.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Calvillo-Colunga, Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: February, 1990"
+  },
+  {
+   "name": "Camacho, Cassandra",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1989"
+  },
+  {
+   "name": "Camaj, Rrok Martin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: July, 1985"
+  },
+  {
+   "name": "Campos-Flores, Jose Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: December, 1995"
+  },
+  {
+   "name": "Canales, Cesar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: December, 1958"
+  },
+  {
+   "name": "Cance, Benjamin James",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1984"
+  },
+  {
+   "name": "Cantu, Jesse Ivan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: December, 1986"
+  },
+  {
+   "name": "Cantu, Oscar Edwardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1980"
+  },
+  {
+   "name": "Cardoso-Arias, Guillermo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-11-16",
+   "federal_register": "70 FR 69620",
+   "notes": null
+  },
+  {
+   "name": "Caro-Dominguez, Jaime Omar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: August, 1998"
+  },
+  {
+   "name": "Carper, Charles",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: May, 1986"
+  },
+  {
+   "name": "Carrillo, Omar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Carter, Kurt",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1965"
+  },
+  {
+   "name": "Cartwright, Charles Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: October, 1988"
+  },
+  {
+   "name": "Cassidy, Kevin Jerome",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: December, 1959"
+  },
+  {
+   "name": "Cassidy, Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1999-05-11",
+   "federal_register": "64 FR 25389",
+   "notes": null
+  },
+  {
+   "name": "Castaneda, Ivon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: March, 1967"
+  },
+  {
+   "name": "Caulfield, Martyn",
+   "aliases": [
+    "Martin Caulfield",
+    "Martin Butt"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1956"
+  },
+  {
+   "name": "Celaya-Mendez, Jose Roberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1962"
+  },
+  {
+   "name": "Cenci, Anthony George",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Cervantes-Garcia, Jorge Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1986"
+  },
+  {
+   "name": "Cervantes-Sanchez, Isaac",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1981"
+  },
+  {
+   "name": "Cesena-Espericueta, Juan Jose",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1982"
+  },
+  {
+   "name": "Chan, Kwan Chun",
+   "aliases": [
+    "Jenny Chan"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Chan, Lionel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: August, 1983"
+  },
+  {
+   "name": "Chang, En-Wei Eric",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: November, 1975"
+  },
+  {
+   "name": "Chang, Huan Ling",
+   "aliases": [
+    "Alice Chang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1970"
+  },
+  {
+   "name": "Chavira, Ovet",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Chehade, Walid",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: July, 1981"
+  },
+  {
+   "name": "Chen, Hao Li",
+   "aliases": [
+    "Ali Chan"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Chen, Kan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1990"
+  },
+  {
+   "name": "Chen, Xiu Ling",
+   "aliases": [
+    "Linda Chen"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Cheng, George K.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1999-05-11",
+   "federal_register": "64 FR 25389",
+   "notes": null
+  },
+  {
+   "name": "Chico-Rodriguez, Rodrigo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1988"
+  },
+  {
+   "name": "Chicote, Carlos Alberto Dominguez",
+   "aliases": [
+    "Carlos Alberto Dominguez-Chicote"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1967"
+  },
+  {
+   "name": "Chin, See Kee",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1957"
+  },
+  {
+   "name": "Chirinos, Carlos Fernando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Chitron Electronics, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": null
+  },
+  {
+   "name": "Chornoletskyy, Ernest",
+   "aliases": [
+    "Erik Chornoletskyy"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: September, 1984"
+  },
+  {
+   "name": "Chu, Wei Jiun",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1961"
+  },
+  {
+   "name": "Chua, Henson",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: January, 1964"
+  },
+  {
+   "name": "Chun, Kue Sang",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1943"
+  },
+  {
+   "name": "Chung, Fu Chin",
+   "aliases": [
+    "Alfred Chung"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Cipriano-Sanchez, Jose",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1982"
+  },
+  {
+   "name": "Cisneros, Fidel Ignacio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: April, 1970"
+  },
+  {
+   "name": "Cisneros, Guadalupe Santos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: March, 1991"
+  },
+  {
+   "name": "Cocchiola, Jose Orence",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1986"
+  },
+  {
+   "name": "Collins-Avila, Luis Armando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1971"
+  },
+  {
+   "name": "Correa-Arango, Carlos Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Cortez, Luz Sylvia",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: April, 1976"
+  },
+  {
+   "name": "Cortez-Ordaz, Demetrio Sebastian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Cortez-Salgado, Demetrio",
+   "aliases": [
+    "Demetrio Cortez-Ordaz"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1966"
+  },
+  {
+   "name": "Cox, Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: May, 1975"
+  },
+  {
+   "name": "Curlett, Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1967"
+  },
+  {
+   "name": "Cvetkovic, Irina",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1959"
+  },
+  {
+   "name": "D'Addezio, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Dai, Jian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1985"
+  },
+  {
+   "name": "Dang, Dan Tran",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: December, 1954"
+  },
+  {
+   "name": "Danso, Ronald Adjei",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: November, 1968"
+  },
+  {
+   "name": "Davis, Kasey Ray",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: December, 1989"
+  },
+  {
+   "name": "Davis, Lawrence",
+   "aliases": [
+    "Larry Davis"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: July, 1945"
+  },
+  {
+   "name": "de Brea, Gabriela",
+   "aliases": [
+    "Gabriela Brea",
+    "Gabriela Lopez-Sosa"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-08-09",
+   "federal_register": "70 FR 46258",
+   "notes": null
+  },
+  {
+   "name": "de la Paz, Santos Isidro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1988"
+  },
+  {
+   "name": "De La Rosa, Juan Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: October, 1990"
+  },
+  {
+   "name": "De Leon, Aaron",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: November, 1988"
+  },
+  {
+   "name": "de los Santos, Maximo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Deblas, Carlos Ivan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Debose, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1982"
+  },
+  {
+   "name": "Del Fierro-Moreno, Heriberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1980"
+  },
+  {
+   "name": "Delgado, Dane Francisco",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1976"
+  },
+  {
+   "name": "Demolina, Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Depanicis, Grimm",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Devellerez, Colin J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Diab, Hicham",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: July, 1976"
+  },
+  {
+   "name": "Diabate, Yssouf",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Dibattista, Luciano",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Dibattista, Romeo",
+   "aliases": [
+    "Romero Dibattista"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Dilligas Trading Co., Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-09-22",
+   "federal_register": "57 FR 43768 (corrected by 57 FR 37184, 1992-08-18)",
+   "notes": null
+  },
+  {
+   "name": "Djuliarso, Hadianto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Dobek, Ronald Alexander",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1975"
+  },
+  {
+   "name": "Dobrogaiev, Victor",
+   "aliases": [
+    "Viktor Dobrogaiev"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: August, 1963"
+  },
+  {
+   "name": "Domingo, Jesus Pascual",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Douglas, Gwendolyn",
+   "aliases": [
+    "Gwen Douglas"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1955"
+  },
+  {
+   "name": "Drellich, Kirk",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: April, 1963"
+  },
+  {
+   "name": "Du, Gia An",
+   "aliases": [
+    "Anthony Huynh",
+    "Simon Du",
+    "Gia Simon Du"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Dube, Arick Andre",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: June, 1981"
+  },
+  {
+   "name": "Duran-Reyes, Salatiel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1971"
+  },
+  {
+   "name": "Duroseau, Jacques Yves Sebastien",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: May, 1986"
+  },
+  {
+   "name": "Durrani, Arif",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "El Mir, Nafez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: November, 1967"
+  },
+  {
+   "name": "Elian, Gilbert Oscar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1960"
+  },
+  {
+   "name": "Elizalde de Nunez, Maria Silvia",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Escamilla-Salas, Everardo Abraham",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1987"
+  },
+  {
+   "name": "Esparza-Juarez, Rogelio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1985"
+  },
+  {
+   "name": "Estrada, Juan Jose",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1968"
+  },
+  {
+   "name": "Etienne, Renald",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Euro Optics, Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": null
+  },
+  {
+   "name": "European Defense Associates",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Faal, Papa",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1968"
+  },
+  {
+   "name": "Fairchild, Robert S.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1999-05-11",
+   "federal_register": "64 FR 25389",
+   "notes": null
+  },
+  {
+   "name": "Far East Trading Company, Inc.",
+   "aliases": [
+    "FETCO, Inc."
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Farah, Eyad",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1973"
+  },
+  {
+   "name": "Fattahi, Baktash",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: June, 1972"
+  },
+  {
+   "name": "Felber, Manfred",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Felix-Canez, Alejandro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Fermanova, Anna",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: July, 1986"
+  },
+  {
+   "name": "Fernandez-Hernandez, Justo Manuel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Fishenko, Alexander",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1966"
+  },
+  {
+   "name": "Fleischer, Robert Herman",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1995"
+  },
+  {
+   "name": "Fleming, Brian Joseph",
+   "aliases": [
+    "Brian Joseph McSulla"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Flores-Demara, Cesar Augusto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: February, 1974"
+  },
+  {
+   "name": "Fonguh, Wilson Che",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: February, 1982"
+  },
+  {
+   "name": "Frank, Desmond Dinesh",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: December, 1977"
+  },
+  {
+   "name": "Fratila, Aurel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1971"
+  },
+  {
+   "name": "Fuentes, Adam Wyatt",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: November, 1983"
+  },
+  {
+   "name": "Galaxy Aviation Services",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": null
+  },
+  {
+   "name": "Gallegos-Gutierrez, Erasmo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: February, 1972"
+  },
+  {
+   "name": "Gamarra-Murillo, Carlos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-11-16",
+   "federal_register": "70 FR 69620",
+   "notes": null
+  },
+  {
+   "name": "Gammoh, Ziad Jamil",
+   "aliases": [
+    "Al Gammoh",
+    "Jamil Gammoh",
+    "Ziad Al Gammoh",
+    "Ziad Al J Gammoh",
+    "Ziad Jamil Salem Gammoh",
+    "Ziad al J Gammon",
+    "Ziad Al Jamil",
+    "Al Jamil Ziad"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Gaona-Doval, Francisco",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1968"
+  },
+  {
+   "name": "Garces, Manuel Homero",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1990"
+  },
+  {
+   "name": "Garcia, Cruz Moises",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Garcia, Hector De Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1993"
+  },
+  {
+   "name": "Garcia, Reynol",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Garcia-Nevarez, Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: August, 1955"
+  },
+  {
+   "name": "Garcia-Salazar, Roberto Carlos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Garrido, Elvin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: June, 1977"
+  },
+  {
+   "name": "Garza-Gonzalez, Ramiro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: January, 1976"
+  },
+  {
+   "name": "Garza-Lopez, Roberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1968"
+  },
+  {
+   "name": "Garza-Sanchez, Edgar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1997"
+  },
+  {
+   "name": "Garza-Solis, Jacobo Javier",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: December, 1996"
+  },
+  {
+   "name": "George, Kendall S.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1974"
+  },
+  {
+   "name": "Ghandi, Ellias Abdl Halim",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1988"
+  },
+  {
+   "name": "Ghanem, Sam Rafic",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1970"
+  },
+  {
+   "name": "Gholikhan, Shahrazad Mir",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1977"
+  },
+  {
+   "name": "Gibson, Robert Frederick",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1955"
+  },
+  {
+   "name": "Gidaro, James Charles",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: April, 1971"
+  },
+  {
+   "name": "Gilchenko, Ruslan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1976"
+  },
+  {
+   "name": "Gimenez, Juan Victorian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1983"
+  },
+  {
+   "name": "Gonzalez, Enrique Gustavo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1990"
+  },
+  {
+   "name": "Gonzalez, Issac Obed",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1989"
+  },
+  {
+   "name": "Gonzalez, Javier",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez, Joseph Esequiel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez, Jr., Gustavo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez, Neuro Enrique",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez, Octabio Merida",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez-Azuara, Ramon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez-Flores, Pedro Cayetano",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez-Martinez, Bernardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Gonzalez-Reyes, Ernesto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1961"
+  },
+  {
+   "name": "Gonzalez-Rodriguez, Josafat",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1986"
+  },
+  {
+   "name": "Gonzalez-Salinas, Jose Luis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1972"
+  },
+  {
+   "name": "Gopal, Mythili",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1970"
+  },
+  {
+   "name": "Gowadia, Noshir S.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: April, 1944"
+  },
+  {
+   "name": "Gray, Christopher M.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Green Supply, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": null
+  },
+  {
+   "name": "Greenoe, Steven Neal",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1973"
+  },
+  {
+   "name": "Grinberg, Tomer",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Groetzinger, Sanford B.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Guajardo-Silva, Obed Damian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Guerra, Claudia",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: January, 1992"
+  },
+  {
+   "name": "Guerra, Stephen Glen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1979"
+  },
+  {
+   "name": "Guillen-Cruz, Martin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: August, 1991"
+  },
+  {
+   "name": "Gutierrez-Marroquin, Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: May, 1988"
+  },
+  {
+   "name": "Guzman, Paul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Guzman, Yhoshua",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1995"
+  },
+  {
+   "name": "Hall, Terrence",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Haller, Alan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2004-04-02",
+   "federal_register": "69 FR 17468",
+   "notes": null
+  },
+  {
+   "name": "Hamade, Usama Darwich",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: December, 1964"
+  },
+  {
+   "name": "Hammond, Mark Anthony",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1980"
+  },
+  {
+   "name": "Haneef, Louis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Harms, Alfred Peter",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Hasbun-Villarreal, Roberto Carlo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1973"
+  },
+  {
+   "name": "He, Philip Chaohui",
+   "aliases": [
+    "Philip Hope",
+    "Philip Chaohui"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1969"
+  },
+  {
+   "name": "Heldewier, Edouard Michel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Helmuth, Robert Eugene",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Hendron, Ronald",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Henry, Mark",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1963"
+  },
+  {
+   "name": "Hercaire International",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Hernandez, Adrian Manuel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Hernandez, Benjamin Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: July, 1983"
+  },
+  {
+   "name": "Hernandez, Ernesto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Hernandez, Fidel Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: February, 1973"
+  },
+  {
+   "name": "Hernandez-Bravo, Oscar",
+   "aliases": [
+    "Oscar Bravo Hernandez"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1971"
+  },
+  {
+   "name": "Hernandez-Hernandez, Luis Miguel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Hernandez-Ochoa, Jose Luis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Hernandez-Vallejo, Marco Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: September, 1992"
+  },
+  {
+   "name": "Herz, Adam Al",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1994"
+  },
+  {
+   "name": "Herz, Ali Afif Al",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1965"
+  },
+  {
+   "name": "Herz, Bassem Afif",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1985"
+  },
+  {
+   "name": "Heubschmann, Andy Lloyd",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: November 1959"
+  },
+  {
+   "name": "Hierax Co. Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-09-27",
+   "federal_register": "58 FR 50382",
+   "notes": null
+  },
+  {
+   "name": "Hierax Company Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-02-07",
+   "federal_register": "59 FR 5664",
+   "notes": null
+  },
+  {
+   "name": "Higuera, Julian Alonso",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: October, 1990"
+  },
+  {
+   "name": "Hill, Elmer",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1947"
+  },
+  {
+   "name": "Ho, Chou Fu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1971"
+  },
+  {
+   "name": "Hoang, Phong",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Hoffman, Ronald J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-11-02",
+   "federal_register": "58 FR 58586",
+   "notes": null
+  },
+  {
+   "name": "Hoffmann, Herbert J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Homayouni, Saeed",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Horng, Jyimin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1955"
+  },
+  {
+   "name": "Hsu, Eugene Yon-Tsai",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Huerta, Jr., Rene",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1972"
+  },
+  {
+   "name": "Hukic, Bajro",
+   "aliases": [
+    "Bob Hukic",
+    "Bab Hucici"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Huynh, Liem Duc",
+   "aliases": [
+    "Duc Huynh"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1959"
+  },
+  {
+   "name": "Ibarra-Sanchez, Octavio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1984"
+  },
+  {
+   "name": "Ibe, Boniface",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1961"
+  },
+  {
+   "name": "Iida, Tsutomu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805 (corrected by 58 FR 58586, 1993-11-02)",
+   "notes": null
+  },
+  {
+   "name": "Inami, Sotaro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Inzunza, Shirley Trinity",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: January, 1994"
+  },
+  {
+   "name": "Iracheta-Delgado, Amado",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Issa, Jean Youssef",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: June, 1974"
+  },
+  {
+   "name": "Ivy, Robert Clyde",
+   "aliases": [
+    "Greenleaf"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1997-06-20",
+   "federal_register": "62 FR 33694",
+   "notes": null
+  },
+  {
+   "name": "Jamison, Phillip Andro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1980"
+  },
+  {
+   "name": "Jangraw, Justin Gage",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1980"
+  },
+  {
+   "name": "Jardine, Erika",
+   "aliases": [
+    "Eriklynn Pattie Jardine",
+    "Erika Pattie Jardine"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Jarema, John",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Jerez, Francisco Ernesto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Jetborne, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Johnson, Edward A.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1996-06-12",
+   "federal_register": "61 FR 29784",
+   "notes": null
+  },
+  {
+   "name": "Johnson, Kellen Lamon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Jones, Dennis Ritiche",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Jorgensen, Stephen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Joseph, Junior Joel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: February, 1978"
+  },
+  {
+   "name": "Justice, Gregory Allen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1966"
+  },
+  {
+   "name": "Kal Nelson Aviation, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Kangarloo, Hassan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Katsaras, Constantinos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Kelley, David Ray",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1969"
+  },
+  {
+   "name": "Kem and Associates, Incorporated",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Keshari, Hassan Saied",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1960"
+  },
+  {
+   "name": "Khalil, Naji Antoine Abi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Khan, Amanullah",
+   "aliases": [
+    "Anthony Fernandez",
+    "Steven Joseph",
+    "Robert Joseph",
+    "Gerald Jousuf",
+    "Solomon Jousuf",
+    "Amanullah Kahn",
+    "Aman Khan",
+    "Aman Ullah Khan",
+    "Amanulla Khan",
+    "Amanullah J. Khan",
+    "Armand Khan",
+    "George Paal",
+    "Joseph Salmon",
+    "Jousuf Solomon",
+    "Yousuf Solomon",
+    "Joseph Sulman",
+    "Solomon Yousef"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1949"
+  },
+  {
+   "name": "Khan, Tanzeem A.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Khan, Tauquir A.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Kharabadze, Ioseb",
+   "aliases": [
+    "Soso Kharabadze"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Khazaee, Mozaffar",
+   "aliases": [
+    "Mozzaffar Khazaee",
+    "Arash Khazaie"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1954"
+  },
+  {
+   "name": "Kim, Gong",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1971"
+  },
+  {
+   "name": "Kim, Song Il",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Kim, Young Su",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1953"
+  },
+  {
+   "name": "Kingery, Jean Baptiste",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1970"
+  },
+  {
+   "name": "Kitundu, Michael Nathan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Klongsirithaworn, Siripong",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1986"
+  },
+  {
+   "name": "Knapp, Marc",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: December, 1974"
+  },
+  {
+   "name": "Kocurek, III, Louis J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Kohlke, Gunther",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Kohn, Leib",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-09-11",
+   "federal_register": "72 FR 51885",
+   "notes": null
+  },
+  {
+   "name": "Kolsuz, Hamza",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1973"
+  },
+  {
+   "name": "Komoroski, Mark",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: July, 1962"
+  },
+  {
+   "name": "Koyshman, Josef",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: June, 1967"
+  },
+  {
+   "name": "Kraegel, Connor H.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1990"
+  },
+  {
+   "name": "Kuok, Chi Tong",
+   "aliases": [
+    "Edison Kuok",
+    "Eddy Kuok",
+    "James Kuok",
+    "Yoko Chong",
+    "Yoko Kawasaki"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1967"
+  },
+  {
+   "name": "Kuznetsov, Vladimir",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: October, 1961"
+  },
+  {
+   "name": "Kvinikadze, Roman Georgiyevich",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1981"
+  },
+  {
+   "name": "L&M Manufacturing Corporation",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Lakhani, Hemant",
+   "aliases": [
+    "Hemad Lakhani"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Lalsingh, Bertrand",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: January, 1976"
+  },
+  {
+   "name": "Langley, Hilton",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Lara, Jose",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: October, 1983"
+  },
+  {
+   "name": "Larios, Jr., Gregorio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: November, 1980"
+  },
+  {
+   "name": "Lavi, Parviz",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1999-05-11",
+   "federal_register": "64 FR 25389",
+   "notes": null
+  },
+  {
+   "name": "LaVista, Paul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Leal-Cedillo, Nestor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1990"
+  },
+  {
+   "name": "Lee, James",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Lekhakul, Nares",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1977"
+  },
+  {
+   "name": "Lekhakul, Naris",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1970"
+  },
+  {
+   "name": "Lerma, Luis Manuel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: September, 1993"
+  },
+  {
+   "name": "Leyva-Angiano, Pablo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: March, 1983"
+  },
+  {
+   "name": "Li, Jin Ping",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Li, Li",
+   "aliases": [
+    "Lea Li"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: April, 1978"
+  },
+  {
+   "name": "Li, Qingshan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: February, 1985"
+  },
+  {
+   "name": "Liang, Xiuwen",
+   "aliases": [
+    "Jennifer Liang",
+    "Jennifer Zhuang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-11-16",
+   "federal_register": "70 FR 69620",
+   "notes": null
+  },
+  {
+   "name": "Licona-Cruz, Jose Fernando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: October, 1984"
+  },
+  {
+   "name": "Lin, Zhifu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1986"
+  },
+  {
+   "name": "Lisbona, Leon Albert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Liu, Sixing",
+   "aliases": [
+    "Steve Liu"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: May, 1963"
+  },
+  {
+   "name": "Long, Yu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1977"
+  },
+  {
+   "name": "Lopez-Estrada, Jesus Humberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1978"
+  },
+  {
+   "name": "Lopez-Gonsales, Genaro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Lopez-Hernandez, Juan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: March, 1968"
+  },
+  {
+   "name": "Lopez-Lopez, Pedro Javier",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Lopez-Martinez, Juan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: November, 1963"
+  },
+  {
+   "name": "Lopez-Medina, Sergio Rafael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1990"
+  },
+  {
+   "name": "Louw, Willem",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Loya, Miguel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Luba, Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1966"
+  },
+  {
+   "name": "Lucio-Amador, Guadalupe Edgar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1978"
+  },
+  {
+   "name": "Luque, Barbara Jo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: May, 1957"
+  },
+  {
+   "name": "Magallan, Jr., Gregorio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: July, 1988"
+  },
+  {
+   "name": "Mak, Chi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1940"
+  },
+  {
+   "name": "Mak, Tai Wang",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: October, 1949"
+  },
+  {
+   "name": "Malik, Kamran Ashfaq",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1978"
+  },
+  {
+   "name": "Malloy, Daniel A.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Malone, Charles Farrell",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Man, Cho Yan Nathan; a.k.a Nathan Man",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: December, 1985"
+  },
+  {
+   "name": "Man, Wenxia",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1970"
+  },
+  {
+   "name": "Mancho, Godlove",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: November, 1978"
+  },
+  {
+   "name": "Manuel, Cedric Lloyd",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: November, 1970"
+  },
+  {
+   "name": "Maralit, Rex Gene",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1979"
+  },
+  {
+   "name": "Maralit, Wilfredo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1965"
+  },
+  {
+   "name": "Margaillon-Drabos, Luis Hector",
+   "aliases": [
+    "Pedro Marquez-Monreal",
+    "Luis Hector Margaillon",
+    "Jose Olivarez-Martinez"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Maricola, David L.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1955"
+  },
+  {
+   "name": "Mart Haller Incorporated",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2004-04-02",
+   "federal_register": "69 FR 17468",
+   "notes": null
+  },
+  {
+   "name": "Martinez, Romolo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Martinez-Bernache, Mario Julian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1989"
+  },
+  {
+   "name": "Martinez-Carrillo, Pedro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Martinez-Martinez, Erick Gerardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: November, 1988"
+  },
+  {
+   "name": "Mathers, Ryan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: November, 1987"
+  },
+  {
+   "name": "Maynard, Miles Andrew",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "McColgan, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "McGuinn, Thomas",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "McTavish, John J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Medina, Enrique",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1978"
+  },
+  {
+   "name": "Mejia, Genaro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Mejia, Kevin Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1986"
+  },
+  {
+   "name": "Mejia, Osmar D.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1976"
+  },
+  {
+   "name": "Mejias, Eduardo Marin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Melendez-Jimenez, Rosa Maria",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1962"
+  },
+  {
+   "name": "Menegazzo-Carrasquel, Guiseppe Luciano",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1964"
+  },
+  {
+   "name": "Meng, Xiaodong Sheldon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: January, 1964"
+  },
+  {
+   "name": "Mexpar International, Inc.",
+   "aliases": [
+    "Pasadena Aerospace",
+    "Aviation Logistics and Supply"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-08-09",
+   "federal_register": "70 FR 46258",
+   "notes": null
+  },
+  {
+   "name": "Mgbobila, Akanonu Fabian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: November, 1949"
+  },
+  {
+   "name": "Michael P. Murphy Surplus Materials Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Miller, Chanoch",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: December, 1956"
+  },
+  {
+   "name": "Miller, Ken",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: January, 1967"
+  },
+  {
+   "name": "Miller, Scott Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1958"
+  },
+  {
+   "name": "Miramontes-Duarte, Jose Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: May, 1951"
+  },
+  {
+   "name": "Miranda-Mendoza, Daniel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1994"
+  },
+  {
+   "name": "Mitchell, George R.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-09-22",
+   "federal_register": "57 FR 43768 (corrected by 57 FR 37184, 1992-08-18)",
+   "notes": null
+  },
+  {
+   "name": "Mohsen, Diaa",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Moley, Seamus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Molina, Javier",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1962"
+  },
+  {
+   "name": "Molina, Jr., Placido",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1984"
+  },
+  {
+   "name": "Molina-Barron, Abraham",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: December, 1972"
+  },
+  {
+   "name": "Monsieur, Jacques",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1953"
+  },
+  {
+   "name": "Moo, Ko-Suen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Morales, Ambar Esthela",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1992"
+  },
+  {
+   "name": "Morales, Manuel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Morales-Oscoy, Balbina",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Morales-Reyes, Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1980"
+  },
+  {
+   "name": "Moreno, Laiza",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Morey, Gerald",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Morgovsky, Irina",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: August, 1951"
+  },
+  {
+   "name": "Morgovsky, Naum",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: September, 1949"
+  },
+  {
+   "name": "Moscoso, Victor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Murakoshi, Toshiyuki",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-11-02",
+   "federal_register": "58 FR 58586",
+   "notes": null
+  },
+  {
+   "name": "Murray, Jr, Joseph P.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Muthana, Aziz",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Myles, Jr., George Frank",
+   "aliases": [
+    "George Miles"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: September, 1948"
+  },
+  {
+   "name": "Nacif Cury, Jose Ricardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1971"
+  },
+  {
+   "name": "Nahardani, Ahmad",
+   "aliases": [
+    "Alex Nahardani"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-08-09",
+   "federal_register": "70 FR 46258",
+   "notes": null
+  },
+  {
+   "name": "Najera-Citalan, Luis Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1986"
+  },
+  {
+   "name": "Navarro-Hinojosa, Diana Siboney",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: August, 1983"
+  },
+  {
+   "name": "Nedoviz, Volodymyr",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: August, 1984"
+  },
+  {
+   "name": "Nee, Patrick",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Nehme, Jamal",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: April, 1963"
+  },
+  {
+   "name": "Nesco NY, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Nevidomy, Vladimir",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: April, 1986"
+  },
+  {
+   "name": "Ngang, Edith",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: January, 1966"
+  },
+  {
+   "name": "Ngomanji, Anye Collins",
+   "aliases": [
+    "Niba, Anye Collins"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: May, 1978"
+  },
+  {
+   "name": "Nguyen, Thach Hoang",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1956"
+  },
+  {
+   "name": "Nikolic, Alexander",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Nino Palacios, Arturo Guillermo",
+   "aliases": [
+    "Arturo Guillermo Nino"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: June, 1983"
+  },
+  {
+   "name": "Nji, Eric Fru a/k/a Ngi, Eric Fru",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: February, 1981"
+  },
+  {
+   "name": "Nkwocha, Solomon Benson",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1960"
+  },
+  {
+   "name": "Nootenboom, Johannes",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Nortman, Richard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Novacom, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-09-22",
+   "federal_register": "57 FR 43768 (corrected by 57 FR 37184, 1992-08-18)",
+   "notes": null
+  },
+  {
+   "name": "Nwankwoala, Emenike Charles",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: October, 1960"
+  },
+  {
+   "name": "Obeid, Yasser Ahmad",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1994"
+  },
+  {
+   "name": "ODonnell, Andrew V.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414 (corrected by 76 FR 70805, 2011-11-15)",
+   "notes": "Date of birth: July, 1977"
+  },
+  {
+   "name": "Oldani, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1987"
+  },
+  {
+   "name": "Oldani, Timothy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1984"
+  },
+  {
+   "name": "Ong, John Dennis Tan",
+   "aliases": [
+    "Dennis Ong",
+    "John Tan Ong"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1973"
+  },
+  {
+   "name": "Ordway, Lance B.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Ortega, Joshua Isaac",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: September, 1991"
+  },
+  {
+   "name": "Ortiz-Lopez, Jose Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Osin, Yahor",
+   "aliases": [
+    "Egor Osin"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1982"
+  },
+  {
+   "name": "O'Toole, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: May, 1931"
+  },
+  {
+   "name": "Oyervides-Campos, Juan Narcizo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: July, 1990"
+  },
+  {
+   "name": "Padilla, Mario Obdulio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: August, 1947"
+  },
+  {
+   "name": "Padilla-Cruz, Ledis Omar",
+   "aliases": [
+    "Omar Padilla"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: January, 1979"
+  },
+  {
+   "name": "Paez-Renteria, Carlos Javier",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: September, 1989"
+  },
+  {
+   "name": "Palacios, Jr., Rodolfo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: July, 1991"
+  },
+  {
+   "name": "Palomares, Jr., Rafael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: July, 1989"
+  },
+  {
+   "name": "Pan Aviation, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-09-22",
+   "federal_register": "57 FR 43768 (corrected by 57 FR 37184, 1992-08-18)",
+   "notes": null
+  },
+  {
+   "name": "Panameno, Francisco Salvador Martin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Panchernikov, Igor a/k/a Maru, Mike",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: July, 1981"
+  },
+  {
+   "name": "Park, Jung Shic",
+   "aliases": [
+    "Alex Park"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1984"
+  },
+  {
+   "name": "Park, Kwonhwan",
+   "aliases": [
+    "Howard Park"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Park, Si Mong",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: September, 1970"
+  },
+  {
+   "name": "Patanwala, Yusuf Kutbuddin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: April, 1950"
+  },
+  {
+   "name": "Pavon, Manuel Mario",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: June, 1991"
+  },
+  {
+   "name": "Paz, Bilmer Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Pechner, Paweena",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1979"
+  },
+  {
+   "name": "Pendzich, Jerome Stuart",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1977"
+  },
+  {
+   "name": "Peng, Yen Ching",
+   "aliases": [
+    "Alex Peng",
+    "Yen-Yo Peng"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: March, 1976"
+  },
+  {
+   "name": "Perez, Lee Roy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: July, 1987"
+  },
+  {
+   "name": "Perez, Miguel Angel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Perez, Ricardo Benitez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Perez-Bazan, Erik Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1985"
+  },
+  {
+   "name": "Perez-Contreras, Sergio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1938"
+  },
+  {
+   "name": "Perry, Hunter",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1982"
+  },
+  {
+   "name": "Peterson, John James",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: February 1959"
+  },
+  {
+   "name": "Picatti, Steven",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Pichardo, Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: November, 1972"
+  },
+  {
+   "name": "Pierson, Andrew Scott",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: May, 1975"
+  },
+  {
+   "name": "Pina, Luis Donaldo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1995"
+  },
+  {
+   "name": "Piquet, Joseph",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: March, 1958"
+  },
+  {
+   "name": "Plesinger, Peter Steve",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1961"
+  },
+  {
+   "name": "Ponce, Jesse Radona",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Ponomarenko, Volodomyr",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Posobilov, Alexander",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Prado, Jr., Joel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1980"
+  },
+  {
+   "name": "Precision Image Corporation",
+   "aliases": [
+    "Precision Industries, Inc.",
+    "CK Enterprises, Inc."
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Prezas, Julian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: January, 1980"
+  },
+  {
+   "name": "Proven, Donn R.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1999-05-11",
+   "federal_register": "64 FR 25389",
+   "notes": null
+  },
+  {
+   "name": "Puente-Paez, Juan Ricardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: April, 1978"
+  },
+  {
+   "name": "Quan-Sheng, Shu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: May, 1940"
+  },
+  {
+   "name": "Quilantan-Garcia, Mario Hector",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Quirino, Julio Alejandro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: November, 1984"
+  },
+  {
+   "name": "Radionov, Ihor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: January, 1969"
+  },
+  {
+   "name": "Radzi, Muhammad Mohd",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: June, 1993"
+  },
+  {
+   "name": "Rahman, Kolar Rahman Anees Ur",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1971"
+  },
+  {
+   "name": "Rama, Ramadan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: December, 1970"
+  },
+  {
+   "name": "Ramirez, Julio Cesar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: July, 1989"
+  },
+  {
+   "name": "Ramirez-Rodriguez, Martin",
+   "aliases": [
+    "Julian Garcia-Penaloza",
+    "Alberto Moreno-Garza",
+    "Machin Aguilar-Gaona"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1983"
+  },
+  {
+   "name": "Ramirez-Vazquez, Armando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1983"
+  },
+  {
+   "name": "Ramon-Herrada, Jose Arturo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1983"
+  },
+  {
+   "name": "Ramos-Reyes, Rogelio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: August, 1945"
+  },
+  {
+   "name": "Ramos-Tinoco, Alfredo Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-02-02",
+   "federal_register": "58 FR 6835",
+   "notes": null
+  },
+  {
+   "name": "Randazzo, Frank J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Rangel, Nestor",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Ray, Penny",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Rea, Javier Nenos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1982"
+  },
+  {
+   "name": "Recinos-Rivera, Mariano",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Reclusado, Romulo Arca",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1950"
+  },
+  {
+   "name": "Reducindo-Chavez, Pablo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: October, 1965"
+  },
+  {
+   "name": "Reta, Ismael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1986"
+  },
+  {
+   "name": "Revereza, Arjyl",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1985"
+  },
+  {
+   "name": "Revuelta, Fermin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Rexon Technology Corp.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Reyes, Felix",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1992"
+  },
+  {
+   "name": "Reyes, Randy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Reyes-Baez, Alejandro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Reyes-Martinez, Francisco",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: February, 1971"
+  },
+  {
+   "name": "Reyes-Martinez, Jose Guadalupe",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: September, 1982"
+  },
+  {
+   "name": "Reyna, Adrian Jesus",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: July, 1986"
+  },
+  {
+   "name": "Rezvanov, Eldar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: May, 1990"
+  },
+  {
+   "name": "Rhoomes, Jermaine Craig",
+   "aliases": [
+    "Rhoomas, Jermain",
+    "a.k.a. Rhoomas, Jermaine Craig",
+    "a.k.a. Rhooms, Jermaine",
+    "a.k.a. Hall, Craig",
+    "a.k.a. Hall, Kreig",
+    "a.k.a. Cow"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: April, 1973"
+  },
+  {
+   "name": "Richmond, Earl Henry",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Rigel Optics, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": null
+  },
+  {
+   "name": "Rincon-Avilez, Gardenia Marlene",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: July, 1986"
+  },
+  {
+   "name": "Rinzler, Murray",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: March, 1930"
+  },
+  {
+   "name": "Rivera, Manuel Rangel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Rizo, Esther",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1985"
+  },
+  {
+   "name": "Robert, Hannah",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1965"
+  },
+  {
+   "name": "Roberts, John Parker",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: January, 1990"
+  },
+  {
+   "name": "Robroo, Tul",
+   "aliases": [
+    "Tul Robrhoo"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1974"
+  },
+  {
+   "name": "Roby, Roy Wayne",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1958"
+  },
+  {
+   "name": "Rochin, Marleen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1986"
+  },
+  {
+   "name": "Rodriguez, Chris",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: April, 1962"
+  },
+  {
+   "name": "Rodriguez, Juan Ivan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1981"
+  },
+  {
+   "name": "Rodriguez, Norma Angelica Rodriguez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: May, 1991"
+  },
+  {
+   "name": "Rodriguez-Aranda, Gregorio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1988"
+  },
+  {
+   "name": "Rodriguez-Capetillo, Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Rodriguez-Diaz, Joaquin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: August, 1971"
+  },
+  {
+   "name": "Rodriguez-Gutierrez, Octavio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: June, 1987"
+  },
+  {
+   "name": "Rodriguez-Gutierrez, Raul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: March, 1974"
+  },
+  {
+   "name": "Rodriguez-Rivera, Gerardo Domingo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: June, 1993"
+  },
+  {
+   "name": "Rodriguez-Vazques, Luis Miguel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: April, 1985"
+  },
+  {
+   "name": "Roggio, Ross",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: December, 1968"
+  },
+  {
+   "name": "Roll, Jeffrey",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Roman, Isidro Manabat",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Romavi-Orue, Salvador",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Roose, Geoffrey B.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: May, 1984"
+  },
+  {
+   "name": "Rosen, David R.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Rosenfeld, Menachim",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Roth, John Reece",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Rouse, Dwain",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Rubio, Maritza",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: February, 1979"
+  },
+  {
+   "name": "Rubio-Tovias, Carlos",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: November, 1987"
+  },
+  {
+   "name": "Ruchtein, Sergio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: October, 1967"
+  },
+  {
+   "name": "Rusli, Reinhard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Saiag, Allexander",
+   "aliases": [
+    "Saiag, Alexandre"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: September, 1986"
+  },
+  {
+   "name": "Saidi, Abdul Majid",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: March, 1976"
+  },
+  {
+   "name": "Salas, Lorena Beatriz",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: June, 1973"
+  },
+  {
+   "name": "Salazar, Edgar Alejandro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Salazar-Galan, Julio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: July, 1990"
+  },
+  {
+   "name": "Salazar-Mata, Victor Hugo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": null
+  },
+  {
+   "name": "Salazar-Rostro, Ramon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Salgado-Guzman, Ernesto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1967"
+  },
+  {
+   "name": "Salinas-Lucio, Mario",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: January, 1968"
+  },
+  {
+   "name": "Samper, Rafael Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Sanchez, Leoncio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: August, 1989"
+  },
+  {
+   "name": "Sanchez-Castruita, Lorenzo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Sanchez-Lopez, Maria Luisa",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1989"
+  },
+  {
+   "name": "Santana, Jr., Jorge",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1978"
+  },
+  {
+   "name": "Santos, Kirby C.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1977"
+  },
+  {
+   "name": "Santos-Garcia, Jose Luis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: September, 1968"
+  },
+  {
+   "name": "Sauceda-Rangel, Juan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: May, 1981"
+  },
+  {
+   "name": "Sauceda-Trevino, Nestor Omar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: May, 1990"
+  },
+  {
+   "name": "Schenk, Leonard Allen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1980"
+  },
+  {
+   "name": "Schroeder, Richard Herman",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Schultz, Korbein",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: May, 1999"
+  },
+  {
+   "name": "Schwartz, Solomon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "See, Jr., Arnold",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1957"
+  },
+  {
+   "name": "Seifi, Hamid",
+   "aliases": [
+    "Hank Seifi"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1963"
+  },
+  {
+   "name": "Semler, Monte Barry",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Semler, Ronald Howard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Semprun, Edgar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Senbol, Yuksel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: May, 1987"
+  },
+  {
+   "name": "Sendino, Luis Guillermo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: March, 1972"
+  },
+  {
+   "name": "Sepulveda-Ortiz, Christian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1983"
+  },
+  {
+   "name": "Sero, Fernando",
+   "aliases": [
+    "Ferdie Resada"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Sery, Dror",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: April, 1952"
+  },
+  {
+   "name": "Sery, Joe",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: June, 1944"
+  },
+  {
+   "name": "Shah, Satish",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Shaphyr, Shalom",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Shapovalov, Michael",
+   "aliases": [
+    "Mikhail Shapovalov"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: November, 1986"
+  },
+  {
+   "name": "Shearon, Charles",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1956"
+  },
+  {
+   "name": "Shek, Chan Hok",
+   "aliases": [
+    "John Chan"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: December, 1953"
+  },
+  {
+   "name": "Shen, Hui Sheng",
+   "aliases": [
+    "Charlie Shen"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: December, 1966"
+  },
+  {
+   "name": "Sheng, Zimo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: August, 1989"
+  },
+  {
+   "name": "Shifrin, Elena",
+   "aliases": [
+    "Belov, Alexander",
+    "a.k.a Ivanov, Lena",
+    "a.k.a Gohkman, Elena",
+    "a.k.a. Elena Leonidovna Shifrin"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458�",
+   "notes": "Date of birth: February, 1962"
+  },
+  {
+   "name": "Shor, Michael Barry",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1951"
+  },
+  {
+   "name": "Shubert, Sr., J. Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: April, 1965"
+  },
+  {
+   "name": "Shute, J. Randall",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Silcox, Andrew",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: March, 1958"
+  },
+  {
+   "name": "Sin, Aydan",
+   "aliases": [
+    "Hon Chak Gordon Sin",
+    "Andy Sin",
+    "Bullion Sin"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: January, 1972"
+  },
+  {
+   "name": "Siraj International, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Sirirojnananont, Nutveena",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1973"
+  },
+  {
+   "name": "Siroky, Paul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Skaff, Riad",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1939"
+  },
+  {
+   "name": "Smith, Jason Dean",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1974"
+  },
+  {
+   "name": "Smith, Stephen Edward",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1954"
+  },
+  {
+   "name": "Smith, Wayne P.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Smyth, Richard Kelly",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Sobrado, Roger",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: May, 1970"
+  },
+  {
+   "name": "Soedirdja, Helmi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Soeharli, Ignatius",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Soghanalian, Sarkis G.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-09-22",
+   "federal_register": "57 FR 43768 (corrected by 57 FR 37184, 1992-08-18)",
+   "notes": null
+  },
+  {
+   "name": "Solis-Castilleja, Julio Cesar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: October, 1969"
+  },
+  {
+   "name": "Solomonyan, Artur",
+   "aliases": [
+    "Alex Solomonyan"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Sorroza-Garcia, Oscar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1973"
+  },
+  {
+   "name": "Spies, Christiaan Dewet",
+   "aliases": [
+    "David Dewet Spies"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Spitz, Peter K.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Srivaranon, Apichar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: February, 1985"
+  },
+  {
+   "name": "St. Michael, Tamufor Nchumuluh",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: September, 1980"
+  },
+  {
+   "name": "Staff Gasket Manufacturing Corp.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": null
+  },
+  {
+   "name": "Stashchyshyn, Michael",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2025-08-19",
+   "federal_register": "90 FR 40458",
+   "notes": "Date of birth: July, 1962"
+  },
+  {
+   "name": "Steckler, Norman Thomas",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Stilwell, Floyd Dean",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: September, 1926"
+  },
+  {
+   "name": "Stone, Joel Robert",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: December, 1965"
+  },
+  {
+   "name": "Stribling, John Francis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1960"
+  },
+  {
+   "name": "Stringer, Jerri C.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: July, 1966"
+  },
+  {
+   "name": "Subandi, Haji",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: March, 1937"
+  },
+  {
+   "name": "Sudarshan, Parthasarathy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1960"
+  },
+  {
+   "name": "Summit Marketing Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Sun, Bing",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Sun, Patte",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Sun, Wei",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: December, 1971"
+  },
+  {
+   "name": "Swiss Technology, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": null
+  },
+  {
+   "name": "Swissco Management Group, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1996-06-12",
+   "federal_register": "61 FR 29784",
+   "notes": null
+  },
+  {
+   "name": "Sydykov, Tengiz T.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: June, 1989"
+  },
+  {
+   "name": "Syjuco, Sergio Santiago de Leon",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1986"
+  },
+  {
+   "name": "Taipan Enterprises, Ltd.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Takahashi, Hironobu",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-11-02",
+   "federal_register": "58 FR 58586",
+   "notes": null
+  },
+  {
+   "name": "Talamantez, Leonardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: July, 1986"
+  },
+  {
+   "name": "Talebi, Ali Danny",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: August, 1978"
+  },
+  {
+   "name": "Talebi, David Mehrdad",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: December, 1969"
+  },
+  {
+   "name": "Tamez-Hernandez, Julio Cesar",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Tappin, Christopher Harold",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: November, 1946"
+  },
+  {
+   "name": "Tarrab, Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Taylor, Maurice",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: October, 1985"
+  },
+  {
+   "name": "Taylor, Paul",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1966"
+  },
+  {
+   "name": "Telemi, Andro",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: June, 1970"
+  },
+  {
+   "name": "Teran, Alain",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: June, 1986"
+  },
+  {
+   "name": "The Parts Guys, LLC",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": null
+  },
+  {
+   "name": "Thomasset, Louis Clarence",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Thompson, John Raymond",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2002-03-05",
+   "federal_register": "67 FR 10033",
+   "notes": null
+  },
+  {
+   "name": "Tijerina-Salinas, Daniel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1991"
+  },
+  {
+   "name": "Tishchenko, Oleg Mikhaylovich",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: April, 1977"
+  },
+  {
+   "name": "Tita, Wilson Nuyila",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2024-06-25",
+   "federal_register": "89 FR 53172",
+   "notes": "Date of birth: October, 1975"
+  },
+  {
+   "name": "Tobey, Richard",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Todd, Michael Edward",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: June, 1980"
+  },
+  {
+   "name": "Tomkins, David",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Torres, Alfonso",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: October, 1970"
+  },
+  {
+   "name": "Torres, Eduardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1980"
+  },
+  {
+   "name": "Torresi, Anthony J.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: August, 1978"
+  },
+  {
+   "name": "Torres-Lopez, Jesus Lorenzo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Torres-Vasquez, Andrei Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: December, 1985"
+  },
+  {
+   "name": "Townsend, Stephanie Monique",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: January, 1989"
+  },
+  {
+   "name": "Trevino, Rolando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: August, 1987"
+  },
+  {
+   "name": "Trevino-Moncivais, Gerardo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1967"
+  },
+  {
+   "name": "Trouillot, Erickson",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1998-06-01",
+   "federal_register": "63 FR 29773",
+   "notes": null
+  },
+  {
+   "name": "Trujillo, Abraham",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: October, 1965"
+  },
+  {
+   "name": "Trujillo, Veronica",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: November, 1973"
+  },
+  {
+   "name": "Tsai, Rudy Yujen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1993-03-04",
+   "federal_register": "58 FR 12440",
+   "notes": null
+  },
+  {
+   "name": "Tsishuk, Vitali",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: November, 1982"
+  },
+  {
+   "name": "Tucker, Glenda Joyce",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Ubaldo, Cesar Paolo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: July, 1985"
+  },
+  {
+   "name": "Ugur, Arif",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: January, 1969"
+  },
+  {
+   "name": "Universal Industries Limited, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": null
+  },
+  {
+   "name": "Urdaneta Pozo, Luis Antonio Urdaneta",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": null
+  },
+  {
+   "name": "Uribazo, Daniel Jose",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Ustinov, Dmitry",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1966"
+  },
+  {
+   "name": "Valencia-Hermosillo, Manuel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1995"
+  },
+  {
+   "name": "Vann, Oskar Benevidez",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1995-06-07",
+   "federal_register": "60 FR 30149",
+   "notes": null
+  },
+  {
+   "name": "Varela, Ricardo Humberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1983"
+  },
+  {
+   "name": "Vargas-Yanez, Juan Luis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: October, 1983"
+  },
+  {
+   "name": "Vasquez, Juan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": "Date of birth: June, 1976"
+  },
+  {
+   "name": "Vazquez, Eduard Roel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: June, 1992"
+  },
+  {
+   "name": "Velasco-Tamez, Roberto Aaron",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: March, 1988"
+  },
+  {
+   "name": "Velasquez-Ibarra, Luis Martin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: March, 1985"
+  },
+  {
+   "name": "Velasquez-Velez, Reneberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: May, 1960"
+  },
+  {
+   "name": "Veletanlic, Hany",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: December, 1983"
+  },
+  {
+   "name": "Venegas-Arias, Fernando",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Verma, Bharat",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: July, 1940"
+  },
+  {
+   "name": "Verma, Urvashi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: November, 1974"
+  },
+  {
+   "name": "Veroneze, Alberto",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: September, 1974"
+  },
+  {
+   "name": "Vibgyor Optical Systems, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": null
+  },
+  {
+   "name": "Villa-Bon, Jose Edmundo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: June, 1969"
+  },
+  {
+   "name": "Villarreal, Guillermo Enrique",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-02-05",
+   "federal_register": "78 FR 8218",
+   "notes": "Date of birth: October, 1974"
+  },
+  {
+   "name": "Vlachos, Alexis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: March, 1977"
+  },
+  {
+   "name": "Vusir, Zeljko",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Wada, Kozo",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-01-13",
+   "federal_register": "71 FR 2291",
+   "notes": null
+  },
+  {
+   "name": "Wang, Shaohua",
+   "aliases": [
+    "Eric Wang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: September, 1982"
+  },
+  {
+   "name": "Wang, Ye Sang",
+   "aliases": [
+    "Ivy Wang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: September, 1984"
+  },
+  {
+   "name": "Ware, Phyllis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-01-07",
+   "federal_register": "59 FR 1053",
+   "notes": null
+  },
+  {
+   "name": "Waye, David John",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: September, 1984"
+  },
+  {
+   "name": "Wei, Yufeng",
+   "aliases": [
+    "Annie Wei"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: April, 1964"
+  },
+  {
+   "name": "Weibo, Xu",
+   "aliases": [
+    "Kevin Xu"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-11-20",
+   "federal_register": "71 FR 67191",
+   "notes": null
+  },
+  {
+   "name": "Wenzl, George",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1988-07-18",
+   "federal_register": "53 FR 27097",
+   "notes": null
+  },
+  {
+   "name": "Wild, Andrew Allen",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: June, 1986"
+  },
+  {
+   "name": "Williams, Randy Lew",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2021-06-04",
+   "federal_register": "86 FR 30074",
+   "notes": "Date of birth: August, 1963"
+  },
+  {
+   "name": "Wilson, Cory",
+   "aliases": [
+    "Jason Cory Wilson"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: July, 1974"
+  },
+  {
+   "name": "Wiseman, Ronald W.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-12-12",
+   "federal_register": "72 FR 70642",
+   "notes": null
+  },
+  {
+   "name": "Wiseman, Ronald W.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-06-20",
+   "federal_register": "72 FR 34059",
+   "notes": null
+  },
+  {
+   "name": "Witte, Ian Alexander",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-09-08",
+   "federal_register": "75 FR 54692",
+   "notes": "Date of birth: November, 1990"
+  },
+  {
+   "name": "World Electronics, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": null
+  },
+  {
+   "name": "Wu, Bin",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "WU, Tian Min",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-06-15",
+   "federal_register": "88 FR 39323",
+   "notes": "Date of birth: April, 1965"
+  },
+  {
+   "name": "Wu, Yue",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: August, 1973"
+  },
+  {
+   "name": "Wu, Zhen Zhou",
+   "aliases": [
+    "Alex Wu"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2011-11-15",
+   "federal_register": "76 FR 70805",
+   "notes": "Date of birth: March, 1964"
+  },
+  {
+   "name": "Xian, Hong Wei",
+   "aliases": [
+    "Harry Zan"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: December, 1978"
+  },
+  {
+   "name": "Xie, Ming",
+   "aliases": [
+    "Michael Xie"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: May, 1957"
+  },
+  {
+   "name": "Xie, Tuqiang",
+   "aliases": [
+    "Tony Xie"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: March, 1962"
+  },
+  {
+   "name": "Xu, Bing",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Xu, Collin",
+   "aliases": [
+    "Collin Shu",
+    "Zhihong Xu"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Yang, Bin",
+   "aliases": [
+    "Raymond Yang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: January, 1981"
+  },
+  {
+   "name": "Yang, David Tzuwei",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Yang, Lian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: February, 1964"
+  },
+  {
+   "name": "Yang, Su",
+   "aliases": [
+    "Yang Su"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Yao, Nguessan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: January, 1955"
+  },
+  {
+   "name": "Yao, Yi",
+   "aliases": [
+    "Yao Yi"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2003-09-03",
+   "federal_register": "68 FR 52436",
+   "notes": null
+  },
+  {
+   "name": "Yassine, Fadi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: October, 1974"
+  },
+  {
+   "name": "Yeboah, Master A. Ohene Kwesi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2009-08-25",
+   "federal_register": "74 FR 42949",
+   "notes": "Date of birth: June, 1975"
+  },
+  {
+   "name": "Yildiz, Ugur",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Yindeear-Rom, Kitibordee",
+   "aliases": [
+    "Kitibordee Yindeer-Rom"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: March, 1986"
+  },
+  {
+   "name": "Yousefi, Ali Reza Foyuzi",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Yun, Juwhan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1992-01-13",
+   "federal_register": "57 FR 1296",
+   "notes": null
+  },
+  {
+   "name": "Zamarron-Luna, Carlos Antonio",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: March, 1967"
+  },
+  {
+   "name": "Zannoni, Giovanni",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2019-06-06",
+   "federal_register": "84 FR 26500",
+   "notes": "Date of birth: May, 1982"
+  },
+  {
+   "name": "Zapata, Edgar Daniel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2012-07-24",
+   "federal_register": "77 FR 43414",
+   "notes": "Date of birth: August, 1980"
+  },
+  {
+   "name": "Zar, Mehrdad",
+   "aliases": [
+    "Tony Zar"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2006-02-01",
+   "federal_register": "71 FR 5402",
+   "notes": null
+  },
+  {
+   "name": "Zeaiter, Sarah Majid",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2018-04-25",
+   "federal_register": "83 FR 18112",
+   "notes": "Date of birth: February, 1991"
+  },
+  {
+   "name": "Zhang, Kevin",
+   "aliases": [
+    "Zhao Wei Zhang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-11-07",
+   "federal_register": "78 FR 66984",
+   "notes": "Date of birth: January, 1971"
+  },
+  {
+   "name": "Zhang, Jian",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-10",
+   "federal_register": "87 FR 48748",
+   "notes": "Date of birth: January, 1976"
+  },
+  {
+   "name": "Zhang, Pinzhe",
+   "aliases": [
+    "Peter Zhang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "1994-08-29",
+   "federal_register": "59 FR 44451",
+   "notes": null
+  },
+  {
+   "name": "Zhengxing, Ding",
+   "aliases": [
+    "Zhengxing Ding",
+    "Zheng Xing Ding"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2010-03-19",
+   "federal_register": "75 FR 13330",
+   "notes": null
+  },
+  {
+   "name": "Zhuang, Jinghua",
+   "aliases": [
+    "Jackey Zhuang"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2005-11-16",
+   "federal_register": "70 FR 69620",
+   "notes": null
+  },
+  {
+   "name": "Zuppone, Brunella",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2020-05-20",
+   "federal_register": "85 FR 30783 (corrected by 85 FR 39967, 2020-07-02)",
+   "notes": "Date of birth: May, 1952"
+  }
+ ]
+}

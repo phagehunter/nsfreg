@@ -1,0 +1,88 @@
+{
+ "list_id": "state-debarred-admin",
+ "source_file": "Admin Debarred Parties_06.01.23.csv",
+ "extracted": "2026-07-09",
+ "count": 8,
+ "entities": [
+  {
+   "name": "Adams, Ryan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-29",
+   "federal_register": "87 FR 52834",
+   "notes": null
+  },
+  {
+   "name": "Baier, Marc",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-29",
+   "federal_register": "87 FR 52834",
+   "notes": null
+  },
+  {
+   "name": "Dominguez, Carlos; Elint, S.A., Spain Night Vision, S.A., and SNV, S.A",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2014-06-19",
+   "federal_register": "79 FR 35210 corrected by 79 FR 37384",
+   "notes": "Charging letter on file; Debarment order on file"
+  },
+  {
+   "name": "Gericke, Daniel",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2022-08-29",
+   "federal_register": "87 FR 52834",
+   "notes": null
+  },
+  {
+   "name": "Kam-Tech Systems, Ltd. and David Menashe",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2004-02-24",
+   "federal_register": "69 FR 8511",
+   "notes": null
+  },
+  {
+   "name": "Lavery III, Henry L., and Security Assistance International, Inc.",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2007-02-20",
+   "federal_register": "72 FR 7811",
+   "notes": null
+  },
+  {
+   "name": "Lesmeister, LeAnne",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2013-12-03",
+   "federal_register": "78 FR 72745",
+   "notes": "Charging letter on file; Debarment order on file"
+  },
+  {
+   "name": "VTA Telecom Corporation",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": "2023-04-20",
+   "federal_register": "88 FR 39554",
+   "notes": "Charging letter on file"
+  }
+ ]
+}

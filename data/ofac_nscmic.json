@@ -1,0 +1,904 @@
+{
+ "list_id": "ofac-nscmic",
+ "source_file": "nscmiclist.pdf",
+ "extracted": "2026-07-09",
+ "count": 68,
+ "entities": [
+  {
+   "name": "China Aviation Engine Group Co., Ltd",
+   "aliases": [
+    "AERO ENGINE CORP OF CHINA",
+    "AERO ENGINE CORPORATION OF CHINA",
+    "AECC"
+   ],
+   "country": "China",
+   "address": "5 Landianchang South Road Haidian District, Beijing 100097, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000MA005UCQ5P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Aerospace Communications Holdings Group Company Limited",
+   "aliases": [
+    "AEROCOM",
+    "AEROSPACE COMMUNICATIONS HOLDINGS CO., LTD.",
+    "AEROSPACE COMMUNICATIONS HOLDINGS COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "Block 1, Aerospace Communications Mansion, 138, Jiefang Road, Hangzhou 310009, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 913300001429112055 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Aerospace CH UAV Co Ltd",
+   "aliases": [
+    "AEROSPACE CH UAV CO., LTD",
+    "ZHEJIANG NANYANG TECHNOLOGY COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "Development Zone, 388, Kai Fa Avenue, Taizhou 318000, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91330000734507783B (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Aerosun Corporation",
+   "aliases": [
+    "AEROSUN",
+    "AEROSUN CORP."
+   ],
+   "country": "China",
+   "address": "Jiangning Economic Zone, 188, Tianyuan Zhong Road, Nanjing 211100, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91320000714091899R (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Anhui Greatwall Military Industry Co., Ltd",
+   "aliases": [
+    "ANHUI GREAT WALL MILITARY INDUSTRY CO., LTD",
+    "ANHUI GREATWALL MILITARY INDUSTRY CO., LTD.",
+    "ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED",
+    "GREATWALL MILITARY",
+    "GREATWALL MILITARY INDUSTRY"
+   ],
+   "country": "China",
+   "address": "No. 99 Taoyuan Road, Economic Development Zone, Hefei, China; Economic And Technological Development Zone, 99 Hezhang Road, Hefei 230001, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 9134000070503581XA (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Aviation Industry Corporation of China, Ltd",
+   "aliases": [
+    "AVIATION INDUSTRY CORP OF CHINA",
+    "AVIATION INDUSTRY CORPORATION OF CHINA, LTD.",
+    "AVIATION INDUSTRY OF CHINA",
+    "AVIC"
+   ],
+   "country": "China",
+   "address": "Building 19 Compound A5 Shuguang Xili Chaoyang District, Beijing 100028, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710935732K (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "AVIC Xi'an Aircraft Industry Group Company Ltd.",
+   "aliases": [
+    "AVIC AIRCRAFT CO., LTD.",
+    "AVIC XIAN AIRCRAFT INDUSTRY GROUP CO LTD",
+    "XI'AN AIRCRAFT INDUSTRIAL CORP.",
+    "XI'AN AIRCRAFT INDUSTRY GROUP CO LTD"
+   ],
+   "country": "China",
+   "address": "No. 1, Xifei Avenue, Yanliang District, Xi'an, Shaanxi, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 916100002942059830 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "AVIC Aviation High-Technology Company Limited",
+   "aliases": [
+    "AVIC AVIATION HIGH-TECHNOLOGY CO., LTD.",
+    "AVIC HI-TECH",
+    "TONTEC TECHNOLOGY INVESTMENT GROUP COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "1, Yonghe Road, Gangzha District, Nantong 226011, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 03 Jun 2021; USCC: 91320600138299578A (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Avionics Systems Company Limited",
+   "aliases": [
+    "AVIC AVIONICS",
+    "CHINA AVIC ELECTRONICS CO., LTD",
+    "CHINA AVIC ELECTRONICS COMPANY LIMITED",
+    "CHINA AVIONICS SYSTEMS CO., LTD"
+   ],
+   "country": "China",
+   "address": "Building 20, 8th-9th Floor, 5A, Shuguangxili, Beijing 100028, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000705514765U (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "AVIC Heavy Machinery Company Limited",
+   "aliases": [
+    "AVIC HEAVY MACHINERY CO., LTD.",
+    "GUIZHOU LIYUAN HYDRAULIC CO., LTD.",
+    "GUIZHOU LIYUAN HYDRAULIC COMPONENTS CO., LTD."
+   ],
+   "country": "China",
+   "address": "No. 501, Beiya Road, Wudang District, Guiyang, Guizhou, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91520000214434146R (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "AVIC Jonhon Optronic Technology Co., Ltd.",
+   "aliases": [
+    "JONHON"
+   ],
+   "country": "China",
+   "address": "No. 10, Zhoushan Rd., Luoyang Area, Pilot Free Trade Zone, Luoyang, Henan, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 914100007457748527 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "AVIC Shenyang Aircraft Company Limited",
+   "aliases": [
+    "DONGAN HEIBAO CO., LTD.",
+    "SHENYANG AIRCRAFT CO. LTD."
+   ],
+   "country": "China",
+   "address": "1, Lingbei Street, Huanggu District, Shenyang 110850, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 9137000016309489X2 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Zhonghang Electronic Measuring Instruments Co., Ltd",
+   "aliases": [
+    "AVIC ZEMIC",
+    "ZEMIC",
+    "ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "High-Tech Industrial Development Zone, 166, West Avenue, Xi'an 710119, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 03 Jun 2021; USCC: 91610000745016111K (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Inner Mongolia First Machinery Group Co., Ltd.",
+   "aliases": [
+    "BAOTOU BEIFANG CHUANGYE COMPANY LIMITED",
+    "FIRMACO"
+   ],
+   "country": "China",
+   "address": "Minzhu Road, Qingshan District, Baotou 014032, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91150000720180740Y (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "North Navigation Control Technology Co., Ltd.",
+   "aliases": [
+    "BEIJING NORTH PHENIX INTELLIGENCE TECHNOLOGY CO., LTD.",
+    "CHINA NORTH OPTICAL-ELECTRICAL TECHNOLOGY CO., LTD."
+   ],
+   "country": "China",
+   "address": "No. 2, Kechuang 15 Street, Economic Technology Development Zone, Beijing, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 911100007226144851 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Aerospace Science and Industry Corporation Limited",
+   "aliases": [
+    "CASIC",
+    "CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION"
+   ],
+   "country": "China",
+   "address": "No. 8, Fucheng Road, Haidian District, Beijing 100089, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710925243K (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Marine Information Electronics Company Limited",
+   "aliases": [
+    "CEC CORECAST CORPORATION LIMITED",
+    "CHINA MARINE INFORMATION ELECTRONICS CO LTD",
+    "CHINA SHIPBUILDING INDUSTRY GROUP MARINE DEFENSE AND INFORMATION CONFRONTATION CO., LTD."
+   ],
+   "country": "China",
+   "address": "4F Zhongshangxin Mansion 34 Xueyuan South Road, Beijing 100082, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000224344507P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Changsha Jingjia Microelectronics Co., Ltd.",
+   "aliases": [
+    "CHANGSHA JINGJIA MICROELECTRONICS CO., LTD",
+    "CHANGSHA JINGJIA MICROELECTRONICS COMPANY LIMITED",
+    "JINGJIA MICRO"
+   ],
+   "country": "China",
+   "address": "No.1, Meixihu Road, Yuelu District, Changsha 410205, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 914301007853917172 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Academy of Launch Vehicle Technology",
+   "aliases": [
+    "CALT"
+   ],
+   "country": "China",
+   "address": "1 Nandahongmen Road Fengtai District, Beijing 100076, China; No. 1, South Dahongmen Road, Fengtai District, Beijing 100076, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Aerospace Science and Technology Corporation",
+   "aliases": [
+    "CASC"
+   ],
+   "country": "China",
+   "address": "No. 8, Fucheng Road, Haidian District, Beijing 100048, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000100014071Q (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Aerospace Times Electronics Co., Ltd",
+   "aliases": [
+    "LONG MARCH LAUNCH VEHICLE TECHNOLOGY COMPANY LIMITED",
+    "CATEC"
+   ],
+   "country": "China",
+   "address": "High-Technology Industrial Zone, Economic & Technological Development Zone, Wuhan 430056, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91420100177716821Q (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Communications Construction Co. Ltd",
+   "aliases": [
+    "CHINA COMMUNICATIONS CONSTR CO LTD",
+    "CHINA COMMUNICATIONS CONSTRUCTION CO LTD",
+    "CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED",
+    "CHINA COMMUNICATIONS CONSTRUCTION COMPANY LTD",
+    "CCCC"
+   ],
+   "country": "China",
+   "address": "85, Deshengmen Street, Xicheng District, Beijing 100088, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710934369E (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Communications Construction Group (Limited)",
+   "aliases": [
+    "CHINA COMMUNICATIONS CONSTRUCTION GROUP (LTD)",
+    "CHINA COMMUNICATIONS GROUP CO. LTD",
+    "CHINA COMMUNICATIONS GROUP COMPANY LIMITED",
+    "CCCG"
+   ],
+   "country": "China",
+   "address": "No. 85, Deshengmen Outer Street, Xicheng District, Beijing 100088, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710933809D (China); Program: CMIC-EO13959; Linked To: CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED"
+  },
+  {
+   "name": "China Electronics Corporation",
+   "aliases": [
+    "CEC"
+   ],
+   "country": "China",
+   "address": "19F, Building 1, No. 66A, Zhongguancun East Road, Haidian District, Beijing 100190, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000100010249W (China); Program: CMIC-EO13959; Linked To: NANJING PANDA ELECTRONICS COMPANY LIMITED"
+  },
+  {
+   "name": "China Electronics Technology Group Corporation",
+   "aliases": [
+    "CETC"
+   ],
+   "country": "China",
+   "address": "No. 27, Wanshou Road, Haidian District, Beijing 100846, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710929498G (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China General Nuclear Power Corporation",
+   "aliases": [
+    "CHINA GENERAL NUCLEAR POWER CORP",
+    "CGN"
+   ],
+   "country": "China",
+   "address": "33F, South Building, China General Nuclear Building, No. 2002 Shennan Avenue, Futian District, Shenzhen, Guangdong, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 9144030010001694XX (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Mobile Communications Group Co., Ltd.",
+   "aliases": [
+    "CHINA MOBILE"
+   ],
+   "country": "China",
+   "address": "No. 29, Financial Street, Xicheng District, Beijing 100032, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 911100007109250324 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Mobile Limited",
+   "aliases": [
+    "CHINA MOBILE LTD"
+   ],
+   "country": "China",
+   "address": "60th Floor, The Center, 99 Queens Road Central, Hong Kong, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959; Linked To: CHINA MOBILE COMMUNICATIONS GROUP CO., LTD."
+  },
+  {
+   "name": "China National Engineering & Construction Corporation Limited",
+   "aliases": [
+    "CHINA NUCLEAR ENGINEERING & CONSTRUCTION CORP LTD",
+    "CHINA NUCLEAR ENGINEERING CORPORATION LIMITED",
+    "CNEC",
+    "CNECC"
+   ],
+   "country": "China",
+   "address": "No. 12 Chegongzhuang Avenue, Xicheng District, Beijing 100037, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000717828569P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China National Nuclear Corporation",
+   "aliases": [
+    "CHINA NATIONAL NUCLEAR CORP",
+    "CNNC"
+   ],
+   "country": "China",
+   "address": "No. 1, Nansan Lane, Sanlihe, Xicheng District, Beijing 100822, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000100009563N (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China National Offshore Oil Corporation",
+   "aliases": [
+    "CHINA NATIONAL OFFSHORE OIL CORP.",
+    "CNOOC"
+   ],
+   "country": "China",
+   "address": "No. 25, Chaoyangmen North Street, Dongcheng District, Beijing 100010, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000100001043E (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China North Industries Group Corporation Limited",
+   "aliases": [
+    "CHINA NORTH INDUSTRIES GROUP CO. LTD",
+    "CHINA NORTH INDUSTRIES GROUP CORPORATION",
+    "NORINCO",
+    "NORINCO GROUP",
+    "CNIGC"
+   ],
+   "country": "China",
+   "address": "No. 46, Sanlihe Road, Xicheng District, Beijing 100821, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710924910P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Railway Construction Corporation Limited",
+   "aliases": [
+    "CRCC"
+   ],
+   "country": "China",
+   "address": "East Yard No. 40, Fuxing Road, Haidian District, Beijing 100855, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710935150D (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Satellite Communications Co., Ltd.",
+   "aliases": [
+    "CHINA SATCOM"
+   ],
+   "country": "China",
+   "address": "China Satellite Communications Tower, Building A, 21st Floor, 65, Zhichun Road, Haidian District, Beijing 100190, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710929113P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China State Shipbuilding Corporation",
+   "aliases": [
+    "CHINA SHIPBUILDING CORPORATION",
+    "CHINA STATE SHIPBUILDING CORPORATION CO. LTD",
+    "CHINA STATE SHIPBUILDING CORPORATION LIMITED",
+    "CSC",
+    "CSSC"
+   ],
+   "country": "China",
+   "address": "No. 1, Pudong Avenue, Pilot Free Trade Zone, Pudong New District, Shanghai 200135, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91310000710924478P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Shipbuilding Industry Company Limited",
+   "aliases": [
+    "CHINA SHIPBUILDING INDUSTRY CO LTD",
+    "CSICL"
+   ],
+   "country": "China",
+   "address": "72 Kunminghu South Road, Haidian District, Beijing 100097, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710935329H (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Shipbuilding Industry Group Power Company Limited",
+   "aliases": [
+    "CHINA SHIPBUILDING INDUSTRY GROUP POWER",
+    "CHINA SHIPBUILDING INDUSTRY GROUP POWER CO LTD",
+    "CSIC POWER",
+    "FENGFAN CO., LTD.",
+    "CSICP"
+   ],
+   "country": "China",
+   "address": "72, Kunminghu South Road, Haidian District, Beijing 100097, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 911306007109266097 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China South Industries Group Co., Ltd.",
+   "aliases": [
+    "CHINA SOUTH INDUSTRIES GROUP CORPORATION",
+    "CSGC",
+    "CSIGC"
+   ],
+   "country": "China",
+   "address": "No. 46, Sanlihe Road, Xicheng District, Beijing 100032, China; No. 10 Yard, Chedaogou, Haidian District, Beijing 100089, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000710924929L (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Spacesat Co., Ltd.",
+   "aliases": [
+    "CHINA SPACESAT"
+   ],
+   "country": "China",
+   "address": "Shenzhou Technology Mansion, 12th Floor, 31, Zhongguancun South Avenue, Beijing 100081, China; 12F Shenzhou Building, 31 Zhongguanchun South Street, Haidian District, Beijing 100081, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 911100001000274544 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Telecom Corporation Limited",
+   "aliases": [
+    "CHINA TELECOM",
+    "CHINA TELECOM CO., LTD",
+    "CHINA TELECOM CORP LTD"
+   ],
+   "country": "China",
+   "address": "31 Jinrong Street, Xicheng District, Beijing 100033, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 9111000071093019X7 (China); Program: CMIC-EO13959; Linked To: CHINA TELECOMMUNICATIONS CORPORATION"
+  },
+  {
+   "name": "China Telecommunications Corporation",
+   "aliases": [
+    "CHINA TELECOM",
+    "CHINA TELECOM GROUP CO., LTD."
+   ],
+   "country": "China",
+   "address": "31 Jinrong Street, Xicheng District, Beijing 100033, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000100017707H (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China United Network Communications Group Company Limited",
+   "aliases": [
+    "CHINA UNICOM",
+    "CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.",
+    "CHINA UNITED TELECOMMUNICATIONS CORPORATION"
+   ],
+   "country": "China",
+   "address": "No. 21, Financial Street, Xicheng District, Beijing 100033, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91110000MA001HYK9X (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "China Unicom (Hong Kong) Limited",
+   "aliases": [
+    "CHINA UNICOM LIMITED"
+   ],
+   "country": "China",
+   "address": "75th Floor, The Center, 99 Queen's Road Central, Hong Kong, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959; Linked To: CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD."
+  },
+  {
+   "name": "Cloudwalk Technology Co., Ltd.",
+   "aliases": [
+    "CLOUDWALK",
+    "云从科技集团股份有限公司"
+   ],
+   "country": "China",
+   "address": "Room 501, No. 37, Jinlong Road, Nansha District, Guangzhou, Guangdong 511457, China; Building 11, Zhangjiang Artificial Intelligence Island, Chuanhe Road, Pudong New Area, Shanghai, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 914401153314442716 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "CNOOC Limited",
+   "aliases": [
+    "CNOOC LTD"
+   ],
+   "country": "China",
+   "address": "Bank of China Tower, 65th Floor, 1, Garden Road, Hong Kong, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959; Linked To: CHINA NATIONAL OFFSHORE OIL CORPORATION"
+  },
+  {
+   "name": "CSSC Offshore & Marine Engineering (Group) Company Limited",
+   "aliases": [
+    "COMEC",
+    "GUANGZHOU SHIPYARD INTERNATIONAL COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "40, South Fang Cun Road, Liwan District, Guangzhou 510382, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91440101190499390U (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Costar Group Co., Ltd.",
+   "aliases": [
+    "COSTAR GROUP CO",
+    "LIDA OPTICAL & ELECTRONIC CO., LTD."
+   ],
+   "country": "China",
+   "address": "508, Gongye Road, Nanyang 473003, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91410000615301803D (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Dawning Information Industry Co., Ltd",
+   "aliases": [
+    "SUGON",
+    "曙光信息产业股份有限公司"
+   ],
+   "country": "China",
+   "address": "Zhongguancun Software Park, Sugon Building 36, 8, Dongbeiwang West Road, Haidian District, Beijing 100193, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 91120000783342508F (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Fujian Torch Electron Technology Co., Ltd",
+   "aliases": [
+    "FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.",
+    "TORCH ELECTRON"
+   ],
+   "country": "China",
+   "address": "Hi-Tech Industrial Park, Jiangnan Park, 4, Zihua Road, Licheng district, Quanzhou 362000, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 913500001562023628 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Guizhou Space Appliance Co., Ltd",
+   "aliases": [
+    "SACO"
+   ],
+   "country": "China",
+   "address": "7, Honghe Road, Xiaohe District, Guiyang 550009, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91520000730980020A (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+   "aliases": [
+    "HANGZHOU HIKVISION DIGITAL TECHNOLOGY",
+    "HIKVISION"
+   ],
+   "country": "China",
+   "address": "555, Qianmo Road, Binjiang District, Hangzhou 310051, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91330000733796106P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Huawei Technologies Co., Ltd.",
+   "aliases": [
+    "HUAWEI INVESTMENT & HOLDING CO LTD"
+   ],
+   "country": "China",
+   "address": "Huawei Headquarter Office Building, Bantian, Longgang District, Guangdong, Shenzhen 518129, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 914403001922038216 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Huawei Investment & Holding Co., Ltd.",
+   "aliases": [
+    "HUAWEI INVESTMENT AND HOLDING CO., LTD."
+   ],
+   "country": "China",
+   "address": "Building 1, Area B, Bantian Huawei Base, Longgang District, Guangdong, Shenzhen, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91440300746645251H (China); Program: CMIC-EO13959; Linked To: HUAWEI TECHNOLOGIES CO., LTD."
+  },
+  {
+   "name": "Inspur Group Co., Ltd.",
+   "aliases": [
+    "INSPUR GROUP"
+   ],
+   "country": "China",
+   "address": "No. 1036, High-Tech Inspur Road, Jinan, Shandong 250101, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; USCC: 913700001630477270 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Jiangxi Hongdu Aviation Industry Co., Ltd.",
+   "aliases": [
+    "HDAA"
+   ],
+   "country": "China",
+   "address": "P.O. Box 5001-500, Nanchang 330024, China; Xinxi Bridge Road Qingyunpu District, Nanchang 330024, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91360000705515290C (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Leon Technology Co., Ltd.",
+   "aliases": [
+    "LEON TECHNOLOGY COMPANY LIMITED",
+    "LEON TECHNOLOGY"
+   ],
+   "country": "China",
+   "address": "High-Tech Zone, Century Pacific International Centre, 416, South Beijing Road, Urumqi 830000, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 916501002999341738 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Megvii Technology Limited",
+   "aliases": [
+    "旷视科技有限公司"
+   ],
+   "country": "Cayman Islands",
+   "address": "PO Box 309, Ugland House, Grand Cayman KY1-1104, Cayman Islands; Block A, Raycom Infotech Park, No. 2 Kexueyuan South Road, Haidian District, Beijing, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; Program: CMIC-EO13959"
+  },
+  {
+   "name": "Nanjing Panda Electronics Company Limited",
+   "aliases": [
+    "NANJING PANDA",
+    "NANJING PANDA ELECTR. CO. LTD.",
+    "NANJING PANDA ELECTRONIC CO. LTD."
+   ],
+   "country": "China",
+   "address": "7, Jingtian Road, Nanjing 210033, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91320100134974572K (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "NetPosa Technologies, Ltd.",
+   "aliases": [
+    "NETPOSA",
+    "NETPOSA TECHNOLOGIES LIMITED"
+   ],
+   "country": "China",
+   "address": "Wangjing Soho, 2nd Tower, 26th Floor, 1, Futong Avenue, Chaoyang District, Beijing 100102, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 91110000721497432T (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Panda Electronics Group Co., Ltd.",
+   "aliases": [
+    "PANDA ELECTRONICS GROUP LIMITED"
+   ],
+   "country": "China",
+   "address": "No. 301, Zhongshan East Road, Xuanwu District, Nanjing, Jiangsu 210002, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: State-Owned Enterprise; Listing Date (CMIC): 03 Jun 2021; USCC: 913201921348831521 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Proven Glory Capital Limited",
+   "aliases": [
+    "PROVEN GLORY"
+   ],
+   "country": "British Virgin Islands",
+   "address": "263 Main Street, Road Town VG11100, Virgin Islands, British",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959; Linked To: HUAWEI INVESTMENT & HOLDING CO., LTD."
+  },
+  {
+   "name": "Proven Honour Capital Ltd",
+   "aliases": [
+    "PROVEN HONOUR",
+    "PROVEN HONOUR CAPITAL LIMITED"
+   ],
+   "country": "British Virgin Islands",
+   "address": "C/O Vistra Corporate Services Centre, Wickhams Cay II, Road Town VG1110, Virgin Islands, British",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Private Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959; Linked To: HUAWEI INVESTMENT & HOLDING CO., LTD."
+  },
+  {
+   "name": "Semiconductor Manufacturing International Corporation",
+   "aliases": [
+    "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION CO., LTD",
+    "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION LIMITED",
+    "SEMICONDUCTOR MFG INTL CORP",
+    "SMIC"
+   ],
+   "country": "China",
+   "address": "18, Zhangjiang Road, Pudong New Area, Shanghai 201203, China; Cayman Islands",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; Program: CMIC-EO13959"
+  },
+  {
+   "name": "Sensetime Group Limited",
+   "aliases": [
+    "SENSETIME GROUP LTD",
+    "商湯集團有限公司"
+   ],
+   "country": "China",
+   "address": "Block 1, 1F & 2F Harbour View, 12 Science Park, West Avenue, Hong Kong New Territories, Hong Kong SAR, China",
+   "status": null,
+   "effective_date": "2022-02-08",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 10 Dec 2021; Program: CMIC-EO13959"
+  },
+  {
+   "name": "Shaanxi Zhongtian Rocket Technology Co., Ltd",
+   "aliases": [
+    "SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED"
+   ],
+   "country": "China",
+   "address": "Xi'an, China",
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": null,
+   "notes": "Target Type: Public Company; Listing Date (CMIC): 03 Jun 2021; USCC: 91610000741252408P (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "SZ DJI Technology Co., Ltd.",
+   "aliases": [
+    "深圳市大疆创新科技有限公司"
+   ],
+   "country": "China",
+   "address": "14 F, West Block of Skyworth Semiconductor Design Building, No. 18 Gaoxin South 4th Road, Nanshan District, Shenzhen, Guangdong 518057, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 914403007954257495 (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Xiamen Meiya Pico Information Co., Ltd.",
+   "aliases": [],
+   "country": "China",
+   "address": "2nd Phase of Xiamen Software Park, Meiya Pico Building, 12 Guanri Road, Xiamen 361008, China",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; USCC: 91350200705420347R (China); Program: CMIC-EO13959"
+  },
+  {
+   "name": "Yitu Limited",
+   "aliases": [
+    "依图科技有限公司"
+   ],
+   "country": "Cayman Islands",
+   "address": "Suite #4-210, Governors Square, 23 Lime Tree Bay Avenue, PO Box 23211, Grand Cayman KY1-1209, Cayman Islands",
+   "status": null,
+   "effective_date": "2022-02-14",
+   "federal_register": null,
+   "notes": "Listing Date (CMIC): 16 Dec 2021; Program: CMIC-EO13959"
+  }
+ ]
+}

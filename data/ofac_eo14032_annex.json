@@ -1,0 +1,598 @@
+{
+ "list_id": "ofac-eo14032",
+ "source_file": "14032.pdf",
+ "extracted": "2026-07-09",
+ "count": 59,
+ "entities": [
+  {
+   "name": "AERO ENGINE CORPORATION OF CHINA",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AEROSPACE CH UAV CO., LTD",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AEROSPACE COMMUNICATIONS HOLDINGS GROUP COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AEROSUN CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIATION INDUSTRY CORPORATION OF CHINA, LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIC AVIATION HIGH-TECHNOLOGY COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIC HEAVY MACHINERY COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIC JONHON OPTRONIC TECHNOLOGY CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIC SHENYANG AIRCRAFT COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHANGSHA JINGJIA MICROELECTRONICS COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA AEROSPACE TIMES ELECTRONICS CO., LTD",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA AVIONICS SYSTEMS COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA COMMUNICATIONS CONSTRUCTION GROUP (LIMITED)",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA ELECTRONICS CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA ELECTRONICS TECHNOLOGY GROUP CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA GENERAL NUCLEAR POWER CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA MARINE INFORMATION ELECTRONICS COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA MOBILE LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA NATIONAL NUCLEAR CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA NATIONAL OFFSHORE OIL CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA NORTH INDUSTRIES GROUP CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA NUCLEAR ENGINEERING CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA SATELLITE COMMUNICATIONS CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA SHIPBUILDING INDUSTRY COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA SHIPBUILDING INDUSTRY GROUP POWER COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA SOUTH INDUSTRIES GROUP CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA SPACESAT CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA STATE SHIPBUILDING CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA TELECOM CORPORATION LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA TELECOMMUNICATIONS CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA UNICOM (HONG KONG) LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CNOOC LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "COSTAR GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "CSSC OFFSHORE & MARINE ENGINEERING (GROUP) COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "GUIZHOU SPACE APPLIANCE CO., LTD",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "HUAWEI INVESTMENT & HOLDING CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "HUAWEI TECHNOLOGIES CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "INNER MONGOLIA FIRST MACHINERY GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "INSPUR GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "JIANGXI HONGDU AVIATION INDUSTRY CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "NANJING PANDA ELECTRONICS COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "NORTH NAVIGATION CONTROL TECHNOLOGY CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "PANDA ELECTRONICS GROUP CO., LTD.",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "PROVEN GLORY CAPITAL LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "PROVEN HONOUR CAPITAL LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  },
+  {
+   "name": "ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED",
+   "aliases": [],
+   "country": "China",
+   "address": null,
+   "status": null,
+   "effective_date": "2021-08-02",
+   "federal_register": "86 FR 30145 (June 7, 2021)",
+   "notes": "Listed in the Annex to E.O. 14032 (replacing the Annex to E.O. 13959)"
+  }
+ ]
+}

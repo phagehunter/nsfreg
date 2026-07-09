@@ -1,0 +1,1535 @@
+{
+ "list_id": "dow-1286",
+ "source_file": "FY24 Section 1286 List for public release_V2.pdf",
+ "extracted": "2026-07-09",
+ "count": 134,
+ "entities": [
+  {
+   "name": "Academy of Military Medical Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Field Blood Transfusion Institution",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Basic Medicine",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Bioengineering",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Disease Control and Prevention",
+   "aliases": [
+    "Disease Control and Prevention Institute"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Health Service and Medical Information",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Hygiene and Environmental Medicine",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Medical Equipment",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Microbiology and Epidemiology",
+   "aliases": [
+    "Institute of Microbial Epidemiology"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Radiation and Radiation",
+   "aliases": [
+    "Institute of Radiation and Radiation Medicine",
+    "Institute of Electromagnetic and Particle Radiation Medicine"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Institute of Toxicology and Pharmacology",
+   "aliases": [
+    "Institute of Toxicology and Drugs"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Academy of Military Medical Sciences, Military Veterinary Research Institute",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Aviation University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Command College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Communication NCO Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Early Warning Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Harbin Flight Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Logistics College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Medical University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Shijianzhuang Flight Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Air Force Xi'an Flight Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Amirkabir University of Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Academy of Armored Forces",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Academy of Artillery and Air Defense",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Academy of Border and Coastal Defense",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Aviation Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Command College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Infantry College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Institute of NBC Defence",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Logistic University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Medical University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Military Transportation University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Army Special Operations Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Astrakhan State University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "ATR Defense S&T Key Laboratory of Intelligent Information Processing at Shenzhen University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Bauman Moscow State Technical University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing Academy of Quantum Information Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing Aeronautical Manufacturing Technology Research Institute",
+   "aliases": [
+    "Aviation Industry Corporation of China's Institute 625"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing Computational Science Research Center",
+   "aliases": [
+    "Beijing Computing Science Research Center",
+    "CSRC"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing Institute of Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing University of Aeronautics and Astronautics",
+   "aliases": [
+    "Beihang University"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Beijing University of Posts and Telecommunications",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Center for High Pressure Science and Technology Advanced Research",
+   "aliases": [
+    "Beijing High Voltage Research Center"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Changchun University of Science and Technology",
+   "aliases": [
+    "Changchun Institute of Optics and Fine Mechanics"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "China Coast Guard Academy",
+   "aliases": [
+    "China Maritime Police Academy",
+    "People's Armed Police China Coast Guard Academy",
+    "PAP China Coast Guard Academy"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Engineering Physics",
+   "aliases": [
+    "Ninth Academy",
+    "Southwest Computing Center",
+    "Southwest Institute of Applied Electronics",
+    "Southwest Institute of Chemical Materials",
+    "Southwest Institute of Electronic Engineering",
+    "Southwest Institute of Environmental Testing",
+    "Southwest Institute of Explosives and Chemical Engineering",
+    "Southwest Institute of Fluid Physics",
+    "Southwest Institute of General Designing and Assembly",
+    "Southwest Institute of Machining Technology",
+    "Southwest Institute of Materials",
+    "Southwest Institute of Nuclear Physics and Chemistry (a.k.a., China Academy of Engineering Physics' 902 Institute)",
+    "Southwest Institute of Research and Applications of Special Materials Factory",
+    "Southwest Institute of Structural Mechanics",
+    "The High Power Laser Laboratory, Shanghai",
+    "The Institute of Applied Physics and Computational Mathematics, Beijing",
+    "901 Institute"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences - Center for Excellence in Quantum Information and Quantum Physics",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences (CAS) - Institute of Computing Technology (ICT)",
+   "aliases": [
+    "Institute of Computing Technology Chinese Academy of Sciences",
+    "Institute of Computing Technology",
+    "CAS ICT",
+    "ICT CAS"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences - Institute of Physics",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences - Key Laboratory for Quantum Information",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences - Shanghai Institute of Microsystem and Information Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chinese Academy of Sciences - Shenyang Institute of Automation",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Chongqing University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Dalian Naval Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Dalian University of Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of Antennas and Microwave Technology at Xidian University",
+   "aliases": [
+    "National Key Laboratory of Science and Technology on Antennas and Microwaves (Xidian)",
+    "Antenna Institute",
+    "Key Laboratory of Antenna and Microwave Technology",
+    "National Key Laboratory of Antenna and Microwave Technology",
+    "Antennas and Microwave Technology Key Laboratory of National Defense",
+    "Defense S&T Key Laboratory of Antennas and Microwave Technology",
+    "Science and Technology on Antenna and Microwave Laboratory",
+    "State Key Laboratory of Antennas and Microwave Technology",
+    "National Laboratory of Antennas and Microwave Technology",
+    "National Key Laboratory of Science and Technology on Antenna and Microwave"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of Electronic Measurement Technology at North University of China",
+   "aliases": [
+    "Defense S&T Key Laboratory of Signal Detection",
+    "Key Laboratory of Signal Detection",
+    "National Key Laboratory for Electronic Measurement Technology",
+    "State Key Laboratory for Electronic Measurement Technology",
+    "Key Laboratory for Electronic Measurement Technology",
+    "Defense Key Laboratory for Electronic Measurement Technology",
+    "China Electronics Technology Instruments Co., Ltd (CETI) Key Laboratory for Electronic Measurement Technology",
+    "CETI 41st RI Key Laboratory for Electronic Measurement Technology",
+    "North University of China Key Laboratory for Electronic Measurement Technology",
+    "North University of China School of Instrument and Electronics Key Laboratory for Electronic Measurement Technology",
+    "North University of China School of Electronics and Computer Science & Technology Key Laboratory for Electronic Measurement Technology"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of High-Power Semiconductor Lasers at Changchun University of Science and Technology",
+   "aliases": [
+    "State Key Laboratory of High Power Semiconductor Laser of Changchun University of Science and Technology",
+    "State Key Laboratory on High-Power Semiconductor Lasers",
+    "National Key Laboratory on High Power Semiconductor Laser",
+    "Key Laboratory on High Power Semiconductor Laser",
+    "Defense Key Laboratory on High Power Semiconductor Laser"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of Lightweight, High-strength Structural Materials at Central South University",
+   "aliases": [
+    "State Key Laboratory for Light Weight and High Strength Structural Materials (Central South University)",
+    "National Key Laboratory for High-strength Structural Materials",
+    "National Key Laboratory of Science and Technology for National Defence on Highstrength Structural Materials",
+    "National Key Laboratory of Science and Technology for National Defence on Highstrength Lightweight Structural Materials",
+    "Key Laboratory on High-strength Lightweight Structural Materials"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of Multi-spectral Information Processing Technology at Huazhong University of S&T",
+   "aliases": [
+    "National Key Laboratory of Science and Technology on Multi-spectral Information Processing",
+    "National Key Laboratory of Multi-spectral Information Processing Technology",
+    "State Key Laboratory for Multispectral Information Processing Technologies"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Defense S&T Key Laboratory of Radar Signal Processing at Xidian University",
+   "aliases": [
+    "National Key Laboratory of Science and Technology on Radar Signal Processing",
+    "National Lab of Radar Signal Processing",
+    "Xidian Electronics Research Institute",
+    "National Key Laboratory of Radar Signal Processing",
+    "Key Laboratory for Radar Signal Processing",
+    "State Laboratory of Radar Signal Processing",
+    "National Laboratory of Radar Signal Processing"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal Autonomous Institution Central Institute of Engine-Building N.A. P.I. Baranov",
+   "aliases": [
+    "Central Institute of Aviation Motors",
+    "CIAM"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal Research Center Boreskov Institute of Catalysis",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Institute A.V. Zhirmunskiy National Scientific Research Center of Marine Biology, Far East Branch, Russian Academy of Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Institution of Science Institute of Bioorganic Chemistry named after Academicians M.M. Shemyakin and Yu.A. Ovchinnikov, Russian Academy of Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Institution of Science Federal Research Center Pushchino Scientific Center for Biology, Russian Academy of Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Institution of Science Institute of Molecular and Cell Biology, Siberian Branch of the Russian Academy of Sciences",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Institution of Science P.I.K.A. Valiev RAS of the Ministry of Science and Higher Education of Russia",
+   "aliases": [
+    "FTIAN IM K.A.Valiev RAS",
+    "FTI RAS",
+    "FTIAN"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Budgetary Scientific Institution Research and Production Complex Technology Center",
+   "aliases": [
+    "Federalnoe Gosudarstvennoe Byudzhetnoe Nauchnoe Uchrezhdenie Nauchno-Proizvodstvenny Kompleks Tekhnologicheskiy Tsentr - NPK Technological Center",
+    "NPKTS",
+    "Scientific Manufacturing Complex Technological Center",
+    "SMC Technological Center"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Institution Federal Scientific Center Scientific Research Institute for System Analysis of the Russian Academy of Sciences",
+   "aliases": [
+    "Federalnoe Gosudarstvennoe Uchrezhdenie Federalnyy Nauchnyy Tsentr Nauchno-Issledovatelskiy Institut Sistemnykh Issledovaniy Rossiyskoy Akademii Nauk",
+    "FGU FNTS NIISI RAN",
+    "FSI FSC SRISA RAS",
+    "Scientific Research Institute of System Analysis, Russian Academy of Sciences"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Unitary Enterprise All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements",
+   "aliases": [
+    "VNIIFTRI"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Federal State Unitary Enterprise Central Scientific Research Institute of Chemistry and Mechanics",
+   "aliases": [
+    "CNIIHM",
+    "Federalnoe Gosudarstvennoe Unitarnoe Predpriyatie Tsentralny Nauchno-Issledovatelski Institut Khimii I Mekhaniki",
+    "FGUP CNIIXM",
+    "FGUP TSNIIKHM",
+    "FSUE CNIIHM",
+    "FSUE TSNIIKHM",
+    "GNTS RF FGUP TSNIIKHM",
+    "State Research Center of the Russian Federation FGUP Central Scientific Research Institute of Chemistry and Mechanics",
+    "Tsentralny Naucho-Issledovatelsky Institut Khimii I Mekhaniki, FGUP",
+    "TSNIIKHM"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Guilin University of Electronic Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Harbin Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Harbin Institute of Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Hefei National Laboratory for Physical Sciences at the Microscale",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Information Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Institute of High Energy Physics",
+   "aliases": [
+    "Kurchatovskiy Institute ITEF"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Institute of Physics Named After P.N. Lebedev of the Russian Academy of Sciences",
+   "aliases": [
+    "Lebedev Physical Institute",
+    "LPI RAS",
+    "FIAN"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Institute of Solid-State Physics of the Russian Academy of Sciences",
+   "aliases": [
+    "Institute of Solid-State Physics of the Academy of Sciences SSSR",
+    "Federal State Budgetary Institution of Science Institute of Solid-State Physics N.A. Yu. A. Osipyan of the Russian Academy of Sciences"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Imam Hussein University",
+   "aliases": [
+    "Imam Hossein University",
+    "IHU",
+    "Imam Hussein University of the Revolutionary Guards"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences",
+   "aliases": [
+    "Federalnoe Gosudarstvennoe Uchrezhdenie Federalny Issledovatelski Tsentr Institut Prikladnoi Metematiki I.M. Keldysha Rossiiskoi Akademii Nauk",
+    "IPM IM. M.V. Keldisha RAN",
+    "KIAM RAS"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Key Laboratory of Information Systems Engineering",
+   "aliases": [
+    "KLISE"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Lomonosov Moscow State University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Luoyang Institute of Science and Technology",
+   "aliases": [
+    "Luoyang Institute of Technology"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Mabna Institute",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Moscow Aviation Institute",
+   "aliases": [
+    "MAI"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Moscow's Higher School of Economics",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Moscow Institute of Physics and Technology",
+   "aliases": [
+    "MFTI"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Moscow Order of the Red Banner of Labor Research Radio Engineering Institute JSC",
+   "aliases": [
+    "MNIRTI JSC"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Moscow State University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Nanjing Institute of Astronomical Optics and Technology",
+   "aliases": [
+    "NIAOT"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Nanjing University of Aeronautics and Astronautics",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Nanjing University of Science and Technology",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "National Defense University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "National University of Defense Technology",
+   "aliases": [
+    "Central South CAD Center",
+    "CSCC",
+    "Hunan Guofang Keji University"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval Aviation University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval Command College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval Medical University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval NCO School",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Naval Service Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Navy Submarine Academy",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "North University of China",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Northwestern Polytechnical University",
+   "aliases": [
+    "Northwestern Polytechnic University",
+    "Northwest Polytechnic University",
+    "Northwest Polytechnical University"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Ocean University of China",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Rocket Force Command College",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Rocket Force Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Rocket Force NCO School",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian Academy of Sciences",
+   "aliases": [
+    "IPP SB RAS",
+    "Institute of Semiconductor Physics IM A.V. Rzhanov"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Sharif University of Technology",
+   "aliases": [
+    "Arya Mehr University of Technology",
+    "SHFT",
+    "SUT",
+    "Sharif Technical University"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Shenyang Ligong University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Siberian Scientific-Research Institute of Aviation N.A. S.A. Chaplygin",
+   "aliases": [
+    "SibNIA"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Sichuan University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Skolkovo Institute of Science and Technology",
+   "aliases": [
+    "Autonomous Non-Profit Organization for Higher Education Skolkovo Institute of Science and Technology",
+    "Skolkovskiy Institut Nauki I Tekhnologii",
+    "Skoltech"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Space Engineering University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Sun Yat-Sen University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Tactical Missile Corporation, Concern \"MPO—Gidropribor\"",
+   "aliases": [
+    "Joint Stock Company Concern Sea Underwater Weapons Gidropribor",
+    "Research Institute \"Gidpropridor\""
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Tactical Missile Corporation, Joint Stock Company GosNIIMash",
+   "aliases": [
+    "PPORosprofprom V \"GOSNIIMASH\"",
+    "State Research Institute of Mechanical Engineering",
+    "Pervichnaya Profsoyuznaya Organizatsiya Rossiskogo Profsoyuza Rabotnikov Promyshlennosti V",
+    "\"GOSNIIMASH\"",
+    "Joint Stock Company \"State Research Institute of Mechanical Engineering\" named after V.V.Bakhirev\"",
+    "SKB DNIKhTI"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Tianjin University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Center for International Security and Strategy (affiliated with Tsinghua University)",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "University of Electronic Science and Technology of China",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "University of Science and Technology of China",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Ural Federal University Named After First President of Russia B.N. Yeltsin",
+   "aliases": [
+    "UrFu"
+   ],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Xi'an Jiatong University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Xi'an Technological University",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 1: institutions with specified characteristics (PRC, Russian Federation, and other countries)"
+  },
+  {
+   "name": "Changjiang Scholar Distinguished Professorship",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  },
+  {
+   "name": "Hundred Talents Plan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  },
+  {
+   "name": "Pearl River Talent Program",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  },
+  {
+   "name": "Project 5-100",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  },
+  {
+   "name": "River Talents Plan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  },
+  {
+   "name": "Thousand Talents Plan",
+   "aliases": [],
+   "country": null,
+   "address": null,
+   "status": null,
+   "effective_date": null,
+   "federal_register": null,
+   "notes": "FY2024 Section 1286 list, Table 2: foreign talent recruitment programs that pose a threat to national security interests"
+  }
+ ]
+}
