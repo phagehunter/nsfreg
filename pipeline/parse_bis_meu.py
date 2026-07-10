@@ -21,14 +21,14 @@ from pathlib import Path
 import docx
 
 SRC = Path(
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "Appendix A - U.S. Proscribed Party Lists/"
     "U.S. Department of Commerce, Bureau of Industry and Security/"
     "Military End-User Entities/"
     "Supplement No. 7 to Part 744—'Military End-User' (MEU) List.docx"
 )
 OUT = Path(
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "2026-07-09-nsf-restricted-entities-site/data/bis_meu.json"
 )
 

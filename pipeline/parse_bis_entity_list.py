@@ -25,13 +25,13 @@ import unicodedata
 from pathlib import Path
 
 SRC = Path(
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "Appendix A - U.S. Proscribed Party Lists/"
     "U.S. Department of Commerce, Bureau of Industry and Security/"
     "Entity List/Supplement No. 4 to Part 744—Entity List.txt"
 )
 OUT = Path(
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "2026-07-09-nsf-restricted-entities-site/data/bis_entity_list.json"
 )
 

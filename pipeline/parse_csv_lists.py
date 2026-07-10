@@ -15,9 +15,9 @@ import os
 import re
 import sys
 
-BASE = ("/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+BASE = ("../../nsf-prohibitions-july-2026/"
         "Appendix A - U.S. Proscribed Party Lists")
-OUT_DIR = ("/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+OUT_DIR = ("../../nsf-prohibitions-july-2026/"
            "2026-07-09-nsf-restricted-entities-site/data")
 EXTRACTED = "2026-07-09"
 

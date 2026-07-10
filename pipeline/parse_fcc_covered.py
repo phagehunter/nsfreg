@@ -14,7 +14,7 @@ import sys
 from html.parser import HTMLParser
 
 SOURCE = (
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "Appendix A - U.S. Proscribed Party Lists/"
     "U.S. Federal Communications Commission/"
     "Equipment and Services Covered by Section 2 of The Secure Networks Act/"
@@ -22,7 +22,7 @@ SOURCE = (
     "Federal Communications Commission.html"
 )
 OUT = (
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "2026-07-09-nsf-restricted-entities-site/data/fcc_covered.json"
 )
 

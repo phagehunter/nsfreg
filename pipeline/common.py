@@ -4,9 +4,9 @@ import json
 import os
 import re
 
-BASE_DIR = ("/Users/curtishoffmann/Desktop/Desktop/Datasets/"
+BASE_DIR = ("../../"
             "nsf-prohibitions-july-2026/Appendix A - U.S. Proscribed Party Lists")
-DATA_DIR = ("/Users/curtishoffmann/Desktop/Desktop/Datasets/"
+DATA_DIR = ("../../"
             "nsf-prohibitions-july-2026/2026-07-09-nsf-restricted-entities-site/data")
 
 EXTRACTED = "2026-07-09"

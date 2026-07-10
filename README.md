@@ -34,35 +34,10 @@ Supporting directories:
 No build step, no frameworks, no external requests: the site is plain
 HTML/CSS/JS and works offline once loaded.
 
-## Deploy to GitHub Pages
+## Deployment
 
-Published from the `nsfreg` repository as a project site, served at
-`https://curtishoffmann.com/nsfreg/` (path inherited from the account's custom
-domain).
-
-1. Create the GitHub repository [`phagehunter/nsfreg`](https://github.com/phagehunter/nsfreg).
-2. From this folder:
-
-   ```bash
-   git init
-   git add .
-   git commit -m "NSF restricted entities guide"
-   git branch -M main
-   git remote add origin https://github.com/phagehunter/nsfreg.git
-   git push -u origin main
-   ```
-
-3. In the repo: **Settings → Pages → Source: Deploy from a branch →
-   Branch: `main` / `(root)` → Save.**
-4. The site publishes within a couple of minutes at the account's Pages
-   domain + `/nsfreg/` (custom domain if the user/organization site sets one,
-   otherwise `https://<username>.github.io/nsfreg/`).
-
-For GitHub discoverability, set the repo **description** ("Unofficial
-searchable guide to the 13 U.S. restricted party lists in NSF's FY2027
-collaboration prohibition"), **website** (the live URL), and **topics**
-(`nsf`, `research-security`, `restricted-party-screening`, `export-control`,
-`compliance`, `entity-list`, `uflpa`, `sanctions`).
+The site is plain static files served by GitHub Pages from this repository's
+`main` branch — no build step. Any static host works.
 
 ## Test locally
 

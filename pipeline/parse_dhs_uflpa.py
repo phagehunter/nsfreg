@@ -22,13 +22,13 @@ import sys
 from html.parser import HTMLParser
 
 SOURCE = (
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "Appendix A - U.S. Proscribed Party Lists/"
     "U.S. Department of Homeland Security/UFLPA Entity List/"
     "UFLPA Entity List _ Homeland Security.html"
 )
 OUT = (
-    "/Users/curtishoffmann/Desktop/Desktop/Datasets/nsf-prohibitions-july-2026/"
+    "../../nsf-prohibitions-july-2026/"
     "2026-07-09-nsf-restricted-entities-site/data/dhs_uflpa.json"
 )
 
