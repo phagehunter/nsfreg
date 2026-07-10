@@ -84,11 +84,11 @@ def make_og_card(out):
     d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=GOLD)
     d.text((cx, cy + 4), "RE", font=font(FONT_BOLD, 52), fill=NAVY, anchor="mm")
 
-    # unofficial tag
+    # independent tag
     tag_f = font(FONT_BOLD, 26)
-    tw = d.textlength("UNOFFICIAL COMMUNITY GUIDE", font=tag_f)
+    tw = d.textlength("INDEPENDENT COMMUNITY GUIDE", font=tag_f)
     d.rounded_rectangle((214, 118, 214 + tw + 44, 182), radius=14, outline=GOLD, width=3)
-    d.text((214 + 22, 150), "UNOFFICIAL COMMUNITY GUIDE", font=tag_f, fill=GOLD, anchor="lm")
+    d.text((214 + 22, 150), "INDEPENDENT COMMUNITY GUIDE", font=tag_f, fill=GOLD, anchor="lm")
 
     # title
     t1 = font(FONT_BOLD, 78)

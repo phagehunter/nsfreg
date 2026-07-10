@@ -36,7 +36,7 @@ PAGES = {
     },
     "about.html": {
         "og_title": "About the NSF Restricted Entities Guide — data & methodology",
-        "desc": "How this unofficial guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.",
+        "desc": "How this independent guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.",
     },
 }
 
@@ -79,9 +79,9 @@ JSONLD_INDEX = """<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "NSF Restricted Entities Guide (Unofficial)",
+  "name": "NSF Restricted Entities Guide (Independent)",
   "url": "%s/",
-  "description": "Unofficial searchable guide to the U.S. restricted party lists covered by NSF's July 2026 prohibition on collaborations with restricted entities.",
+  "description": "Independent searchable guide to the U.S. restricted party lists covered by NSF's July 2026 prohibition on collaborations with restricted entities.",
   "author": {"@type": "Person", "name": "Curtis Hoffmann", "url": "https://curtishoffmann.com"},
   "potentialAction": {
     "@type": "SearchAction",
@@ -106,7 +106,7 @@ def head_block(page, cfg):
         '<meta property="og:image:width" content="1200">',
         '<meta property="og:image:height" content="630">',
         '<meta property="og:image:alt" content="NSF Restricted Entities Guide — search 5,900+ entries across all 13 U.S. restricted party lists">',
-        '<meta property="og:site_name" content="NSF Restricted Entities Guide (Unofficial)">',
+        '<meta property="og:site_name" content="NSF Restricted Entities Guide (Independent)">',
         '<meta name="twitter:card" content="summary_large_image">',
         f'<meta name="twitter:title" content="{cfg["og_title"]}">',
         f'<meta name="twitter:description" content="{cfg["desc"]}">',

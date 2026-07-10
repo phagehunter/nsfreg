@@ -1,4 +1,4 @@
-# NSF Restricted Entities Guide (Unofficial)
+# NSF Restricted Entities Guide (Independent)
 
 **Live site: <https://curtishoffmann.com/nsfreg/>**
 
@@ -10,7 +10,7 @@ in one place. Built for NSF-affiliated researchers and research administrators.
 Project led by [Curtis Hoffmann](https://curtishoffmann.com) —
 [share your feedback](https://forms.gle/FavcasB5Feao7jVG6).
 
-> **Unofficial.** This site is a community resource — not an NSF or U.S.
+> **Independent.** This site is a community resource — not an NSF or U.S.
 > government website, not a compliance determination, and not legal advice.
 > Every page links to the authoritative sources.
 
