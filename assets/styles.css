@@ -261,6 +261,22 @@ nav.primary a[aria-current="page"] {
   font-weight: 600;
 }
 
+/* single-list filter banner */
+.list-banner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 1.3rem 0 0.4rem;
+  padding: 0.6rem 0.8rem;
+  background: var(--primary-lightest);
+  border: 1px solid #b9d3ec;
+  border-radius: var(--radius);
+}
+.list-banner .label { font-size: 0.85rem; font-weight: 700; color: var(--ink-soft); }
+.list-banner #clear-list { background: #fff; }
+.list-banner #clear-list:hover { background: var(--primary-dark); border-color: var(--primary-dark); color: #fff; }
+
 /* ---------- Results ---------- */
 main { min-height: 45vh; }
 .results-meta {

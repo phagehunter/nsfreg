@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The 13 Restricted Party Lists — NSF Prohibition Guide (Unofficial)</title>
 <meta name="description" content="Plain-language explainers for every restricted party list in Appendix A of NSF's DCL: legal basis, maintaining agency, what entities appear, and links to the authoritative sources.">
-<link rel="stylesheet" href="assets/styles.css">
+<link rel="stylesheet" href="assets/styles.css?v=20260710b">
 <link rel="canonical" href="https://curtishoffmann.com/nsfreg/lists.html">
 <meta name="author" content="Curtis Hoffmann">
 <meta name="robots" content="index, follow">
@@ -119,7 +119,7 @@
   </div>
 </footer>
 
-<script src="assets/entities.js"></script>
+<script src="assets/entities.js?v=20260710b"></script>
 <script>
 (function () {
   var D = window.NSF_DATA;
@@ -145,7 +145,7 @@
       "</dl>" +
       '<div class="note"><strong>For researchers:</strong> ' + esc(l.researcher_note) + "</div>" +
       '<p style="margin:0.9rem 0 0"><a class="btn" href="' + esc(l.official_url) + '" target="_blank" rel="noopener">' + esc(l.official_url_label) + " ↗</a> " +
-      '<a class="btn ghost" href="index.html">Search this snapshot</a></p>' +
+      '<a class="btn ghost" href="index.html?list=' + encodeURIComponent(id) + '">Search this snapshot</a></p>' +
       "</article>";
   });
   mount.innerHTML = html;

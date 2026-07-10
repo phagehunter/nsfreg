@@ -24,6 +24,7 @@
     ["CBP", "CBP"]
   ];
   var activeAgency = "all";
+  var activeList = null; // when set, results are restricted to this single list id
 
   var BADGE_CLASS = {
     "DoW": "dow", "Commerce/BIS": "bis", "Treasury/OFAC": "ofac",
@@ -74,17 +75,28 @@
     return 25;
   }
 
+  // browse mode = a single list is selected and there is no real query yet,
+  // so we list every entry in that list instead of requiring a search term
+  function isBrowse(qRaw) {
+    return !!activeList && norm(qRaw).length < 2;
+  }
+
   function search(qRaw) {
     var joined = norm(qRaw);
-    if (joined.length < 2) return null;
-    var tokens = joined.split(" ");
+    var browse = isBrowse(qRaw);
+    if (!browse && joined.length < 2) return null;
+    var tokens = browse ? [] : joined.split(" ");
     var groups = {}; // normalized name -> group
     var ents = DATA.entities;
     for (var i = 0; i < ents.length; i++) {
       var rec = ents[i];
       var list = DATA.lists[rec.l];
-      if (activeAgency !== "all" && agencyFamily(list.agency_short) !== activeAgency) continue;
-      var sc = score(rec, tokens, joined);
+      if (activeList) {
+        if (rec.l !== activeList) continue;
+      } else if (activeAgency !== "all" && agencyFamily(list.agency_short) !== activeAgency) {
+        continue;
+      }
+      var sc = browse ? 50 : score(rec, tokens, joined);
       if (sc <= 0) continue;
       var gk = norm(rec.n);
       var g = groups[gk];
@@ -151,7 +163,9 @@
   }
 
   function render() {
+    updateFilterUI();
     var q = $q.value;
+    var browse = isBrowse(q);
     var res = search(q);
     if (res === null) {
       $results.innerHTML = "";
@@ -159,19 +173,28 @@
         "Search " + DATA.entities.length.toLocaleString() + " entries across all 13 lists. Results are grouped by entity name.";
       return;
     }
+    var listName = activeList ? DATA.lists[activeList].short_name : null;
     if (!res.length) {
       $meta.textContent = "";
-      $results.innerHTML = '<div class="empty"><p class="big">No matches for “' + esc(q) + '” in this snapshot.</p>' +
+      $results.innerHTML = '<div class="empty"><p class="big">No matches for “' + esc(q) + '”' +
+        (listName ? " in " + esc(listName) : " in this snapshot") + '.</p>' +
         '<p>That is <strong>not</strong> a clearance. Names vary (translations, abbreviations, subsidiaries) and lists change often. ' +
-        'Check the <a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a> ' +
-        'and the <a href="lists.html">official sources</a>, and consult your institution’s research security office.</p></div>';
+        (activeList ? 'Try <a href="index.html">searching all lists</a>, the ' : 'Check the ') +
+        '<a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a>' +
+        (activeList ? ',' : '') + ' and the <a href="lists.html">official sources</a>, and consult your institution’s research security office.</p></div>';
       return;
     }
     var total = res.length;
     var slice = res.slice(0, shown);
-    $meta.innerHTML = "<strong>" + total.toLocaleString() + "</strong> " + (total === 1 ? "entity matches" : "entities match") +
-      " “" + esc(q) + "”" + (activeAgency !== "all" ? " (filtered)" : "") +
-      ". Always verify against the official source before acting.";
+    if (browse) {
+      $meta.innerHTML = "Showing all <strong>" + total.toLocaleString() + "</strong> " +
+        (total === 1 ? "entry" : "entries") + " in " + esc(listName) +
+        ". Type above to search within this list. Always verify against the official source before acting.";
+    } else {
+      $meta.innerHTML = "<strong>" + total.toLocaleString() + "</strong> " + (total === 1 ? "entity matches" : "entities match") +
+        " “" + esc(q) + "”" + (listName ? " in " + esc(listName) : (activeAgency !== "all" ? " (filtered)" : "")) +
+        ". Always verify against the official source before acting.";
+    }
     var html = slice.map(renderGroup).join("");
     if (total > shown) {
       html += '<p style="text-align:center"><button class="btn ghost" id="more">Show more (' + (total - shown) + " remaining)</button></p>";
@@ -182,6 +205,52 @@
   }
 
   /* ---- filters ---- */
+  // single-list banner (shown when arriving from a "Search this snapshot" link)
+  var $banner = null;
+  if ($filters && $filters.parentNode) {
+    $banner = document.createElement("div");
+    $banner.className = "list-banner";
+    $banner.style.display = "none";
+    $filters.parentNode.insertBefore($banner, $filters);
+    $banner.addEventListener("click", function (e) {
+      if (!e.target.closest("#clear-list")) return;
+      setActiveList(null);
+      $q.focus();
+    });
+  }
+
+  function updateFilterUI() {
+    if (!$filters) return;
+    if (activeList) {
+      var l = DATA.lists[activeList];
+      $filters.style.display = "none";
+      if ($banner) {
+        $banner.style.display = "";
+        $banner.innerHTML = '<span class="label">Showing only:</span> ' +
+          '<span class="badge ' + (BADGE_CLASS[l.agency_short] || "") + '">' +
+          esc(l.agency_short) + " — " + esc(l.short_name) + "</span> " +
+          '<button class="chip" id="clear-list">✕ Clear filter — search all lists</button>';
+      }
+    } else {
+      $filters.style.display = "";
+      if ($banner) $banner.style.display = "none";
+    }
+  }
+
+  function setActiveList(id) {
+    activeList = id && DATA.lists[id] ? id : null;
+    activeAgency = "all";
+    shown = PAGE;
+    $q.placeholder = activeList
+      ? "Search within " + DATA.lists[activeList].short_name + "…"
+      : "Try an organization, university, company, or person…";
+    var u = new URL(location.href);
+    if (activeList) u.searchParams.set("list", activeList);
+    else u.searchParams.delete("list");
+    history.replaceState(null, "", u);
+    render();
+  }
+
   if ($filters) {
     $filters.innerHTML = '<span class="label">Agency:</span>' + AGENCIES.map(function (a) {
       return '<button class="chip" data-a="' + a[0] + '" aria-pressed="' + (a[0] === "all") + '">' + a[1] + "</button>";
@@ -225,7 +294,13 @@
   var $stat = document.getElementById("stat-entities");
   if ($stat) $stat.textContent = DATA.entities.length.toLocaleString();
 
-  var initial = new URL(location.href).searchParams.get("q");
+  var params = new URL(location.href).searchParams;
+  var initialList = params.get("list");
+  if (initialList && DATA.lists[initialList]) {
+    activeList = initialList;
+    $q.placeholder = "Search within " + DATA.lists[initialList].short_name + "…";
+  }
+  var initial = params.get("q");
   if (initial) { $q.value = initial; }
   render();
 })();
