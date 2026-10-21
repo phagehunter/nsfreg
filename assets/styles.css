@@ -380,6 +380,7 @@ main { min-height: 45vh; }
   padding: 1.2rem 1.35rem;
 }
 .card h3 { margin-top: 0; }
+.card > h2 { margin-top: 0; font-size: 1.17em; } /* same size as the former h3 */
 
 /* list explainer cards */
 .list-card {
