@@ -1,0 +1,43 @@
+# NSF Restricted Entities Guide
+
+> An independent, community-built guide by Curtis Hoffmann to the U.S. National Science Foundation's forthcoming prohibition on collaborations with restricted entities (Dear Colleague Letter of 8 July 2026). It collects a snapshot of the restricted party lists named in the DCL's Appendix A, maintained by seven federal agencies in seven formats, into one searchable index, explains each list in plain language, and translates the policy into practical steps for researchers and research administrators. Not an NSF or U.S. government website; not a compliance determination; not legal advice.
+
+Site: https://curtishoffmann.com/nsfreg/
+Source (page, data and extraction pipeline): https://github.com/phagehunter/nsfreg
+
+## Pages
+
+- Search the lists: https://curtishoffmann.com/nsfreg/
+- The policy, explained (what the DCL says, who it affects, when it takes effect, with the original text alongside): https://curtishoffmann.com/nsfreg/policy.html
+- The lists, one by one (what each is, who maintains it, what appears on it, where to verify the current version): https://curtishoffmann.com/nsfreg/lists.html
+- FAQ: https://curtishoffmann.com/nsfreg/faq.html
+- Compliance checklist for researchers and administrators: https://curtishoffmann.com/nsfreg/checklist.html
+- About this site and its data (snapshot dates, methodology, limitations): https://curtishoffmann.com/nsfreg/about.html
+
+## The policy in one paragraph
+
+NSF has given the research community advance notice that, starting in Fiscal Year 2027, it plans to prohibit the use of NSF funds for collaboration with "restricted entities", organizations that appear on any of the restricted party lists enumerated in the DCL's Appendix A. The DCL: https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party
+
+## The lists in the search index (snapshot generated 9 July 2026; 5,929 entries across 13 lists)
+
+- Department of War: Section 1260H List (Chinese Military Companies), 80 entries; Section 1286 List (Academic Institutions), 134.
+- Department of Commerce, Bureau of Industry and Security: Entity List, 3,409; Military End-User (MEU) List, 70; Denied Persons List, 564.
+- Department of the Treasury, Office of Foreign Assets Control: E.O. 14032 Annex, 59; NS-CMIC List, 68.
+- Department of State: Debarred Parties, statutory (779) and administrative (8), Directorate of Defense Trade Controls; Nonproliferation Sanctions, 528.
+- Federal Communications Commission: Covered List, 15.
+- Department of Homeland Security: UFLPA Entity List, 148.
+- Customs and Border Protection: Withhold Release Orders and Findings, 67.
+- NSF's appendix names 12 list categories; the State Department publishes its debarred parties as two lists, so the site tracks 13. The federal Consolidated Screening List combines several of them but not the 1260H, 1286, FCC Covered, UFLPA or WRO lists.
+
+## Method and limits
+
+- Entries were extracted from official publications: structured sources (CSV, eCFR text, DOCX) parsed directly; PDF and web sources converted to text and parsed with per-list scripts in `pipeline/`; per-list JSON in `data/`. The search page loads the whole snapshot as `assets/entities.js` so matching runs in the browser.
+- Search is normalized substring and token matching over names and aliases, with country, address and notes as fallback; no fuzzy matching. A hit is a lead to verify; a non-hit is not a clearance.
+- Known limits: PDF extraction can drop or garble characters, especially in non-Latin names; alias detection is pattern-based; the CBP list includes long-revoked historical orders (shown with status badges); some State Department snapshots predate 2026; entities are matched across lists by exact normalized name only.
+- Official sources to verify against: the DCL's Appendix A links, the Consolidated Screening List, NSF Research Security, researchsecurity@nsf.gov.
+
+## Contact
+
+- Project led by Curtis Hoffmann, https://curtishoffmann.com/
+- Feedback and issues: https://github.com/phagehunter/nsfreg
+- Sitemap: https://curtishoffmann.com/nsfreg/sitemap.xml
