@@ -24,16 +24,16 @@ import sys
 import unicodedata
 from pathlib import Path
 
-SRC = Path(
-    "../../nsf-prohibitions-july-2026/"
-    "Appendix A - U.S. Proscribed Party Lists/"
-    "U.S. Department of Commerce, Bureau of Industry and Security/"
-    "Entity List/Supplement No. 4 to Part 744—Entity List.txt"
-)
-OUT = Path(
-    "../../nsf-prohibitions-july-2026/"
-    "2026-07-09-nsf-restricted-entities-site/data/bis_entity_list.json"
-)
+import os  # noqa: E402
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE_DIR, DATA_DIR  # noqa: E402
+
+# Raw sources resolve through common.py, which reads NSFREG_SOURCES; see
+# sources/README.md. Output always lands in this repository's data/ folder.
+SRC = (BASE_DIR / "U.S. Department of Commerce, Bureau of Industry and Security" /
+       "Entity List" / "Supplement No. 4 to Part 744—Entity List.txt")
+OUT = DATA_DIR / "bis_entity_list.json"
 
 EM_DASH = "—"
 DASHES = ("—", "–")  # em dash, en dash

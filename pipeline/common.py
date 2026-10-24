@@ -4,12 +4,35 @@ import json
 import os
 import re
 
-BASE_DIR = ("../../"
-            "nsf-prohibitions-july-2026/Appendix A - U.S. Proscribed Party Lists")
-DATA_DIR = ("../../"
-            "nsf-prohibitions-july-2026/2026-07-09-nsf-restricted-entities-site/data")
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+# Where the raw downloads live. The official publications are large, are
+# re-published under changing file names, and several are PDFs, so they are not
+# committed; sources/README.md says what each parser expects and where to get
+# it. Point NSFREG_SOURCES at the folder holding "Appendix A - U.S. Proscribed
+# Party Lists" to run the parsers from anywhere.
+SOURCE_ROOT = Path(os.environ.get("NSFREG_SOURCES", ROOT / "sources")).expanduser()
+BASE_DIR = SOURCE_ROOT / "Appendix A - U.S. Proscribed Party Lists"
+
+# Parsers always write into this repository.
+DATA_DIR = ROOT / "data"
 
 EXTRACTED = "2026-07-09"
+
+
+def source(*parts):
+    """Resolve one raw source file, failing with the path that was expected."""
+    path = BASE_DIR.joinpath(*parts)
+    if not path.exists():
+        raise SystemExit(
+            f"missing raw source:\n  {path}\n"
+            f"Set NSFREG_SOURCES to the folder that holds "
+            f'"Appendix A - U.S. Proscribed Party Lists", or place the file at the '
+            f"path above. See sources/README.md for where each file comes from."
+        )
+    return path
 
 
 def normalize_typography(s):

@@ -1,0 +1,105 @@
+{
+  "base_url": "https://curtishoffmann.com/nsfreg/",
+  "site_updated": "2026-10-24",
+  "site_updated_note": "Date the pages themselves last changed. sitemap.xml uses the later of this and the data retrieval date, so a rebuild with no content change does not move lastmod. Bump it when a template or page text changes.",
+  "site_name": "NSF Restricted Entities Guide (Independent)",
+  "author": {
+    "name": "Curtis Hoffmann",
+    "url": "https://curtishoffmann.com"
+  },
+  "dcl_url": "https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party",
+  "og_image_alt": "NSF Restricted Entities Guide — search {entries} entries across all {lists} U.S. restricted party lists",
+  "nav": [
+    {
+      "page": "index",
+      "label": "Search"
+    },
+    {
+      "page": "policy",
+      "label": "The Policy"
+    },
+    {
+      "page": "lists",
+      "label": "The Lists"
+    },
+    {
+      "page": "faq",
+      "label": "FAQ"
+    },
+    {
+      "page": "checklist",
+      "label": "Checklist"
+    },
+    {
+      "page": "about",
+      "label": "About &amp; Data"
+    }
+  ],
+  "pages": {
+    "index": {
+      "file": "index.html",
+      "url": "",
+      "priority": "1.0",
+      "title": "Search Restricted Entities — NSF Prohibition Guide (Independent)",
+      "description": "Free searchable guide to the U.S. restricted party lists in NSF's July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across {entries} entries from the Entity List, Sec. 1260H, UFLPA, and more.",
+      "og_title": "NSF Restricted Entities Guide — search all {lists} U.S. restricted party lists",
+      "jsonld": "website",
+      "scripts": [
+        "lists",
+        "app"
+      ]
+    },
+    "policy": {
+      "file": "policy.html",
+      "url": "policy.html",
+      "priority": "0.9",
+      "title": "The Policy, Explained — NSF Prohibition Guide (Independent)",
+      "description": "What NSF's July 8, 2026 Dear Colleague Letter prohibits, who it applies to, what AORs and senior/key personnel must certify, and the key FY2027 dates — explained for researchers.",
+      "og_title": "NSF's FY2027 restricted-entity prohibition, explained in plain language",
+      "jsonld": "article",
+      "scripts": []
+    },
+    "lists": {
+      "file": "lists.html",
+      "url": "lists.html",
+      "priority": "0.9",
+      "title": "The {lists} Restricted Party Lists — NSF Prohibition Guide (Independent)",
+      "description": "Plain-language explainers for every restricted party list in Appendix A of NSF's DCL: legal basis, maintaining agency, what entities appear, and links to the authoritative sources.",
+      "og_title": "The {lists} U.S. restricted party lists in NSF's prohibition, one by one",
+      "jsonld": "itemlist",
+      "scripts": []
+    },
+    "faq": {
+      "file": "faq.html",
+      "url": "faq.html",
+      "priority": "0.8",
+      "title": "FAQ — NSF Prohibition Guide (Independent)",
+      "description": "When does NSF's restricted-entity prohibition take effect? What counts as collaboration? What must be certified? Plain-language answers for NSF-funded researchers and administrators.",
+      "og_title": "NSF restricted entities prohibition — FAQ for researchers",
+      "jsonld": "faq",
+      "scripts": []
+    },
+    "checklist": {
+      "file": "checklist.html",
+      "url": "checklist.html",
+      "priority": "0.8",
+      "title": "Compliance Checklist — NSF Prohibition Guide (Independent)",
+      "description": "Step-by-step preparation checklists for PIs, senior/key personnel, and research administrators ahead of NSF's FY2027 prohibition on collaborations with restricted entities.",
+      "og_title": "Compliance checklist for NSF's FY2027 restricted-entity prohibition",
+      "jsonld": "howto",
+      "scripts": [
+        "checklist"
+      ]
+    },
+    "about": {
+      "file": "about.html",
+      "url": "about.html",
+      "priority": "0.6",
+      "title": "About &amp; Data — NSF Prohibition Guide (Independent)",
+      "description": "How this independent guide was built: per-list snapshot dates, extraction methodology, known limitations, and the official sources every result should be verified against.",
+      "og_title": "About the NSF Restricted Entities Guide — data and methodology",
+      "jsonld": "dataset",
+      "scripts": []
+    }
+  }
+}

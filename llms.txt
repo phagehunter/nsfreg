@@ -1,43 +1,50 @@
-# NSF Restricted Entities Guide
+# NSF Restricted Entities Guide (Independent)
 
-> An independent, community-built guide by Curtis Hoffmann to the U.S. National Science Foundation's forthcoming prohibition on collaborations with restricted entities (Dear Colleague Letter of 8 July 2026). It collects a snapshot of the restricted party lists named in the DCL's Appendix A, maintained by seven federal agencies in seven formats, into one searchable index, explains each list in plain language, and translates the policy into practical steps for researchers and research administrators. Not an NSF or U.S. government website; not a compliance determination; not legal advice.
+> An independent, static guide to the 13 U.S. restricted party lists named in Appendix A of
+> NSF's Dear Colleague Letter of July 8, 2026, "Prohibition on Collaborations with Restricted
+> Entities". 5,929 entries extracted from the official publications, searchable in one place.
+> Not an NSF or U.S. government website, not a compliance determination, and not legal advice.
 
 Site: https://curtishoffmann.com/nsfreg/
-Source (page, data and extraction pipeline): https://github.com/phagehunter/nsfreg
+Maintainer: Curtis Hoffmann (https://curtishoffmann.com)
+Snapshot retrieved: 2026-07-09
+Source repository: https://github.com/phagehunter/nsfreg
 
 ## Pages
 
-- Search the lists: https://curtishoffmann.com/nsfreg/
-- The policy, explained (what the DCL says, who it affects, when it takes effect, with the original text alongside): https://curtishoffmann.com/nsfreg/policy.html
-- The lists, one by one (what each is, who maintains it, what appears on it, where to verify the current version): https://curtishoffmann.com/nsfreg/lists.html
-- FAQ: https://curtishoffmann.com/nsfreg/faq.html
-- Compliance checklist for researchers and administrators: https://curtishoffmann.com/nsfreg/checklist.html
-- About this site and its data (snapshot dates, methodology, limitations): https://curtishoffmann.com/nsfreg/about.html
+- https://curtishoffmann.com/nsfreg/: search all 5,929 entries across every list in the snapshot.
+- https://curtishoffmann.com/nsfreg/policy.html: what the Dear Colleague Letter prohibits, who certifies, and the FY2027 dates.
+- https://curtishoffmann.com/nsfreg/lists.html: one explainer per list, with legal basis, update cadence and official link.
+- https://curtishoffmann.com/nsfreg/faq.html: plain-language answers for researchers and research administrators.
+- https://curtishoffmann.com/nsfreg/checklist.html: preparation checklists for researchers and for institutions.
+- https://curtishoffmann.com/nsfreg/about.html: provenance, per-list snapshot dates, methodology and known gaps.
 
-## The policy in one paragraph
+## The lists in this snapshot
 
-NSF has given the research community advance notice that, starting in Fiscal Year 2027, it plans to prohibit the use of NSF funds for collaboration with "restricted entities", organizations that appear on any of the restricted party lists enumerated in the DCL's Appendix A. The DCL: https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party
+- Sec. 1260H List (Chinese Military Companies) (DoW): 80 entries, retrieved 2026-07-09, official source https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=1260H
+- Sec. 1286 List (Academic Institutions) (DoW): 134 entries, retrieved 2026-07-09, official source https://basicresearch.defense.gov/Programs/Academic-Research-Security/
+- Entity List (Commerce/BIS): 3,409 entries, retrieved 2026-07-09, official source https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744#Supplement-No.-4-to-Part-744
+- Military End-User (MEU) List (Commerce/BIS): 70 entries, retrieved 2026-07-09, official source https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/appendix-Supplement%20No.%207%20to%20Part%20744
+- Denied Persons List (Commerce/BIS): 564 entries, retrieved 2026-07-09, official source https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl
+- E.O. 14032 Annex (Treasury/OFAC): 59 entries, retrieved 2026-07-09, official source https://ofac.treasury.gov/media/99111/download?inline
+- NS-CMIC List (Treasury/OFAC): 68 entries, retrieved 2026-07-09, official source https://www.treasury.gov/ofac/downloads/ccmc/nscmiclist.pdf
+- Debarred Parties (Statutory) (State/DDTC): 779 entries, retrieved 2026-07-09, official source https://deccspmddtc.servicenowservices.com/ddtc_public?id=ddtc_kb_article_page&sys_id=c22d1833dbb8d300d0a370131f9619f0
+- Debarred Parties (Administrative) (State/DDTC): 8 entries, retrieved 2026-07-09, official source https://deccspmddtc.servicenowservices.com/ddtc_public?id=ddtc_kb_article_page&sys_id=c22d1833dbb8d300d0a370131f9619f0
+- Nonproliferation Sanctions (State/ISN): 528 entries, retrieved 2026-07-09, official source https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions
+- FCC Covered List (FCC): 15 entries, retrieved 2026-07-09, official source https://www.fcc.gov/supplychain/coveredlist
+- UFLPA Entity List (DHS): 148 entries, retrieved 2026-07-09, official source https://www.dhs.gov/uflpa-entity-list
+- Withhold Release Orders & Findings (CBP): 67 entries, retrieved 2026-07-09, official source https://www.cbp.gov/document/stats/withhold-release-orders-findings
 
-## The lists in the search index (snapshot generated 9 July 2026; 5,929 entries across 13 lists)
+## How the data was produced
 
-- Department of War: Section 1260H List (Chinese Military Companies), 80 entries; Section 1286 List (Academic Institutions), 134.
-- Department of Commerce, Bureau of Industry and Security: Entity List, 3,409; Military End-User (MEU) List, 70; Denied Persons List, 564.
-- Department of the Treasury, Office of Foreign Assets Control: E.O. 14032 Annex, 59; NS-CMIC List, 68.
-- Department of State: Debarred Parties, statutory (779) and administrative (8), Directorate of Defense Trade Controls; Nonproliferation Sanctions, 528.
-- Federal Communications Commission: Covered List, 15.
-- Department of Homeland Security: UFLPA Entity List, 148.
-- Customs and Border Protection: Withhold Release Orders and Findings, 67.
-- NSF's appendix names 12 list categories; the State Department publishes its debarred parties as two lists, so the site tracks 13. The federal Consolidated Screening List combines several of them but not the 1260H, 1286, FCC Covered, UFLPA or WRO lists.
+Each list was extracted from its official publication by a script in pipeline/ and stored as JSON in
+data/. build.py computes every count on the site from those files; no figure on a page is typed by
+hand. Designation status for the State nonproliferation list is derived from the per-measure status
+clauses carried in each record's own notes field.
 
-## Method and limits
+## Limits a reader should know
 
-- Entries were extracted from official publications: structured sources (CSV, eCFR text, DOCX) parsed directly; PDF and web sources converted to text and parsed with per-list scripts in `pipeline/`; per-list JSON in `data/`. The search page loads the whole snapshot as `assets/entities.js` so matching runs in the browser.
-- Search is normalized substring and token matching over names and aliases, with country, address and notes as fallback; no fuzzy matching. A hit is a lead to verify; a non-hit is not a clearance.
-- Known limits: PDF extraction can drop or garble characters, especially in non-Latin names; alias detection is pattern-based; the CBP list includes long-revoked historical orders (shown with status badges); some State Department snapshots predate 2026; entities are matched across lists by exact normalized name only.
-- Official sources to verify against: the DCL's Appendix A links, the Consolidated Screening List, NSF Research Security, researchsecurity@nsf.gov.
-
-## Contact
-
-- Project led by Curtis Hoffmann, https://curtishoffmann.com/
-- Feedback and issues: https://github.com/phagehunter/nsfreg
-- Sitemap: https://curtishoffmann.com/nsfreg/sitemap.xml
+- A snapshot, not the live lists. Several sources change monthly or more often.
+- A non-match is not a clearance. Names vary by translation, abbreviation and subsidiary.
+- Entities are grouped across lists by exact normalized name only.
+- PDF-derived lists can carry extraction artifacts, especially in transliterated names.

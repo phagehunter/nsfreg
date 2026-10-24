@@ -1,0 +1,54 @@
+<div class="page-head">
+  <div class="wrap">
+    <h1>About this site &amp; its data</h1>
+    <p>An independent guide built to make one tedious thing easy: understanding which entities fall under NSF's forthcoming collaboration prohibition, and where the authoritative answers live.</p>
+  </div>
+</div>
+
+<main id="main" class="content">
+  <div class="wrap">
+
+    <h2>What this site is</h2>
+    <p>When NSF issued its <a href="https://www.nsf.gov/funding/information/dcl-prohibition-collaborations-entities-us-prohibited-party" target="_blank" rel="noopener">July 8, 2026 Dear Colleague Letter</a>, it pointed the research community at restricted party lists maintained by seven different federal agencies, in seven different formats, on seven different websites. This site collects a snapshot of those lists into one searchable index, explains each list in plain language, and translates the DCL into practical terms for researchers and research administrators.</p>
+
+    <h2>What this site is not</h2>
+    <div class="notice red">
+      <ul style="margin:0.4rem 0">
+        <li><strong>Not an NSF or U.S. government website.</strong> It is independently built and maintained, with no affiliation or endorsement.</li>
+        <li><strong>Not a compliance determination.</strong> A search hit is a lead to verify; a non-hit is not a clearance.</li>
+        <li><strong>Not current by definition.</strong> Every list here is a snapshot (dates below). Several source lists change monthly or more often.</li>
+        <li><strong>Not legal advice.</strong> For decisions with consequences, use the official sources, your institution's research security and export control offices, and <a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a>.</li>
+      </ul>
+    </div>
+
+    <h2>Data snapshots</h2>
+    <p>Every entry in the search index was extracted from an official publication. “Published” is the date the source publication itself carries; five of the sources are continuously updated web pages that carry no edition date, so for those the retrieval date is the only date there is. Per-list provenance:</p>
+    <div class="table-scroll">
+      <table class="simple" id="snapshot-table">
+        <thead><tr><th>List</th><th>Agency</th><th>Snapshot source</th><th>Published</th><th>Retrieved</th><th class="num">Entries</th><th>Official source</th></tr></thead>
+        {{snapshot_rows}}
+      </table>
+    </div>
+
+{{data_gaps}}
+    <h2>Methodology &amp; limitations</h2>
+    <ul>
+      <li><strong>Extraction:</strong> structured sources (CSV, eCFR text, DOCX) were parsed directly; PDF and web sources were converted to text and parsed with per-list scripts. All scripts ship in this site's repository (<code>pipeline/</code>) so the extraction is reproducible and auditable, and per-list JSON lives in <code>data/</code>.</li>
+      <li><strong>Known limitations:</strong> PDF extraction can drop or garble characters, especially in non-Latin names; alias detection is pattern-based and imperfect; the CBP list includes long-revoked historical orders (shown with status badges); some State Department snapshots predate 2026; and entities are matched across lists by exact normalized name only, so the same organization under different spellings appears as separate results.</li>
+      <li><strong>Search:</strong> matching is normalized (case, punctuation, diacritics) substring/token matching over names and aliases, with country, address, and notes as fallback. There is no fuzzy/phonetic matching — another reason a non-hit is not a clearance.</li>
+    </ul>
+
+    <h2>Verify — always</h2>
+    <p>The official search tools and sources, in one place:</p>
+    <ul>
+      <li><a href="https://www.trade.gov/consolidated-screening-list" target="_blank" rel="noopener">Consolidated Screening List</a> — official multi-list screening tool (includes fuzzy name search)</li>
+      <li><a href="https://sanctionssearch.ofac.treas.gov/" target="_blank" rel="noopener">OFAC Sanctions List Search</a></li>
+      <li>Per-list official links — see <a href="lists.html">The Lists</a></li>
+      <li><a href="https://www.nsf.gov/research-security" target="_blank" rel="noopener">NSF Research Security</a> · <a href="mailto:researchsecurity@nsf.gov">researchsecurity@nsf.gov</a></li>
+    </ul>
+
+    <h2>Corrections</h2>
+    <p>Spotted an extraction error or a stale snapshot? Submit your feedback <a href="https://forms.gle/FavcasB5Feao7jVG6" target="_blank" rel="noopener">here</a>. You can also open an issue or pull request on this site's GitHub repository — the per-list JSON in <code>data/</code> and parsers in <code>pipeline/</code> make fixes straightforward.</p>
+
+  </div>
+</main>

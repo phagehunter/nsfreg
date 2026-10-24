@@ -1,2 +1,6 @@
 .backups/
 .DS_Store
+
+# Raw downloads for the extraction pipeline (see sources/README.md).
+sources/*
+!sources/README.md

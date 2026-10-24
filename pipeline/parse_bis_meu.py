@@ -20,17 +20,18 @@ from pathlib import Path
 
 import docx
 
-SRC = Path(
-    "../../nsf-prohibitions-july-2026/"
-    "Appendix A - U.S. Proscribed Party Lists/"
-    "U.S. Department of Commerce, Bureau of Industry and Security/"
-    "Military End-User Entities/"
-    "Supplement No. 7 to Part 744—'Military End-User' (MEU) List.docx"
-)
-OUT = Path(
-    "../../nsf-prohibitions-july-2026/"
-    "2026-07-09-nsf-restricted-entities-site/data/bis_meu.json"
-)
+import os  # noqa: E402
+import sys  # noqa: E402
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE_DIR, DATA_DIR  # noqa: E402
+
+# Raw sources resolve through common.py, which reads NSFREG_SOURCES; see
+# sources/README.md. Output always lands in this repository's data/ folder.
+SRC = (BASE_DIR / "U.S. Department of Commerce, Bureau of Industry and Security" /
+       "Military End-User Entities" /
+       "Supplement No. 7 to Part 744—'Military End-User' (MEU) List.docx")
+OUT = DATA_DIR / "bis_meu.json"
 
 DASHES = ("—", "–")
 AKA_SPLIT_RE = re.compile(r",?\s+(?:a\.?k\.?a\.?|f\.?k\.?a\.?),?\s")
