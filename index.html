@@ -4,23 +4,23 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Search Restricted Entities — NSF Prohibition Guide (Independent)</title>
-<meta name="description" content="Free searchable guide to the U.S. restricted party lists in NSF's July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,900+ entries from the Entity List, Sec. 1260H, UFLPA, and more.">
-<link rel="stylesheet" href="assets/styles.css?v=20261022">
+<meta name="description" content="Free searchable guide to the U.S. restricted party lists in NSF&#x27;s July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,929 entries from the Entity List, Sec. 1260H, UFLPA, and more.">
+<link rel="stylesheet" href="assets/styles.css?v=c5f5ef12">
 <link rel="canonical" href="https://curtishoffmann.com/nsfreg/">
 <meta name="author" content="Curtis Hoffmann">
 <meta name="robots" content="index, follow">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://curtishoffmann.com/nsfreg/">
 <meta property="og:title" content="NSF Restricted Entities Guide — search all 13 U.S. restricted party lists">
-<meta property="og:description" content="Free searchable guide to the U.S. restricted party lists in NSF's July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,900+ entries from the Entity List, Sec. 1260H, UFLPA, and more.">
+<meta property="og:description" content="Free searchable guide to the U.S. restricted party lists in NSF&#x27;s July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,929 entries from the Entity List, Sec. 1260H, UFLPA, and more.">
 <meta property="og:image" content="https://curtishoffmann.com/nsfreg/assets/og-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="NSF Restricted Entities Guide — search 5,900+ entries across all 13 U.S. restricted party lists">
+<meta property="og:image:alt" content="NSF Restricted Entities Guide — search 5,929 entries across all 13 U.S. restricted party lists">
 <meta property="og:site_name" content="NSF Restricted Entities Guide (Independent)">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NSF Restricted Entities Guide — search all 13 U.S. restricted party lists">
-<meta name="twitter:description" content="Free searchable guide to the U.S. restricted party lists in NSF's July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,900+ entries from the Entity List, Sec. 1260H, UFLPA, and more.">
+<meta name="twitter:description" content="Free searchable guide to the U.S. restricted party lists in NSF&#x27;s July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,929 entries from the Entity List, Sec. 1260H, UFLPA, and more.">
 <meta name="twitter:image" content="https://curtishoffmann.com/nsfreg/assets/og-card.png">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
@@ -32,11 +32,18 @@
   "@type": "WebSite",
   "name": "NSF Restricted Entities Guide (Independent)",
   "url": "https://curtishoffmann.com/nsfreg/",
-  "description": "Independent searchable guide to the U.S. restricted party lists covered by NSF's July 2026 prohibition on collaborations with restricted entities.",
-  "author": {"@type": "Person", "name": "Curtis Hoffmann", "url": "https://curtishoffmann.com"},
+  "description": "Free searchable guide to the U.S. restricted party lists in NSF's July 2026 Dear Colleague Letter. Check collaborators, appointments, and funders across 5,929 entries from the Entity List, Sec. 1260H, UFLPA, and more.",
+  "author": {
+    "@type": "Person",
+    "name": "Curtis Hoffmann",
+    "url": "https://curtishoffmann.com"
+  },
   "potentialAction": {
     "@type": "SearchAction",
-    "target": {"@type": "EntryPoint", "urlTemplate": "https://curtishoffmann.com/nsfreg/index.html?q={search_term_string}"},
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://curtishoffmann.com/nsfreg/index.html?q={search_term_string}"
+    },
     "query-input": "required name=search_term_string"
   }
 }
@@ -50,7 +57,6 @@
     <span>This is a community-built guide, not a U.S. government or NSF website. Data are a snapshot — always <a href="lists.html">verify with the official sources</a>.</span>
   </div>
 </div>
-
 <header class="site">
   <div class="utility">
     <div class="wrap">
@@ -76,7 +82,6 @@
     </nav>
   </div>
 </header>
-
 <div class="hero">
   <div class="wrap">
     <h1>Is a collaborator, appointment, or funder on a U.S. restricted party list?</h1>
@@ -84,7 +89,7 @@
     <div class="searchbox" role="search">
       <label for="q" class="skip-link">Search entity names</label>
       <input type="search" id="q" placeholder="Try an organization, university, company, or person…" autocomplete="off" spellcheck="false">
-      <button class="go" aria-label="Search" onclick="document.getElementById('q').dispatchEvent(new Event('input'))">
+      <button class="go" type="button" id="go" aria-label="Search">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
       </button>
     </div>
@@ -94,8 +99,8 @@
       <button data-try="aviation">aviation</button>
       <button data-try="Kaspersky">Kaspersky</button>
     </p>
-    <div class="stats" aria-hidden="true">
-      <div class="stat"><div class="n" id="stat-entities">…</div><div class="t">entries in this snapshot</div></div>
+    <div class="stats">
+      <div class="stat"><div class="n" id="stat-entities">5,929</div><div class="t">entries in this snapshot</div></div>
       <div class="stat"><div class="n">13</div><div class="t">restricted party lists</div></div>
       <div class="stat"><div class="n">7</div><div class="t">federal agencies</div></div>
     </div>
@@ -104,6 +109,12 @@
 
 <main id="main" class="wrap">
   <div class="filters" id="agency-filters" aria-label="Filter results by agency"></div>
+  <div class="filters" id="status-filters" aria-label="Filter results by designation status"></div>
+  <noscript>
+    <div class="notice">
+      <p><strong>Search needs JavaScript.</strong> This page searches a 5,929-entry snapshot in your browser, with no server. Without JavaScript, use <a href="lists.html">the per-list explainers</a> and each list's official source, or the <a href="https://www.trade.gov/consolidated-screening-list" rel="noopener">Consolidated Screening List</a>.</p>
+    </div>
+  </noscript>
   <p class="results-meta" id="results-meta" role="status" aria-live="polite"></p>
   <div id="results"></div>
 
@@ -124,7 +135,6 @@
     </div>
   </div>
 </main>
-
 <footer class="site">
   <div class="wrap">
     <div class="cols">
@@ -163,8 +173,7 @@
     <p class="fineprint">List data are snapshots (see <a href="about.html">per-list dates</a>) of official publications and may lag the live lists. Search on this site is a convenience, not a compliance determination. Verify every result at its official source before acting.</p>
   </div>
 </footer>
-
-<script src="assets/entities.js?v=20260710b"></script>
-<script src="assets/app.js?v=20260710b"></script>
+<script src="assets/lists.js?v=c5f5ef12" defer></script>
+<script src="assets/app.js?v=c5f5ef12" defer></script>
 </body>
 </html>

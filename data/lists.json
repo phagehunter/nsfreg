@@ -12,6 +12,8 @@
    "official_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=1260H",
    "official_url_label": "Federal Register — Section 1260H notices",
    "snapshot": "Federal Register notice of June 10, 2026 (Vol. 91, No. 111)",
+   "source_published": "2026-06-10",
+   "source_published_note": "Date of the Federal Register notice (91 FR, Vol. 91, No. 111).",
    "update_cadence": "Updated at least annually until December 31, 2030",
    "description": "The Department of War's annual list of \"Chinese military companies\" operating directly or indirectly in the United States. Companies are designated for ownership by or affiliation with the People's Liberation Army, China's defense ministries, or the military-civil fusion enterprise. Includes major technology, aerospace, shipping, and AI companies.",
    "researcher_note": "Many companies on this list have commercial subsidiaries, U.S. research labs, or academic partnership programs. A collaboration, sponsored-research agreement, or gift relationship with any listed company or its employees would fall under the NSF prohibition."
@@ -26,6 +28,8 @@
    "official_url": "https://basicresearch.defense.gov/Programs/Academic-Research-Security/",
    "official_url_label": "DoW Academic Research Security program page",
    "snapshot": "FY24 Section 1286 List (public release, version 2)",
+   "source_published": null,
+   "source_published_note": "The FY24 public-release document, version 2, carries no publication date.",
    "update_cadence": "Updated periodically by the Office of the Under Secretary of Defense (Research & Engineering)",
    "description": "The Department of War's list of foreign entities — mostly universities and research institutions in China, Russia, and other countries — identified as posing a risk to Department-funded fundamental research, including institutions connected to foreign military or malign foreign talent recruitment programs.",
    "researcher_note": "This is the list most directly relevant to academic collaborations: it names universities. Co-authorship arrangements, joint projects, visiting appointments, or advising relationships involving these institutions on an NSF-funded project would fall under the prohibition."
@@ -40,6 +44,8 @@
    "official_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744#Supplement-No.-4-to-Part-744",
    "official_url_label": "eCFR — Supplement No. 4 to Part 744 (current)",
    "snapshot": "eCFR text as downloaded July 2026",
+   "source_published": null,
+   "source_published_note": "Continuously updated publication with no edition date; the retrieval date is the only date the snapshot can carry.",
    "update_cadence": "Amended frequently — often several times per month — via Federal Register rules",
    "description": "The largest and most frequently updated list here: foreign entities (companies, universities, research institutes, individuals) subject to export license requirements because of activities contrary to U.S. national security or foreign policy interests. Spans 80+ countries; includes many foreign universities.",
    "researcher_note": "Because the Entity List changes so often, always re-check the live eCFR version or the Consolidated Screening List before relying on any snapshot — including this site's."
@@ -54,6 +60,8 @@
    "official_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/appendix-Supplement%20No.%207%20to%20Part%20744",
    "official_url_label": "eCFR — Supplement No. 7 to Part 744 (current)",
    "snapshot": "eCFR text as downloaded July 2026",
+   "source_published": null,
+   "source_published_note": "Continuously updated publication with no edition date; the retrieval date is the only date the snapshot can carry.",
    "update_cadence": "Amended periodically via Federal Register rules",
    "description": "Foreign parties that BIS has determined are 'military end users' — entities that represent an unacceptable risk of use in, or diversion to, military end uses in China, Russia, Belarus, Burma, Cambodia, or Venezuela.",
    "researcher_note": "MEU designations often cover aviation, aerospace, and technology firms whose civilian-facing divisions still count as restricted entities under the NSF prohibition."
@@ -68,6 +76,8 @@
    "official_url": "https://www.bis.gov/licensing/end-user-guidance/denied-persons-list-dpl",
    "official_url_label": "BIS — Denied Persons List",
    "snapshot": "BIS export of April 14, 2026",
+   "source_published": "2026-04-14",
+   "source_published_note": "Date carried by the BIS export file (dpl_04142026.csv).",
    "update_cadence": "Updated as denial orders are issued, renewed, or expire",
    "description": "Individuals and companies whose export privileges have been denied by BIS order, typically following export-control violations. Mostly individuals and small firms worldwide, each with a specific denial period.",
    "researcher_note": "Denial orders have expiration dates — an entry here may have lapsed, and new orders appear regularly. Verify current status at the BIS site."
@@ -82,6 +92,8 @@
    "official_url": "https://ofac.treasury.gov/media/99111/download?inline",
    "official_url_label": "OFAC — Executive Order 14032 (with Annex)",
    "snapshot": "Annex as issued June 3, 2021 (static document)",
+   "source_published": "2021-06-03",
+   "source_published_note": "Date the Annex to Executive Order 14032 was issued; the Annex is a static document.",
    "update_cadence": "The Annex itself is fixed; subsequent designations appear on the NS-CMIC List",
    "description": "The annex of Chinese companies named in President Biden's 2021 executive order addressing the threat from securities investments that finance certain companies of the People's Republic of China — the foundation of the Chinese Military-Industrial Complex sanctions program.",
    "researcher_note": "Companies from this annex generally also appear on the NS-CMIC List, which is the actively maintained version. Check both."
@@ -96,6 +108,8 @@
    "official_url": "https://www.treasury.gov/ofac/downloads/ccmc/nscmiclist.pdf",
    "official_url_label": "OFAC — NS-CMIC List (PDF)",
    "snapshot": "OFAC publication as downloaded July 2026",
+   "source_published": null,
+   "source_published_note": "Continuously updated publication with no edition date; the retrieval date is the only date the snapshot can carry.",
    "update_cadence": "Updated as OFAC adds or removes designations",
    "description": "OFAC's actively maintained list of Chinese Military-Industrial Complex companies subject to U.S. investment prohibitions. Overlaps substantially with the E.O. 14032 Annex but includes later additions.",
    "researcher_note": "Includes prominent technology and semiconductor firms. OFAC also offers a sanctions list search tool at sanctionssearch.ofac.treas.gov."
@@ -110,6 +124,8 @@
    "official_url": "https://deccspmddtc.servicenowservices.com/ddtc_public?id=ddtc_kb_article_page&sys_id=c22d1833dbb8d300d0a370131f9619f0",
    "official_url_label": "DDTC — Penalties & Oversight Agreements (Debarred Parties)",
    "snapshot": "DDTC statutory debarment list of August 25, 2025 (revised)",
+   "source_published": "2025-08-25",
+   "source_published_note": "Date carried by the DDTC export file, revised edition.",
    "update_cadence": "Updated as debarments are imposed, rescinded, or reinstatements granted",
    "description": "Persons convicted of violating or conspiring to violate the Arms Export Control Act, and consequently prohibited from participating in the export of defense articles and services. Mostly individuals.",
    "researcher_note": "Debarred persons may later be reinstated — the DDTC page notes rescissions. Verify current status before drawing conclusions about a named individual."
@@ -124,6 +140,8 @@
    "official_url": "https://deccspmddtc.servicenowservices.com/ddtc_public?id=ddtc_kb_article_page&sys_id=c22d1833dbb8d300d0a370131f9619f0",
    "official_url_label": "DDTC — Penalties & Oversight Agreements (Debarred Parties)",
    "snapshot": "DDTC administrative debarment list of June 1, 2023",
+   "source_published": "2023-06-01",
+   "source_published_note": "Date carried by the DDTC export file.",
    "update_cadence": "Updated as administrative debarments are imposed or lifted",
    "description": "Persons debarred by DDTC administrative action (rather than criminal conviction) from participating in ITAR-regulated activities, typically pursuant to consent agreements or charging letters.",
    "researcher_note": "This snapshot dates to mid-2023; always confirm on the DDTC site, which lists later actions and reinstatements."
@@ -138,6 +156,8 @@
    "official_url": "https://www.state.gov/bureau-of-arms-control-and-nonproliferation/nonproliferation-sanctions",
    "official_url_label": "State — Nonproliferation Sanctions",
    "snapshot": "Master sanctions table of May 2025",
+   "source_published": "2025-05",
+   "source_published_note": "The master sanctions table is dated to the month only, so the ISO value is month-precision.",
    "update_cadence": "Updated as determinations are published in the Federal Register",
    "description": "Foreign individuals and entities sanctioned under U.S. nonproliferation statutes for transfers related to weapons of mass destruction or missile technology, spanning many countries and legal authorities.",
    "researcher_note": "Sanctions under some statutes expire after a fixed term; a party can appear in the master table with lapsed measures. Check the effective and expiration dates in the official table."
@@ -152,6 +172,8 @@
    "official_url": "https://www.fcc.gov/supplychain/coveredlist",
    "official_url_label": "FCC — Covered List",
    "snapshot": "FCC page as downloaded July 2026",
+   "source_published": null,
+   "source_published_note": "Continuously updated publication with no edition date; the retrieval date is the only date the snapshot can carry.",
    "update_cadence": "Updated as the Public Safety and Homeland Security Bureau adds determinations",
    "description": "Communications equipment and services deemed to pose an unacceptable risk to U.S. national security — naming producers such as Huawei, ZTE, Hytera, Hikvision, Dahua, Kaspersky, and Chinese state telecom carriers, including their subsidiaries and affiliates.",
    "researcher_note": "The FCC list names companies through their equipment and services. Note that designations explicitly extend to subsidiaries and affiliates."
@@ -166,6 +188,8 @@
    "official_url": "https://www.dhs.gov/uflpa-entity-list",
    "official_url_label": "DHS — UFLPA Entity List",
    "snapshot": "DHS page as downloaded July 2026",
+   "source_published": null,
+   "source_published_note": "Continuously updated publication with no edition date; the retrieval date is the only date the snapshot can carry.",
    "update_cadence": "Updated by the Forced Labor Enforcement Task Force, typically several times a year",
    "description": "Entities in or connected to the Xinjiang Uyghur Autonomous Region identified for involvement in forced-labor practices — mining, manufacturing, labor-transfer programs, and procurement of affected goods.",
    "researcher_note": "Listings span agriculture, polysilicon, apparel, and electronics supply chains. Collaboration risk most often arises through industry partners or materials suppliers rather than universities."
@@ -180,6 +204,8 @@
    "official_url": "https://www.cbp.gov/document/stats/withhold-release-orders-findings",
    "official_url_label": "CBP — Withhold Release Orders & Findings",
    "snapshot": "CBP data export of June 23, 2026 (FY26)",
+   "source_published": "2026-06-23",
+   "source_published_note": "Date carried by the CBP data export for FY26.",
    "update_cadence": "Updated as orders are issued, modified, or revoked",
    "description": "Import enforcement actions against specific producers, goods, or regions where CBP has information indicating forced-labor production. Entries date back decades; each has an Active or Revoked status.",
    "researcher_note": "This list targets merchandise as well as named entities, and includes long-revoked historical orders — pay attention to the status shown with each result."

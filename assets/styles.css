@@ -588,3 +588,50 @@ footer.site li { margin: 0.3rem 0; }
   header.site, .hero { background: #fff !important; color: #000; }
   .result { box-shadow: none; }
 }
+
+/* ---- designation-status filter row, build-rendered tables and lists ---- */
+
+#status-filters { margin-top: -0.35rem; }
+#status-filters .chip-n {
+  display: inline-block;
+  margin-left: 0.3rem;
+  padding: 0 0.35rem;
+  border-radius: 999px;
+  background: var(--bg-alt);
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.8rem;
+}
+#status-filters .chip[aria-pressed="true"] .chip-n {
+  background: rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+.filter-note {
+  flex-basis: 100%;
+  margin-top: 0.3rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+
+.list-card-actions { margin: 0.9rem 0 0; }
+
+.loading-note {
+  margin: 1.2rem 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--primary);
+  border-radius: var(--radius);
+  background: var(--bg-alt);
+  color: var(--ink-soft);
+}
+
+.more-wrap { text-align: center; }
+.result:focus-visible { outline: 3px solid var(--primary); outline-offset: 3px; }
+
+table.simple td.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.muted { color: var(--muted); }

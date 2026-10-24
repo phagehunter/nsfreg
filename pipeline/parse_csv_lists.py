@@ -15,11 +15,14 @@ import os
 import re
 import sys
 
-BASE = ("../../nsf-prohibitions-july-2026/"
-        "Appendix A - U.S. Proscribed Party Lists")
-OUT_DIR = ("../../nsf-prohibitions-july-2026/"
-           "2026-07-09-nsf-restricted-entities-site/data")
-EXTRACTED = "2026-07-09"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE_DIR, DATA_DIR, EXTRACTED  # noqa: E402
+
+# Raw sources resolve through common.py, which reads NSFREG_SOURCES; see
+# sources/README.md for where each file comes from. Output always lands in this
+# repository's data/ folder.
+BASE = str(BASE_DIR)
+OUT_DIR = str(DATA_DIR)
 
 SOURCES = {
     "cbp_wro": os.path.join(

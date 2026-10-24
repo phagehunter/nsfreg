@@ -1,0 +1,3911 @@
+{
+ "list_id": "state-nonproliferation",
+ "derived_by": "build.py derive_nonproliferation_status()",
+ "method": "Each record's notes field carries one measure per authority, separated by '|', and each measure carries its own 'status:' clause. A record is Active when any measure is active; otherwise every measure has been lifted, expired, terminated or waived.",
+ "counts": {
+  "Active": 147,
+  "Lifted or expired": 381
+ },
+ "records": [
+  {
+   "name": "Government of the Russian Federation",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Government of North Korea",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Government of Syria",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Mohammed al-Khatib",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 02/13/05"
+   ]
+  },
+  {
+   "name": "Hans Raj Shiv",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "NEC Engineers Private, Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "China Machinery and Electric Equipment Import and Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 06/27/13"
+   ]
+  },
+  {
+   "name": "China Machinery and Equipment Import Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 06/27/13"
+   ]
+  },
+  {
+   "name": "China National Machinery and Equipment Import Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 06/27/13",
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "CMEC Machinery and Electric Equipment Import and Export Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 06/27/13",
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "CMEC Machinery and Electrical Import Export Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 06/27/13",
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "Jiangsu Yongli Chemical Engineering and Technology Import/Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 02/24/15",
+    "Lifted on 02/24/2015"
+   ]
+  },
+  {
+   "name": "Q.C. Chen",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 07/08/04",
+    "Expired on 12/27/06",
+    "Expired on 11/24/06",
+    "Expired on 05/09/04",
+    "Expired on 01/16/04"
+   ]
+  },
+  {
+   "name": "Wha Cheong Tai Co Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06",
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "Berge Aris Balanian",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Hans-Joachim Rose",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Rose Import-Export GMBH",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Chen Qingchang",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Cheong Yee Limited",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Liao Minglong",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Nanjing Chemical Industries Group (NCI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 02/24/2015"
+   ]
+  },
+  {
+   "name": "Pan Yongming",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Shao Xingsheng",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Tian Yi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Anatoliy Kuntsevich",
+   "status": "Lifted or expired",
+   "measures": [
+    "Terminated on 04/01/04"
+   ]
+  },
+  {
+   "name": "GE Plan",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mainway Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Asian Ways Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mainway International",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "World Co Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Gerhard Merz",
+   "status": "Lifted or expired",
+   "measures": [
+    "Terminated on 11/07/11"
+   ]
+  },
+  {
+   "name": "Luciano Moscatelli",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Manfred Felber",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "CDM Engineering SA",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Alberto Di Salle",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Europol Holding, Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Loop SA",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mana International Investments",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Nahum Manbar",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "SPC Supachoke",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "The Handle Group Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "W & M Limited Partnership",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Faruk Yigit",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Serhat Gencoglu",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mustafa Alper Deniz",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Presidency of Defense Industries (SSB)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ismail Demir",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Equipment Development Department of the Central Military Commission (EDD)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Li Shangfu",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Korea Mining and Development Corp. (KOMID)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/24/17",
+    "Expired on 02/02/11",
+    "Expired on 09/26/09",
+    "Expired on 09/24/17",
+    "Expired on 02/02/11",
+    "Expired on 09/26/09"
+   ]
+  },
+  {
+   "name": "Hesong Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/24/17",
+    "Expired on 09/24/17"
+   ]
+  },
+  {
+   "name": "Dalian Sunny Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15",
+    "Expired on 02/02/11",
+    "Expired on 08/28/17",
+    "Expired on 12/19/16",
+    "Expired on 2/5/15",
+    "Expired on 12/20/13",
+    "Expired on 05/23/13",
+    "Expired on 07/14/12",
+    "Expired on 2/11/15",
+    "Expired on 02/02/11"
+   ]
+  },
+  {
+   "name": "Li Fangwei",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15",
+    "Expired on 06/28/18",
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Ministry of Defense and Armed Forces Logistics (MODAFL)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15"
+   ]
+  },
+  {
+   "name": "Shahid Bakeri Industrial Group (SBIG)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15",
+    "Expired on 02/02/11",
+    "Expired on 02/02/11"
+   ]
+  },
+  {
+   "name": "Shahid Sattari Ground Equipment Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15"
+   ]
+  },
+  {
+   "name": "Business Lab",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/24/14"
+   ]
+  },
+  {
+   "name": "Handasieh",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/24/14"
+   ]
+  },
+  {
+   "name": "Industrial Solutions",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/24/14"
+   ]
+  },
+  {
+   "name": "Mechanical Construction Factory (MCF)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/24/14"
+   ]
+  },
+  {
+   "name": "Syrian Arab Company for Electronic Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/24/14"
+   ]
+  },
+  {
+   "name": "Bellamax",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 02/02/11",
+    "Expired on 02/02/11"
+   ]
+  },
+  {
+   "name": "Mokong Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 02/02/11",
+    "Expired on 02/02/11"
+   ]
+  },
+  {
+   "name": "Shahid Hemmat Industrial Group",
+   "status": "Active",
+   "measures": [
+    "Expired on 02/02/11",
+    "Expired on 09/26/09",
+    "Expired on 05/09/05",
+    "Expired on 05/09/05",
+    "Active",
+    "Expired on 11/17/02",
+    "Expired on 04/06/02"
+   ]
+  },
+  {
+   "name": "Sino-Ki",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 02/02/11",
+    "Expired on 02/02/11"
+   ]
+  },
+  {
+   "name": "Abdul Qadeer Khan",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Buhary Seyed Abu Tahir",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Lifted on 4/3/15",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Daniel Geiges",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "EKA Elektronik Kontrol Aletleri Sanayi ve Ticaret A.S.",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "ETI Elektroteknik Sanayi ve Ticaret A.S.",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Gerhard Wisser",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Gotthard Lerch",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Kursad Zafer Cire",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Muhammad Farooq",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Muhammad Nasim ud Din",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Paul Griffin",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Peter Griffin",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Selim Alguadis",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Shah Hakim Shahnazim Zain",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/09/11",
+    "Lifted 7/18/11",
+    "Lifted 7/18/11"
+   ]
+  },
+  {
+   "name": "Shamsul Bahrin Bin Rukiban",
+   "status": "Active",
+   "measures": [
+    "Expired on 01/09/11",
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Tradefin Engineering",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/09/11"
+   ]
+  },
+  {
+   "name": "Aerospace Industries Organization",
+   "status": "Active",
+   "measures": [
+    "Expired on 09/26/09",
+    "Active"
+   ]
+  },
+  {
+   "name": "Federal Research and Production Complex - Altay",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 11/18/06",
+    "Expired on 11/18/04"
+   ]
+  },
+  {
+   "name": "Xinshidai",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/20/06"
+   ]
+  },
+  {
+   "name": "Blagoja Samakoski",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/24/05",
+    "Expired on 04/01/06",
+    "Expired on 12/24/05"
+   ]
+  },
+  {
+   "name": "Mikrosam",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/24/05",
+    "Expired on 04/01/06",
+    "Expired on 12/24/05"
+   ]
+  },
+  {
+   "name": "China Precision Machinery Import-Export Corp.",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 04/01/06",
+    "Expired on 06/26/05",
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "North China Industries Corp. (NORINCO)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/05"
+   ]
+  },
+  {
+   "name": "Changgwang Sinyong Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/24/05",
+    "Expired on 11/24/06",
+    "Expired on 09/23/06",
+    "Expired on 04/06/02",
+    "Expired on 04/06/02",
+    "Expired on 03/25/07",
+    "Expired on 08/16/04",
+    "Expired on 05/24/98"
+   ]
+  },
+  {
+   "name": "Khan Research Laboratories",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/24/05",
+    "Expired on 04/17/00"
+   ]
+  },
+  {
+   "name": "D. Mendeleyev University of Chemical Technology of Russia",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 05/21/10"
+   ]
+  },
+  {
+   "name": "Moscow Aviation Institute (MAI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 05/21/10"
+   ]
+  },
+  {
+   "name": "Scientific Research and Design Institute of Power Technology",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 04/01/04"
+   ]
+  },
+  {
+   "name": "Baltic State Technical University",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted 02/04/10"
+   ]
+  },
+  {
+   "name": "Europalace 2000",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 04/01/04"
+   ]
+  },
+  {
+   "name": "Glavkosmos",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted 03/10/10",
+    "Expired on 05/06/94"
+   ]
+  },
+  {
+   "name": "Grafit",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 04/01/04"
+   ]
+  },
+  {
+   "name": "INOR Scientific Center",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 11/17/00"
+   ]
+  },
+  {
+   "name": "MOSO Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 04/01/04"
+   ]
+  },
+  {
+   "name": "Polyus Scientific Production Association",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 11/17/00"
+   ]
+  },
+  {
+   "name": "Minsk Wheel Tractor Plant",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Xi’an Longde Technology Development Company Limited",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Granpect Co. Ltd",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Tianjin Creative Source International Trade Co Ltd",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "27th Scientific Center",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "33rd Scientific Research and Testing Institute.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Federal Security Service (FSB)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "State Scientific Research Institute of Organic Chemistry and Technology",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Russian General Staff Main Intelligence Directorate (GRU)",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Anatoliy Vladimirovich Chepiga",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Alexander Yevgeniyevich Mishkin",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Atomic Energy Organization of Iran (AEOI)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ali Akbar Salehi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Iran Space Agency",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Iran Space Research Center",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Astronautics Research Institute",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mohammad Ebrahimi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps (IRGC) Aerospace Force Self-Sufficiency Jihad Organization (ASF SSJO)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps (IRGC) Research and Self-Sufficiency Jihad Organization (RSSJO)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Organization for Technological Industries",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ministry of Atomic Energy Industry",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "National Aerospace Development Administration",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Academy of National Defense Science",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Choe Chun-Sik",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Kang Mun-Kil",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Namchongang Trading Corp.",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Active"
+   ]
+  },
+  {
+   "name": "Strategic Force",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Jahan Tech Rooyan Pars",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mandegar Baspar Kimiya Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Nuclear Science and Technology Research Institute",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Organization of Defensive Innovation and Research (SPND)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Eyvaz Technic",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Maro Sanat Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Navid Composite Material Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Negin Parto Khavar",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "The Exploration and Nuclear Raw Materials Production Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Aluminat",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Pishro Systems Research Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Taghtiran Kashan Co.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Pars Amayesh Sanaat Kish",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Parviz Khaki",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Chu Kyu-Chang",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "O Kuk-Ryol",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Pak To-Chun",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Chang Myong-Chin",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Korean Committee for Space Technology",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Paek Chang-Ho",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Amir Hossein Rahimyar",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Faratech",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mohammad Reza Rezvanianzadeh",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Neda Industrial Group",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Tarh O Palayesh",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Towlid Abzar Boreshi Iran",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Amr Armanazi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Center for Innovation and Technology Cooperation",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Hossein Tanideh",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Pentane Chemistry Industries (PCI)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Fulmen Group",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Noor Afza Gostar Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Nuclear Reactors Fuel Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Yasa Part",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Munitions Industry Department",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Second Academy of Natural Sciences",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Second Economic Committee",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "General Bureau of Atomic Energy",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Korea Tangun Trading Corp.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Paul Nicholas Griffin",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Mohsen Fakhrizadeh-Mahabadi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "TAMAS Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Yahya Rahim Safavi",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ministry of Defense and Armed Forces Logistics",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "All provisions expired as of 11/21/02"
+   ]
+  },
+  {
+   "name": "Defense Industries Organization",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 04/17/09",
+    "Expired 05/14/21",
+    "Expired on 12/20/13",
+    "Expired on 05/23/13",
+    "Expired on 07/14/12",
+    "All provisions expired as of 11/21/02"
+   ]
+  },
+  {
+   "name": "Atomic Energy Organization of Iran",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted on 01/16/16"
+   ]
+  },
+  {
+   "name": "Korea Mining Development Trading Corp.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Korea Ryonbong General Corp.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Scientific Studies and Research Center",
+   "status": "Active",
+   "measures": [
+    "Active",
+    "Expired on 12/28/08",
+    "Expired on 06/28/18",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Shahid Bakeri Industrial Group",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Tanchon Commercial Bank",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Zibo Chemet Equipment Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired on 12/28/08",
+    "Expired on 12/23/07",
+    "Expired on 12/20/13",
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "Hizballah",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "Aerospace Logistics Services",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired on 12/28/08",
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Arif Durrani",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Army Supply Bureau",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired on 12/28/08",
+    "Expired 05/14/21",
+    "Expired on 12/19/16",
+    "Expired on 2/5/15",
+    "Expired on 12/20/13",
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Challenger Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "China National Precision Machinery Import/Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "Industrial Establishment Defense (IED)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "Shanghai Non-Ferrous Metals Pudong Development Trade Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "Sokkia Singapore",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/09/08"
+   ]
+  },
+  {
+   "name": "Syrian Air Force",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Syrian Navy",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09"
+   ]
+  },
+  {
+   "name": "Target Airfreight",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/17/09",
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Abu Hamadi",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Al Zarga Optical and Electronics Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Alexey Safonov",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "China National Aero-Technology Import and Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "China National Electronic Import-Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Defense Industries Organization (DIO)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Giad Industrial Complex",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Industrial Establishment of Defense (IED)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Iran Electronics Industries (IEI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Kal Al-Zuhiry",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Kolomna Design Bureau of Machine-Building (KBM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 03/21/19",
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Korea Mining Development Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Ministry of Defense (Syria)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "NAB Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Rosoboronexport",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 7/28/08",
+    "Expired on 09/23/2022"
+   ]
+  },
+  {
+   "name": "Sanam Industrial Group",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 11/17/02",
+    "Expired on 04/06/02"
+   ]
+  },
+  {
+   "name": "Syrian Ministry of Defense",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 06/23/94"
+   ]
+  },
+  {
+   "name": "Tula Design Bureau of Instrument Building (KBP)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08"
+   ]
+  },
+  {
+   "name": "Yarmouk Industrial Complex",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/28/08",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Protech Consultants Private",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 02/13/05"
+   ]
+  },
+  {
+   "name": "China Machinery and Electric Equipment Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "China Machinery and Equipment Import Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "China Shipbuilding Trading Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/08/04",
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "Jiangsu Youngli Chemicals and Technology Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/08/04"
+   ]
+  },
+  {
+   "name": "Balaji Amines",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/28/08"
+   ]
+  },
+  {
+   "name": "Center for Genetic Engineering and Biotechnology",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/28/08"
+   ]
+  },
+  {
+   "name": "Korea Pugang Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/28/08",
+    "Expired on 08/06/99"
+   ]
+  },
+  {
+   "name": "Korean Mining and Industrial Development Corp. (KOMID)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/28/08"
+   ]
+  },
+  {
+   "name": "Prachi Poly Products",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 7/28/08"
+   ]
+  },
+  {
+   "name": "Sukhoy",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 11/21/06"
+   ]
+  },
+  {
+   "name": "China Aero-Technology Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "China North Industries Corp. (NORINCO)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07",
+    "Expired on 09/23/06",
+    "Expired on 04/01/06",
+    "Expired on 06/26/05"
+   ]
+  },
+  {
+   "name": "Hongdu Aviation Industry Group",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "LIMMT Metallurgy and Minerals Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "Ounion (Asia) International Economic and Technical Cooperation Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "Sabero Organic Chemicals Gujarat Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "Sandhya Organic Chemicals PVT Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "Steyr-Mannlicher Gmbh",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/07"
+   ]
+  },
+  {
+   "name": "Beijing Alite Technologies Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "China Aero-Technology Import Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "China Great Wall Industry Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06",
+    "Expired on 09/23/06",
+    "Expired on 03/01/92"
+   ]
+  },
+  {
+   "name": "China North Industry Corp. (NORINCO)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "Ecoma Enterprise Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "Paeksan Associated Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "Wha Cheong Tai Co",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06",
+    "Expired on 11/24/06"
+   ]
+  },
+  {
+   "name": "Zibo Chemet Equipment Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/06"
+   ]
+  },
+  {
+   "name": "Liaoning Jiayi Metals and Minerals Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 11/24/06"
+   ]
+  },
+  {
+   "name": "Shanghai Triple International Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 11/24/06"
+   ]
+  },
+  {
+   "name": "Beijing Institute of Aerodynamics",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Beijing Institute of Opto-Electronic Technology",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Belarus Belvneshpromservice",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06",
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Dr. C. Surendar",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/23/05"
+   ]
+  },
+  {
+   "name": "Dr. Y.S.R. Prasad",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Khazra Trading",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "LIMMT Economic and Trade Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Oriental Scientific Instruments Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06",
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "South Industries Science and Technology Trading Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Telstar",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/27/04"
+   ]
+  },
+  {
+   "name": "Zaporizhzhya Regional Foreign Economic Association",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/23/06"
+   ]
+  },
+  {
+   "name": "Baranov Engine Building Association Overhaul Facility",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Beijing Institute of Opto-Electronic Technology (BIOET)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Changgwang Sinyong Corporation",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06",
+    "Expired on 06/26/05",
+    "Expired on 04/06/02",
+    "Expired on 05/04/00"
+   ]
+  },
+  {
+   "name": "Elmstone Services and Trading FZE (LLC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Goodly Industrial Company Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Vadim V. Vorobey",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06"
+   ]
+  },
+  {
+   "name": "Zibo Chemical Equipment Plant",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/01/06",
+    "Expired on 06/26/05",
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "Liyang Yunlong Chemical Equipment Group Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/26/05"
+   ]
+  },
+  {
+   "name": "Taian Foreign General Trade Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/26/05"
+   ]
+  },
+  {
+   "name": "Armen Sargsian",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "China National Aero-Technology Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "China National Machinery and Electric Import/Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "Cuanta, SA",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04",
+    "Expired on 05/09/05"
+   ]
+  },
+  {
+   "name": "Liyang Yunlong",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04",
+    "Expired on 01/16/04"
+   ]
+  },
+  {
+   "name": "Lizen Open Joint Stock Co",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "Mikhail Pavlovich Vladov",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "Wha Cheong Tai Company Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/04"
+   ]
+  },
+  {
+   "name": "China Machinery and Electric Import and Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/16/04"
+   ]
+  },
+  {
+   "name": "Jiangsu Yongli Chemicals and Technology Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/14/03"
+   ]
+  },
+  {
+   "name": "Bearings on Lipetsk LLC",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Dandong Mason-Age Trade Co Ltd.",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Igor Aleksandrovich Michurin",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Kim Sang-ch'o'l (Kim Sang Chang Chol)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ri Su'ung-ch'o'l (Ri Sung Chol)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Aleksey Budnev (Russian individual)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Ch'oe Ch'o'l-min (a.k.a Choe Chol Min) (DPRK individual)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Han Dejian (PRC individual)",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Shanghai Growth International Logistics Ltd",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Yidatong (Tianjin) Metal Materials Co., Ltd",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "PMC Wagner",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Pavel Shevelin",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "LLC Eltekhnord",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Rim Yo’ng-hyo’k",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Russian Aerospace Forces",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Sinobright Import and Export Company",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 7/19/2025"
+   ]
+  },
+  {
+   "name": "Wisdom Import and Export (Shanghai) Co., Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 7/19/2025"
+   ]
+  },
+  {
+   "name": "Seyed Taba",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 7/19/2025"
+   ]
+  },
+  {
+   "name": "EuroAsia",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 7/19/2025"
+   ]
+  },
+  {
+   "name": "Mirel Makina Elektronik Teks",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 7/19/2025"
+   ]
+  },
+  {
+   "name": "Beijing J&A Industry & Trade Co. Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/3/2024"
+   ]
+  },
+  {
+   "name": "Linda Zhai (PRC individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/3/2024"
+   ]
+  },
+  {
+   "name": "Synnat Pharma Pvt Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Terminated on 1/18/2024"
+   ]
+  },
+  {
+   "name": "OTOBOT Project Group",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/3/2024"
+   ]
+  },
+  {
+   "name": "Zhengzhou Nanbei Instrument Equipment Co. Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "Second Academy of Natural Science Foreign Affairs Bureau (SANS FAB)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "Ri Sung Chol (DPRK individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "Ardis Group of Companies LLC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "PFK Profpodshipnik, LLC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "Igor Aleksandrovich Michurin (Russian individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/14/2024"
+   ]
+  },
+  {
+   "name": "Asa’ib Ahl al-Haq (AAH)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023",
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Kata’ib Hezbollah",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "Asia-Invest LLC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "Charter Green Light Moscow (CGLM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "NPP Pulsar LLC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "Ayman Al Sabbagh Trading",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "Lebanese Hizballah",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023",
+    "Expired 09/23/2022",
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 06/28/18",
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Wael Issa Trading Establishment",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/29/2023"
+   ]
+  },
+  {
+   "name": "Ningbo Vet Energy Technology Co., Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 1/13/2023"
+   ]
+  },
+  {
+   "name": "Ningbo Zhongjun International Trade Co., Ltd. (NBZJ)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 1/13/2023"
+   ]
+  },
+  {
+   "name": "Rim Ryong Nam",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 1/13/2023"
+   ]
+  },
+  {
+   "name": "(North Korean individual in China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 1/13/2023"
+   ]
+  },
+  {
+   "name": "Gaobeidian Kaituo Precise Instrument Co. Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Luo Dingwen (Chinese individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022",
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Raybeam Optronics Co. Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022",
+    "Expired 05/14/21",
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Tungsten Online (Xiamen) Manu and Sales Corp",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps (IRGC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022",
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Al Jaysh al Sha’bi",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Fifth Border Guard Regiment",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Scientific Studies and Research Center (SSRC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022",
+    "Expired 04/30/20",
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Syrian Army",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 09/23/2022"
+   ]
+  },
+  {
+   "name": "Baoding Shimaotong Enterprises Services Company Limited (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Dandong Zhensheng Trade Co., Ltd. (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Gaobeidian Kaituo Precise Instrument Co. Ltd (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Shenzhen Tojoin Communications Technology Co. Ltd (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Shenzhen Xiangu High-Tech Co., Ltd (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Wong Myong Son (individual in China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Wuhan Sanjiang Import and Export Co., Ltd (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Kata’ib Sayyid al-Shuhada (KSS) (Iraq)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Kumertau Aviation Production Enterprise (Russia)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Instrument Building Design Bureau (KBP) Tula (Russia)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Scientific Production Association Mashinostroyeniya (NPOM) (Russia)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Eren Carbon Graphite Industrial Trading Company, Ltd. (Turkey)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 02/03/2022"
+   ]
+  },
+  {
+   "name": "Abascience Tech Col, Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Emily Liu (individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Hope Wish Technologies Inc.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Jiangsu Tianyuan Metal Powder Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Karl Lee",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 03/21/19",
+    "Expired on 12/19/16",
+    "Expired on 2/5/15",
+    "Expired on 12/20/13",
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Ricky Runling (individual)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Shanghai North Begins",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Sinotech (Dalian) Carbon and Graphite Corp. (SCGC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 03/21/19",
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Sun Creative Zhejiang Technologies Inc.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "T-Rubber Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Wuhan Sanjiang Import and Export Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Yenben Yansong Zaojiu Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Gatchina SAM Training Center",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Instrument Design Bureau (KBP) Tula",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired 04/30/20",
+    "Expired on 08/28/17",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Moscow Machine Building Plant Avangard (MMZ Avangard)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Megatrade",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21",
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Syrian Scientific Studies and Research Center",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 05/14/21"
+   ]
+  },
+  {
+   "name": "Easy Fashion Metal Products Trade Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Emily Liu",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Shanghai Rotech Pharmaceutical Engineering Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Sunway Tech Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Sakr Factory for Developmental Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Mojtaba Ghasemi",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps Qods Force (IRGC QF)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20",
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Pars Aviation Service Co. (PASC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Saeng Pil Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Second Economic Committee (SEC) Korea Ryonbong General Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Rosoboronexport (ROE)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20",
+    "Expired on 03/21/19",
+    "Expired on 06/28/18",
+    "Expired on 08/28/17",
+    "Expired on 5/21/10"
+   ]
+  },
+  {
+   "name": "183rd Guard Air Defense Missile Regiment",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Gatchina Surface-to-Air Missile Training Center",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "18th Central Scientific Research Institute (18th TsNII) Scientific Research Center (NITs) (Kursk)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Russian Research and Production Concern (BARL)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Seden Denizcilik Hizmeleri Sanayi de Ticaret Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Yona Star International",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 04/30/20"
+   ]
+  },
+  {
+   "name": "Ministry of Defense Directorate of Defense Industries (DDI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Beijing Zhong Ke Electric Co., Ltd. (ZKEC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Dalian Zhenghua Maoyi Youxian Gongsi",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Jack Qin",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19",
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Jack Wang",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Ningbo New Century Import and Export Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Shanghai Horse Construction",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Shenzhen Yataida High-Tech Co. Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Sky Rise Technology",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Special Defense Research Center (SDRC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Eritrean Navy",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Aerospace Industries Organization (AIO)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Saeng Pil Trading Corp. (SPTC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "150th Aircraft Repair Plant",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Aviaexport",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Bazalt",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Ulyanovsk Higher Aviation Academy of Civil Aviation (UVAUGA)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Ural Training Center for Civil Aviation (UUTsCA)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Zhukovskiy and Gagarin Academy (Z&G Academy)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Madar Yara Medical Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Giad Heavy Industries (GHI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Military Industries Corp. (MIC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Muhammad al-Husayn Yusuf",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Mabrooka Trading",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/21/19"
+   ]
+  },
+  {
+   "name": "Belvneshpromservice (BVPS)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Composite International",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Cosailing Business Trading Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Do Best Industry Co., Ltd",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Global Holding Group Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Ningbo Jiahe Trading Co., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Ningbo New Century",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Richard Yue",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Shanghai Electric International Economic & Trading Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Xi’an Jiate Titanium Industry Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Asaib ahl Haq (AAH)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Khata’ib Hezbollah (KH)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Islamic Revolutionary Guard Corps Qods Force",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Shahid Moghadam-Yazd Marine Industries (SMYM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Shiraz Electronic Industries (SEI) Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Budaya Kita Sdn Bhd (BK)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Mohammad Rafie Ab Malek",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Kay Marine Sdn. Bhd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Korea Namhung Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Saeng Pil Trading Corp. (STC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "General Department of Military Cooperation",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "150th Aircraft Repair Plant (ARZ) (Kaliningrad)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Instrument Building Design Bureau (KBP) Tula",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Kuntsevo Design Bureau",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "NPO Mashinostroyeniya (NPOM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Military Industrial Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Khartoum Industrial Complex (Giad)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Khartoum Military Industrial Complex (Yarmouk)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Vega Aeronautics and Engineering Company Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "Luwero Industries Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/28/18"
+   ]
+  },
+  {
+   "name": "BST Technology and Trade Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17",
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Tianjin Flourish Chemical Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Qasem Soleimani",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Iranian Revolutionary Guard Corps (IRGC) Qods Force",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Rock Chemie",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Polestar Trading Company, Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "RyonHap-2",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Joint Stock Co. Katod",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "JSC Mic NPO Mashinostroyenia (NPOM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Russian Aircraft Corp. (RAC) MiG",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17",
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Sudanese Armed Forces (SAF)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Vega Aeronautics",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Yarmouk Complex",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Ayman al Shaher",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Hizballah facilitators for logistics",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Multimat Ic ve Dis Ticaret Pazarlama Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Eliya General Trading",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/28/17"
+   ]
+  },
+  {
+   "name": "Al-Zargaa Engineering Complex (ZEC)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16",
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Belvneshpromservice (BVPT)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Geroi Rossii",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Giad Heavy Industries Complex",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Iran Electronics Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16",
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Milad Jafafri",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Ministry of Defense",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Ryongaksan",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Sudan Master Technologies",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Syrian Air Force Intelligence",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Syrian Electronic Warfare Directorate",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Venezuelan Military Industry Co. (CAVIM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16",
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Wah Cheong Tai Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/19/16"
+   ]
+  },
+  {
+   "name": "Poly Technologies Inc.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "China Precision Machinery Import and Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Marine Industries Organization",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Milad Jafari",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15",
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Scientific and Industrial Republic Unitary Enterprise",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "SMT Engineering",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "TM Services Ltd. (TMS)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/5/15"
+   ]
+  },
+  {
+   "name": "Belvneshpromservice",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/20/13"
+   ]
+  },
+  {
+   "name": "Green Pine Associated Companies",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/20/13"
+   ]
+  },
+  {
+   "name": "SAD Import-Export Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 12/20/13",
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Belarusian Optical Mechanical Association",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "BelTechExport",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13",
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "Dalian Zhongbang Chemical Industries Company",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Industrial Establishment of Defense",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Islamic Republic of Iran Shipping Lines (IRISL)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Shahid Bakeri Industries Group (SBIG)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13",
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "Tangun Trading",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Venezuela Military Industries Co. (CAVIM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Xian Junyun Electronic",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/23/13"
+   ]
+  },
+  {
+   "name": "Korea Mining Development Corp. (KOMID)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "Mr. Karl Lee (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "Shanghai Technical By-Products International (STBPI)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 07/14/12"
+   ]
+  },
+  {
+   "name": "China Shipbuilding and Offshore International Corp., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "China Xinshidai Company",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Huazhong CNC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Korea Taesong Trading Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "R and M International FZCO",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Sudan Master Technology",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Sudan Technical Center Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Venezuelan Military Industries Co. (CAVIM)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Yolin/Yullin Tech, Inc., Ltd.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/23/10"
+   ]
+  },
+  {
+   "name": "Innovative Equipment, and its sub-units and successors",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Luo Dongmei",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Universal Enterprise Limited, and",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "Hubei Huachangda Intelligent Equipment Company",
+   "status": "Active",
+   "measures": [
+    "Active"
+   ]
+  },
+  {
+   "name": "China Aerospace Science and Technology Corporation (CASC) First Academy, and its subunits and successors",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/21/2024"
+   ]
+  },
+  {
+   "name": "China Aerospace Science and Industry Corporation (CASIC) Fourth Academy, and its subunits and successors",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/21/2024"
+   ]
+  },
+  {
+   "name": "Poly Technologies Incorporated (PTI), and its subunits and successors",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 01/21/2024"
+   ]
+  },
+  {
+   "name": "Chilsong Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 01/31/20"
+   ]
+  },
+  {
+   "name": "Korea Kuryonggang Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired 01/31/20"
+   ]
+  },
+  {
+   "name": "Li Fangwei (China)",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 2/11/15"
+   ]
+  },
+  {
+   "name": "China North Industries Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/19/05"
+   ]
+  },
+  {
+   "name": "Computer & Communicatii SRL",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/05"
+   ]
+  },
+  {
+   "name": "Mikhail Vladov",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/09/05"
+   ]
+  },
+  {
+   "name": "China Metallurgical Equipment Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/01/03"
+   ]
+  },
+  {
+   "name": "National Development Complex",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/01/03"
+   ]
+  },
+  {
+   "name": "Ministry of Defense (Pakistan)",
+   "status": "Lifted or expired",
+   "measures": [
+    "All provisions expired as of 11/21/02"
+   ]
+  },
+  {
+   "name": "Space and Upper Atmosphere Research Commission",
+   "status": "Lifted or expired",
+   "measures": [
+    "All provisions expired as of 11/21/02",
+    "Expired on 06/25/93"
+   ]
+  },
+  {
+   "name": "Aerospace Industries Organziation",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/06/02"
+   ]
+  },
+  {
+   "name": "Ministry of Defense and Armed Forces",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 04/06/02"
+   ]
+  },
+  {
+   "name": "Arab-British Dynamics",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/23/01"
+   ]
+  },
+  {
+   "name": "Helwan Machinery and Equipment Co.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/23/01"
+   ]
+  },
+  {
+   "name": "Kader Factory for Developed Industries",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/23/01"
+   ]
+  },
+  {
+   "name": "Lyongaksan General Trading Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/06/99"
+   ]
+  },
+  {
+   "name": "Ministry of Defense Armed Forces Logistics",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/24/98"
+   ]
+  },
+  {
+   "name": "State Purchasing Office",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/24/98"
+   ]
+  },
+  {
+   "name": "Chinese Ministry of Aerospace Industry",
+   "status": "Lifted or expired",
+   "measures": [
+    "Waived on 11/01/94"
+   ]
+  },
+  {
+   "name": "Pakistani Ministry of Defense",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/24/95"
+   ]
+  },
+  {
+   "name": "Changgwang Credit Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/23/94",
+    "Expired on 03/06/94"
+   ]
+  },
+  {
+   "name": "Lyongaksan Machineries and Equipment Export Corp.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/23/94",
+    "Expired on 03/06/94"
+   ]
+  },
+  {
+   "name": "Syrian Scientific Research Center",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 06/23/94"
+   ]
+  },
+  {
+   "name": "Indian Space Research Organization",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 05/06/94"
+   ]
+  },
+  {
+   "name": "Iranian Ministry of Defense",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 03/06/94"
+   ]
+  },
+  {
+   "name": "ARMSCOR",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/27/93"
+   ]
+  },
+  {
+   "name": "Beta JSC",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/14/05"
+   ]
+  },
+  {
+   "name": "KAS Engineering Consortium/BMG-M OOD",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 10/14/05"
+   ]
+  },
+  {
+   "name": "Tula Design Bureau of Instrument Building",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 09/29/04",
+    "Expired on 08/13/03"
+   ]
+  },
+  {
+   "name": "Rostov Airframe Plant 168",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/13/03"
+   ]
+  },
+  {
+   "name": "The State Scientific Production Enterprise Bazalt",
+   "status": "Lifted or expired",
+   "measures": [
+    "Expired on 08/13/03"
+   ]
+  },
+  {
+   "name": "Alexander Petrenko",
+   "status": "Lifted or expired",
+   "measures": [
+    "Procurement ban ended 02/03, all other sanctions remain"
+   ]
+  },
+  {
+   "name": "Agroplast, a.s.",
+   "status": "Lifted or expired",
+   "measures": [
+    "Procurement ban ended 04/01/03, all other sanctions remain"
+   ]
+  },
+  {
+   "name": "Petr Pernicka",
+   "status": "Lifted or expired",
+   "measures": [
+    "Procurement ban ended 02/03, all other sanctions remain"
+   ]
+  },
+  {
+   "name": "Uralsk Plant Metallist",
+   "status": "Lifted or expired",
+   "measures": [
+    "Procurement ban ended 02/03, all other sanctions remain"
+   ]
+  },
+  {
+   "name": "Zbynek Svejnoha",
+   "status": "Lifted or expired",
+   "measures": [
+    "Procurement ban ended 02/03, all other sanctions remain"
+   ]
+  },
+  {
+   "name": "Tula Instrument Design Bureau",
+   "status": "Lifted or expired",
+   "measures": [
+    "Lifted 5/24/2010"
+   ]
+  },
+  {
+   "name": "TZNII Central Scientific Research Institute of Precision Machine Building",
+   "status": "Lifted or expired",
+   "measures": [
+    "procurement ban ended 2002, all other sanctions removed 4/1/04"
+   ]
+  },
+  {
+   "name": "Volsk Mechanical Plant",
+   "status": "Lifted or expired",
+   "measures": [
+    "procurement ban ended 2002, all other sanctions removed 4/1/04"
+   ]
+  }
+ ]
+}

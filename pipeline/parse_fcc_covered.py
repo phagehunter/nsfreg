@@ -13,18 +13,17 @@ import re
 import sys
 from html.parser import HTMLParser
 
-SOURCE = (
-    "../../nsf-prohibitions-july-2026/"
-    "Appendix A - U.S. Proscribed Party Lists/"
-    "U.S. Federal Communications Commission/"
-    "Equipment and Services Covered by Section 2 of The Secure Networks Act/"
-    "List of Equipment and Services Covered By Section 2 of The Secure Networks Act _ "
-    "Federal Communications Commission.html"
-)
-OUT = (
-    "../../nsf-prohibitions-july-2026/"
-    "2026-07-09-nsf-restricted-entities-site/data/fcc_covered.json"
-)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE_DIR, DATA_DIR  # noqa: E402
+
+# Raw sources resolve through common.py, which reads NSFREG_SOURCES; see
+# sources/README.md. Output always lands in this repository's data/ folder.
+SOURCE = str(
+    BASE_DIR / "U.S. Federal Communications Commission" /
+    "Equipment and Services Covered by Section 2 of The Secure Networks Act" /
+    ("List of Equipment and Services Covered By Section 2 of The Secure Networks Act _ "
+     "Federal Communications Commission.html"))
+OUT = str(DATA_DIR / "fcc_covered.json")
 
 
 class TableParser(HTMLParser):

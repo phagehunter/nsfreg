@@ -21,16 +21,14 @@ import re
 import sys
 from html.parser import HTMLParser
 
-SOURCE = (
-    "../../nsf-prohibitions-july-2026/"
-    "Appendix A - U.S. Proscribed Party Lists/"
-    "U.S. Department of Homeland Security/UFLPA Entity List/"
-    "UFLPA Entity List _ Homeland Security.html"
-)
-OUT = (
-    "../../nsf-prohibitions-july-2026/"
-    "2026-07-09-nsf-restricted-entities-site/data/dhs_uflpa.json"
-)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import BASE_DIR, DATA_DIR  # noqa: E402
+
+# Raw sources resolve through common.py, which reads NSFREG_SOURCES; see
+# sources/README.md. Output always lands in this repository's data/ folder.
+SOURCE = str(BASE_DIR / "U.S. Department of Homeland Security" /
+             "UFLPA Entity List" / "UFLPA Entity List _ Homeland Security.html")
+OUT = str(DATA_DIR / "dhs_uflpa.json")
 
 # Phrases that identify the four UFLPA list-category section headings
 CATEGORY_MARKERS = (
