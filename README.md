@@ -4,14 +4,15 @@
 
 A static, searchable guide to the U.S. restricted party lists covered by NSF's
 July 8, 2026 Dear Colleague Letter, **"Prohibition on Collaborations with
-Restricted Entities."** Search 5,900+ entries across all 13 lists (BIS Entity
-List, DoW Sec. 1260H & 1286, OFAC NS-CMIC, UFLPA, FCC Covered List, and more)
-in one place. Built for NSF-affiliated researchers and research administrators.
+Restricted Entities."** Search more than 5,900 entries across all 13 lists (BIS
+Entity List, DoW Sec. 1260H & 1286, OFAC NS-CMIC, UFLPA, FCC Covered List, and
+more). The guide is written for NSF-affiliated researchers and research
+administrators.
 Project led by [Curtis Hoffmann](https://curtishoffmann.com) —
 [share your feedback](https://forms.gle/FavcasB5Feao7jVG6).
 
-> **Independent.** This site is a community resource — not an NSF or U.S.
-> government website, not a compliance determination, and not legal advice.
+> **Independent.** This site is a community resource. It is not an NSF or U.S.
+> government website, not a compliance determination and not legal advice.
 > Every page links to the authoritative sources.
 
 ## What's inside
