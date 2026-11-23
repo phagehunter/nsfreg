@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """Parse the DHS UFLPA Entity List from a live-fetched copy of
 https://www.dhs.gov/uflpa-entity-list (fetched 2026-07-09; copy stored at
-data/source-uflpa-2026-07-09.html).
+data/source-uflpa-2026-07-09.html.txt).
+
+The copy is the page's HTML source kept under a .txt name on purpose: the
+repository root is published by GitHub Pages, and a .html file would be served
+as a live page, running the agency's analytics scripts under this site's
+address. As .txt it is served as plain text. Do not rename it back to .html.
 
 The page carries three tables, one per UFLPA statutory category:
   table 0 -> Sec. 2(d)(2)(B)(i)   (mine/produce/manufacture in Xinjiang)
@@ -21,7 +26,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_SRC = ROOT / "data" / "source-uflpa-2026-07-09.html"
+DEFAULT_SRC = ROOT / "data" / "source-uflpa-2026-07-09.html.txt"
 OUT = ROOT / "data" / "dhs_uflpa.json"
 
 CATEGORIES = [

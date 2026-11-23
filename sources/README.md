@@ -43,7 +43,7 @@ name, and the parser's own constant is where to change it.
 | `parse_state_nonproliferation.py` | `U.S. Department of State/Nonproliferation Sanctions/May-2025-Updated-Master-Sanctions.pdf` | The State Department's master nonproliferation sanctions table. Dated to the month only. |
 | `parse_fcc_covered.py` | `U.S. Federal Communications Commission/Equipment and Services Covered by Section 2 of The Secure Networks Act/List of Equipment and Services Covered By Section 2 of The Secure Networks Act _ Federal Communications Commission.html` | A browser-saved copy of the FCC Covered List page, saved as "Webpage, Complete". |
 | `parse_dhs_uflpa.py` | `U.S. Department of Homeland Security/UFLPA Entity List/UFLPA Entity List _ Homeland Security.html` | A browser-saved copy of the DHS UFLPA Entity List page. |
-| `parse_dhs_uflpa_live.py` | `data/source-uflpa-2026-07-09.html` (in the repository) | The live-fetched copy of the same DHS page, committed because it is small. This parser needs no download. |
+| `parse_dhs_uflpa_live.py` | `data/source-uflpa-2026-07-09.html.txt` (in the repository) | The live-fetched copy of the same DHS page, committed because it is small. This parser needs no download. It is the page's HTML source under a `.txt` name so that GitHub Pages serves it as plain text and not as a live page with the agency's scripts; keep the `.txt` ending. |
 
 The official URL for every list is in `data/lists.json` under `official_url`,
 and on the Lists page of the site.
